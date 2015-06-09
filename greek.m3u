@@ -171,8 +171,8 @@ rtmp://live.cretetv.gr/cretetv/myStream
 http://iphone-streaming.ustream.tv/uhls/9461248/streams/live/iphone/playlist.m3u8
 #EXTINF:0,NEA TV
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
-#EXTINF:0,CRETA WEB TV
-rtmp://94.23.218.186:1935/cretatv/cretatv
+#EXTINF:0,CRETA TV
+http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
 #EXTINF:0,DRAMA CHURCH
 http://xeeedramasx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,EVRIPOS TV
