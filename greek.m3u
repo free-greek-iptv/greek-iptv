@@ -219,12 +219,12 @@ rtmp://fls.8.c3.audiovideoweb.com:443/live/il81flslive3150
 http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
 #EXTINF:0,ELLINIKOS FM WEB TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
-#EXTINF:-0,KIDS TV
-http://wpso.com:200/kids
 #EXTINF:0,THLE MOUSIKH
 mmsh://wpso.com:200/music
 #EXTINF:0,WZRA
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphon/playlist.m3u8
+#EXTINF:-0,WZRA KIDS
+http://wpso.com:200/kids
 #EXTINF:0,ANT1 CY
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0,CY SPORTS
