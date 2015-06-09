@@ -24,6 +24,8 @@ http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
 #EXTINF:0,MEGA
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0,MEGA BUP
+rtmp://area61.better-than.tv:1935/ANYTV_USR_MEGA/MEGA.sdp
+#EXTINF:0,MEGA BUP 2
 http://94.23.218.186:1935/galanos1/galanos1/playlist.m3u8
 #EXTINF:0,ANT1
 http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
