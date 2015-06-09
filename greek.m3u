@@ -204,7 +204,7 @@ http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 #EXTINF:0,VOICE OF GOD
 http://www.voiceofgod.gr/streams/VoiceofGodHighGR.asx
 #EXTINF:0,ZOUGLA TV
-http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8
+http://zouglahd-f.akamaihd.net/z/zougla_1@56341/master.m3u8
 #EXTINF:0,CINEMA
 http://wpc.68FC.edgecastcdn.net/8068FC/INFINITY/m3u8/cinema.m3u8
 #EXTINF:0,MAX CINEMA
