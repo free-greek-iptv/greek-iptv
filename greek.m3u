@@ -28,7 +28,7 @@ http://94.23.218.186:1935/galanos1/galanos1/playlist.m3u8
 #EXTINF:0,ANT1
 http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
 #EXTINF:0,ALPHA
-http://136.243.33.4/alpha_gr.m3u8?token=7805013b86c25d25e1ab1a34cbca030a&user=12047&bands=906&os=browser&shift=0
+http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
 #EXTINF:0,STAR
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0,SKAI
