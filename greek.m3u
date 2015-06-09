@@ -116,7 +116,7 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:0,BHMA TV
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
 #EXTINF:0,CORFU CHANNEL
-http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphon/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphone/playlist.m3u8
 #EXTINF:0,EPIRUS TV1
 http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,ITV
@@ -224,7 +224,7 @@ http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/Ellin
 #EXTINF:0,THLE MOUSIKH
 http://iphone-streaming.ustream.tv/uhls/18655753/streams/live/iphone/playlist.m3u8
 #EXTINF:0,WZRA
-http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphon/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:-0,WZRA KIDS
 mmsh://wpso.com:200/kids
 #EXTINF:0,ANT1 CY
