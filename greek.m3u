@@ -146,7 +146,7 @@ http://xmaxtvdigitalx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,ORT
 rtmp://media.patrisnews.com:1935/patris/tvstream
 #EXTINF:0,IONIAN CHANNEL
-rtmp://stream8.upg.gr:1935/live/stream
+http://stream8.upg.gr:1935/live/stream/playlist.m3u8
 #EXTINF:0,SUPER B
 http://iphone-streaming.ustream.tv/uhls/20468277/streams/live/iphone/playlist.m3u8
 #EXTINF:0,AIGAIOTV
