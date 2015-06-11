@@ -12,11 +12,13 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
 #EXTINF:0,ERT2
 http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
 #EXTINF:-1,ERT3
-rtmp://live2.ertopen.com/live2/e600
+http://live2.ertopen.com/live2/e600/playlist.m3u8
 #EXTINF:0,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0,VOULI BUP
 http://206.222.31.146/Vouli
+#EXTINF:0,VOULI BUP 2
+mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0,ERT HD
 http://206.222.31.146/et1
 #EXTINF:0,ERT PROMO
