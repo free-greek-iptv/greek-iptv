@@ -243,3 +243,5 @@ http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0,KLIK FM WEB TV
 mms://live.istoikona.com/klikweb
+#EXTINF:0,REPLAY ON WEB
+rtsp://smooth2.istoikona.net:1935/live/replay
