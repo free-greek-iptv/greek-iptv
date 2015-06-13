@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0,EBS
-http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
-#EXTINF:0,EBS PLUS
-http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
-#EXTINF:0,EURONEWS
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0,ERT1
 http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
 #EXTINF:0,ERT1 BUP
@@ -55,6 +49,12 @@ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 rtmp://213.16.167.187:1935/live/mpegts_256.stream
 #EXTINF:0,M.TV
 rtmp://213.16.167.55/livepkgr/livestream
+#EXTINF:0,EBS
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
+#EXTINF:0,EBS PLUS
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
+#EXTINF:0,EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0,ODIE
 http://iphone-streaming.ustream.tv/uhls/14336927/streams/live/iphone/playlist.m3u8
 #EXTINF:0,ACTION24
@@ -226,7 +226,7 @@ http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
 #EXTINF:0,ELLINIKOS FM WEB TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:0,THLE MOUSIKH
-http://iphone-streaming.ustream.tv/uhls/18655753/streams/live/iphone/playlist.m3u8
+mmsh://wpso.com:200/music
 #EXTINF:0,WZRA
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:-0,WZRA KIDS
