@@ -11,8 +11,6 @@ http://live2.ertopen.com/live2/e600/playlist.m3u8
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0,ERT HD
 http://206.222.31.146/et1
-#EXTINF:0,ERT PROMO
-http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
 #EXTINF:0,MEGA
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0,MEGA BUP
@@ -53,6 +51,8 @@ http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0,ODIE
 http://iphone-streaming.ustream.tv/uhls/14336927/streams/live/iphone/playlist.m3u8
+#EXTINF:0,ERT PROMO
+http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
 #EXTINF:0,ACTION24
 http://stream-07.vty.dmcdn.net/12/dm/1/x2p626q/live.isml/events%28live-1431968405%29/live-audio=128000-video=400000.m3u8
 #EXTINF:0,BLUE SKY
