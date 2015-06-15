@@ -30,8 +30,6 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Alpha/Greek_Alpha.sdp
 #EXTINF:0,STAR
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0,STAR BUP
-http://xmobile102x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,STAR BUP 2
 rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Star/Greek_Star.sdp
 #EXTINF:0,SKAI
 rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
@@ -63,6 +61,8 @@ rtmp://cp86438.live.edgefcs.net:80/live/livestream6_292@41554
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 #EXTINF:0,KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:0,NICKELODEON
+http://xmobile102x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,SMILE
