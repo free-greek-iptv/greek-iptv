@@ -92,7 +92,7 @@ http://stream-07.vty.dmcdn.net/12/dm/1/x2p626q/live.isml/events%28live-143196840
 #EXTINF:0,ACTION24
 http://stream-07.vty.dmcdn.net/12/dm/1/x2p626q/live.isml/events%28live-1431968405%29/live-audio=128000-video=400000.m3u8
 #EXTINF:0,BLUE SKY
-rtmp://88.198.238.44:1935/live/bluesky
+http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 #EXTINF:0,CHANNEL 9
 rtmp://cp86438.live.edgefcs.net:80/live/livestream6_292@41554
 #EXTINF:0,EXTRA CHANNEL
