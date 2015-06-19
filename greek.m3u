@@ -58,7 +58,7 @@ rtmp://88.198.238.44:1935/live/bluesky
 #EXTINF:0,CHANNEL 9
 rtmp://cp86438.live.edgefcs.net:80/live/livestream6_292@41554
 #EXTINF:0,EXTRA CHANNEL
-rtmp://213.16.167.186:1935/live/mpegts_256.stream
+http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
 #EXTINF:0,KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0,NICKELODEON
@@ -166,7 +166,7 @@ rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:0,CRETA 
 http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
 #EXTINF:0,KPHTH TV
-rtmp://live.cretetv.gr/cretetv/myStream
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:0,KYDON
 http://iphone-streaming.ustream.tv/uhls/9461248/streams/live/iphone/playlist.m3u8
 #EXTINF:0,NEA TV
