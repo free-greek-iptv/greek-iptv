@@ -68,7 +68,7 @@ http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,SMILE
 http://ec2-54-162-205-148.compute-1.amazonaws.com:1935/live/a9f3ebc41be4eea1cc13f60627067c71/playlist.m3u8
 #EXTINF:0,4E
-rtmp://82.192.84.30:1935/live/myStream.sdp
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0,BERGINA
 http://195.81.140.68/4dc154b6133e5b071ca8f6bda1639987/VerginaStream1.m3u8
 #EXTINF:0,DION TV
