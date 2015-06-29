@@ -8,6 +8,8 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
 #EXTINF:0,ERT2
 http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
 #EXTINF:0,ERT3
+http://ert3-lh.akamaihd.net/z/live_1@329807/master.m3u8
+#EXTINF:0,ERT3 BUP
 http://live2.ertopen.com/live2/e600/playlist.m3u8
 #EXTINF:0,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -151,6 +153,8 @@ rtmp://streaming3.syzefxis.gov.gr/dimospeiraia/live1.stream
 rtmp://fml.68FC.edgecastcdn.net/2068FC/kissamos
 #EXTINF:0,KIVOTOS KISAMOS
 rtmp://streaming3.syzefxis.gov.gr/kisamos/live.stream
+#EXTINF:0,MAKELIO WEB TV
+http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
 #EXTINF:0,MANA ELLADA MUSIC WEB TV
 http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
 #EXTINF:0,MESSINIA WEB TV
