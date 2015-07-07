@@ -94,9 +94,7 @@ http://206.222.31.146/maxtv
 #EXTINF:0,NATURA CINEMA
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,[COLOR blue]ATTICA CHANNELS[/COLOR]
-http://stream-07.vty.dmcdn.net/12/dm/1/x2p626q/live.isml/events%28live-1431968405%29/live-audio=128000-video=400000.m3u8
-#EXTINF:0,ACTION24
-http://stream-07.vty.dmcdn.net/12/dm/1/x2p626q/live.isml/events%28live-1431968405%29/live-audio=128000-video=400000.m3u8
+http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 #EXTINF:0,CHANNEL 9
