@@ -68,9 +68,9 @@ rtsp://smooth2.istoikona.net:1935/live/replay
 #EXTINF:0,[COLOR blue]INTERNATIONAL CHANNELS WITH GREEK LANGUAGE AVAILABLE[/COLOR]
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0,EBS
-http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:0,EBS PLUS
-http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
 #EXTINF:0,EURONEWS
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0,[COLOR blue]GREEK SATELITE CHANNELS[/COLOR]
