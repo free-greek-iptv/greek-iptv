@@ -13,8 +13,6 @@ http://ert3-lh.akamaihd.net/z/live_1@329807/master.m3u8
 http://live2.ertopen.com/live2/e600/playlist.m3u8
 #EXTINF:0,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:0,ERT HD
-http://206.222.31.146/et1
 #EXTINF:0,MEGA
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0,MEGA BUP
