@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,[COLOR blue]PANHELLENIC TV CHANNELS[/COLOR]
 http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
+#EXTINF:0,N1
+http://nerit1-lh.akamaihd.net/i/live_1@42604/master.m3u8
 #EXTINF:0,ERT1
 http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
 #EXTINF:0,ERT1 BUP
