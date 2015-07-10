@@ -239,7 +239,7 @@ http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/10741054/streams/live/iphone/playlist.m3u8
 #EXTINF:0,[COLOR blue]CENTRAL HELLAS CHANNELS[/COLOR]
 #EXTINF:0,E TV
-rtmp://176.9.30.75:1935/live/epsilon
+http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:0,STAR K.E
 http://4.31.30.145:9080
 #EXTINF:0,[COLOR blue]PELOPONNESE CHANNELS[/COLOR]
