@@ -29,8 +29,6 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Alpha/Greek_Alpha.sdp
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0,STAR BUP
 rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Star/Greek_Star.sdp
-#EXTINF:0,STAR BUP 2
-http://xmobile102x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,SKAI
 rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
 #EXTINF:0,ART
