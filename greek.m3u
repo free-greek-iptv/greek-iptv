@@ -81,8 +81,6 @@ http://iphone-streaming.ustream.tv/uhls/14336927/streams/live/iphone/playlist.m3
 http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
-#EXTINF:0,CHANNEL 9
-rtmp://cp86438.live.edgefcs.net:80/live/livestream6_292@41554
 #EXTINF:0,EXTRA CHANNEL
 http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
 #EXTINF:0,KONTRA
