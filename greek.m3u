@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,[COLOR blue]PANHELLENIC TV CHANNELS[/COLOR]
-http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
 #EXTINF:0,ERT1
 http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
 #EXTINF:0,ERT1 BUP
@@ -47,8 +45,6 @@ rtmp://213.16.167.55/livepkgr/livestream
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0,N1
 http://nerit1-lh.akamaihd.net/i/live_1@42604/master.m3u8
-#EXTINF:0,[COLOR blue]CYPRIOT CHANNELS[/COLOR]
-http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0,ANT1 CY
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0,CY SPORTS
@@ -61,14 +57,10 @@ http://mlivenews.istoikona.net/livenews.isml/manifest(format=m3u8-aapl).m3u8
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0,SIGMA CY
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:0,[COLOR blue]CYPRIOT WEBTV CHANNELS[/COLOR]
-mms://live.istoikona.com/klikweb
 #EXTINF:0,KLIK FM WEB TV
 mms://live.istoikona.com/klikweb
 #EXTINF:0,REPLAY ON WEB
 rtsp://smooth2.istoikona.net:1935/live/replay
-#EXTINF:0,[COLOR blue]HELLENIC CINEMA AND SERIES CHANNELS[/COLOR]
-http://wpc.68FC.edgecastcdn.net/8068FC/INFINITY/m3u8/cinema.m3u8
 #EXTINF:0,CINEMA
 http://184.173.181.2:1935/8088/8088/playlist.m3u8
 #EXTINF:0,GREEK CINEMA
@@ -79,24 +71,16 @@ http://206.222.31.146/maxtv
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,TV GOLD
 mms://tvgold.webcast.mediacdn.com/tvgold
-#EXTINF:0,[COLOR blue]INTERNATIONAL CHANNELS WITH GREEK LANGUAGE AVAILABLE[/COLOR]
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0,EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:0,EBS PLUS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
 #EXTINF:0,EURONEWS
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
-#EXTINF:0,[COLOR blue]GREEK SATELITE CHANNELS[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/14336927/streams/live/iphone/playlist.m3u8
 #EXTINF:0,ODIE
 http://iphone-streaming.ustream.tv/uhls/14336927/streams/live/iphone/playlist.m3u8
-#EXTINF:0,[COLOR blue]EPT WEBTV CHANNELS[/COLOR]
-http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
 #EXTINF:0,ERT PROMO
 http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
-#EXTINF:0,[COLOR blue]ATTICA CHANNELS[/COLOR]
-http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 #EXTINF:0,CHANNEL 9
@@ -109,8 +93,6 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,SMILE
 http://ec2-54-162-205-148.compute-1.amazonaws.com:1935/live/a9f3ebc41be4eea1cc13f60627067c71/playlist.m3u8
-#EXTINF:0,[COLOR blue]HELLENIC CHANNELS IN USA[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:0,AGIOS GEORGIOS HUDSON WEB TV
 http://iphone-streaming.ustream.tv/uhls/20366895/streams/live/iphone/playlist.m3u8
 #EXTINF:0,AGIOS NIKOLAOS CINCINATI WEB TV
@@ -125,8 +107,6 @@ mmsh://wpso.com:200/music
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:-0,WZRA KIDS
 mmsh://wpso.com:200/kids
-#EXTINF:0,[COLOR blue]HELLENIC WEBTV CHANNELS[/COLOR]
-http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 #EXTINF:0,AKRITES TV
 http://iphone-streaming.ustream.tv/uhls/20021565/streams/live/iphone/playlist.m3u8
 #EXTINF:0,BIBLE LIVE
@@ -171,8 +151,6 @@ http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 mmsh://media.voiceofgod.gr/VoiceofGod300GR
 #EXTINF:0,ZOUGLA TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
-#EXTINF:0,[COLOR blue]MACEDONIAN CHANNELS[/COLOR]
-http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
 #EXTINF:0,4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0,BERGINA
@@ -215,8 +193,6 @@ http://iphone-streaming.ustream.tv/uhls/18477664/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
 #EXTINF:0,WEST CHANNEL
 http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
-#EXTINF:0,[COLOR blue]EPIRUS AND WEST HELLAS CHANNELS[/COLOR]
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:0,ART TV
 http://iphone-streaming.ustream.tv/uhls/6875027/streams/live/iphone/playlist.m3u8
 #EXTINF:0,AXELWOS TV
@@ -229,21 +205,16 @@ http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphone/playlist.m3u
 http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,ITV
 http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
-#EXTINF:0,[COLOR blue]THESSALY CHANNELS[/COLOR]
-http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,ASTRA TV
 http://www.astratv.gr:8090/hls/livestream/index.m3u8
 #EXTINF:0,TRT TV
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,TV10
 http://iphone-streaming.ustream.tv/uhls/10741054/streams/live/iphone/playlist.m3u8
-#EXTINF:0,[COLOR blue]CENTRAL HELLAS CHANNELS[/COLOR]
 #EXTINF:0,E TV
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:0,STAR K.E
 http://4.31.30.145:9080
-#EXTINF:0,[COLOR blue]PELOPONNESE CHANNELS[/COLOR]
-http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0,BEST TV
 http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8     
 #EXTINF:0,DR TV
@@ -260,8 +231,6 @@ rtmp://media.patrisnews.com:1935/patris/tvstream
 http://stream8.upg.gr:1935/live/stream/playlist.m3u8
 #EXTINF:0,SUPER B
 http://iphone-streaming.ustream.tv/uhls/20468277/streams/live/iphone/playlist.m3u8
-#EXTINF:0,[COLOR blue]AEAGEAN CHANNELS[/COLOR]
-http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,AIGAIOTV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,IRIDA TV
@@ -278,8 +247,6 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 http://77.92.76.135:1935/jayzee/livestream/playlist.m3u8
 #EXTINF:0,TV MYTILINI
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
-#EXTINF:0,[COLOR blue]CRETAN CHANNELS[/COLOR]
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:0,CRETA 
 http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
 #EXTINF:0,KPHTH TV
