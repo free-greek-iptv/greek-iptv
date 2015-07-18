@@ -63,6 +63,8 @@ rtsp://smooth2.istoikona.net:1935/live/replay
 http://184.173.181.2:1935/8088/8088/playlist.m3u8
 #EXTINF:0,GREEK CINEMA
 http://wpc.68FC.edgecastcdn.net/8068FC/INFINITY/m3u8/cinema.m3u8
+#EXTINF:0,LAMPSI TV
+http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:0,MAX CINEMA
 http://206.222.31.146/maxtv
 #EXTINF:0,NATURA CINEMA
