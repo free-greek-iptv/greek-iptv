@@ -38,7 +38,7 @@ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0,E BUP
 rtmp://213.16.167.187:1935/live/mpegts_256.stream
 #EXTINF:0,M.TV
-rtmp://213.16.167.55/livepkgr/livestream
+http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0,VOULI BUP
