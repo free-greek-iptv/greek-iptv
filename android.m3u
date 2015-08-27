@@ -209,8 +209,6 @@ http://xeeedramasx.api.channel.livestream.com/3.0/playlist.m3u8
 http://xevriposnewsx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="Web TV" tvg-logo="",EXOMBOURGO TV
 http://iphone-streaming.ustream.tv/uhls/19160825/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Web TV" tvg-logo="",EYRIS FM KILKIS WEB TV
-http://xeyriskilkisx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="Web TV" tvg-logo="http://i.imgur.com/xV6wnHt.png",FAROS WEB TV
 http://xwebtvfarosx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="Web TV" tvg-logo="http://i.imgur.com/u2gyuP4.png",FOS
@@ -225,7 +223,7 @@ rtmp://streaming3.syzefxis.gov.gr/dimospeiraia/live1.stream
 rtmp://streaming3.syzefxis.gov.gr/kisamos/live.stream
 #EXTINF:0, group-title="Web TV" tvg-logo="http://i.imgur.com/SgimJLO.png",KLIK FM WEB TV
 http://smooth2.istoikona.net:1935/live/klikfm/master.m3u8
-#EXTINF:0, group-title="Web TV" tvg-logo="",MAKELEIO WEB TV
+#EXTINF:0, group-title="Web TV" tvg-logo="http://i.imgur.com/hPdgme1.png",MAKELEIO WEB TV
 http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
 #EXTINF:0, group-title="Web TV" tvg-logo="",MANA ELLADA WEB TV
 http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
