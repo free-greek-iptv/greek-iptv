@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,ERT1 group-title="Πανελλαδικά" tvg-logo=""
+#EXTINF:0,ERT1 group-title="Πανελλαδικά" tvg-logo="https://upload.wikimedia.org/wikipedia/el/archive/8/8b/20150611113127!ERT1.png"
 http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
 #EXTINF:0,ERT1 BUP group-title="Πανελλαδικά" tvg-logo=""
 rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
