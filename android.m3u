@@ -3,11 +3,11 @@
 http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP
 rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ERT2
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2
 http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ERT3
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ERT3 BUP
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3 BUP
 http://live2.ertopen.com/live2/e600/playlist.m3u8
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",MEGA
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
@@ -57,7 +57,7 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
 #EXTINF:0, group-title="Λοιπά" tvg-logo="",ODIE
 http://iphone-streaming.ustream.tv/uhls/14336927/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Λοιπά" tvg-logo="",ERT PROMO
+#EXTINF:0, group-title="Λοιπά" tvg-logo="http://i.imgur.com/NwKzRtH.png",ERT PROMO
 http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
 #EXTINF:0, group-title="Λοιπά" tvg-logo="",WZRA
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
@@ -105,7 +105,7 @@ http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 http://195.81.140.68/4dc154b6133e5b071ca8f6bda1639987/VerginaStream1.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/q2Boe7n.png",DION TV
 http://iphone-streaming.ustream.tv/uhls/3839112/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",EUROPE ONE
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/a4W67aA.png",EUROPE ONE
 http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",TV THESSALONIKI
 http://xthessalonikitelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
