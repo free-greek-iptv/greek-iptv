@@ -15,15 +15,15 @@ http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 rtmp://area61.better-than.tv:1935/ANYTV_USR_MEGA/MEGA.sdp
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",MEGA BUP 2
 http://94.23.218.186:1935/galanos1/galanos1/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ANT1
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1
 http://antennatv-lh.akamaihd.net/z/live_1@329667/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ANT1 BUP
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 BUP
 rtmp://area61.better-than.tv:1935/ANYTV_USR_ANT1/ANT1.sdp
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ANT1 BUP 2
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 BUP 2
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/Acqrn4T.jpg",ALPHA
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA
 http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/Acqrn4T.jpg",ALPHA BUP
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA BUP
 rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Alpha/Greek_Alpha.sdp
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",STAR
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
@@ -45,7 +45,7 @@ http://stream.maktv.gr/i/live_1@332903/master.m3u8
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0, group-title="Παγκύπρια" tvg-logo="",MEGA CY
 http://smooth2.istoikona.net:1935/live/livenews 2/playlist.m3u8
-#EXTINF:0, group-title="Παγκύπρια" tvg-logo="",ANT1 CY
+#EXTINF:0, group-title="Παγκύπρια" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0, group-title="Παγκύπρια" tvg-logo="",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
@@ -121,7 +121,7 @@ http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u
 http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",TV EPILOGES
 http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/yMPAiaq.png",KANALI 6
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/7n5PZua.gif",KANALI 6
 http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",R CHANNEL
 http://xrodopi_tvx.api.channel.livestream.com/3.0/playlist.m3u8
