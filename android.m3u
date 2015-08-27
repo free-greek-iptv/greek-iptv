@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ERT1
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
 http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ERT1 BUP
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP
 rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ERT2
 http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
@@ -35,7 +35,7 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0, group-title="Μουσική" tvg-logo="",JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ART
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://i.imgur.com/Comxiil.png",ART
 http://iphone-streaming.ustream.tv/uhls/19497341/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",E
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
@@ -51,9 +51,9 @@ rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="Παγκύπρια" tvg-logo="",CY SPORTS
 http://mlivenews.istoikona.net/cysports.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0, group-title="Λοιπά" tvg-logo="",EBS
+#EXTINF:0, group-title="Λοιπά" tvg-logo="http://i.imgur.com/EgfSO9e.jpg",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
-#EXTINF:0, group-title="Λοιπά" tvg-logo="",EBS PLUS
+#EXTINF:0, group-title="Λοιπά" tvg-logo="http://i.imgur.com/fbQoraI.jpg",EBS PLUS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
 #EXTINF:0, group-title="Λοιπά" tvg-logo="",ODIE
 http://iphone-streaming.ustream.tv/uhls/14336927/streams/live/iphone/playlist.m3u8
@@ -65,7 +65,7 @@ http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",VOULI BUP
 mms://media19.internet.gr/ParliamentTV-HQ
-#EXTINF:0, group-title="Μουσική" tvg-logo="",ELLINIKOS FM WEB TV
+#EXTINF:0, group-title="Μουσική" tvg-logo="http://i.imgur.com/gbg8cvH.gif",ELLINIKOS FM WEB TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:0, group-title="Μουσική" tvg-logo="",MAD CY
 rtmp://144.76.2.213/live/livestream
@@ -103,7 +103,7 @@ http://ec2-54-162-205-148.compute-1.amazonaws.com:1935/live/a9f3ebc41be4eea1cc13
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",BERGINA
 http://195.81.140.68/4dc154b6133e5b071ca8f6bda1639987/VerginaStream1.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",DION TV
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/q2Boe7n.png",DION TV
 http://iphone-streaming.ustream.tv/uhls/3839112/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",EUROPE ONE
 http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
@@ -111,15 +111,15 @@ http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3
 http://xthessalonikitelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",TV-100 
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",CENTER TV
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/KsuZzTA.png",CENTER TV
 http://xjimhatzogloux.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",DELTA TV
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/5fAgbi5.png",DELTA TV
 mms://deltatv1.dyndns.org:1194
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",DIKTYO TV
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",ENA CHANNEL
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/QTqlToQ.png",ENA CHANNEL
 http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",TV EPILOGES
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/dPYhckT.png",TV EPILOGES
 http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/7n5PZua.gif",KANALI 6
 http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
@@ -135,31 +135,31 @@ http://iphone-streaming.ustream.tv/uhls/18477664/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",WEST CHANNEL
 http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",ART TV
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/xZp3KPX.jpg",ART TV
 http://iphone-streaming.ustream.tv/uhls/6875027/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",AXELWOS TV
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/YBUSGLZ.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",BHMA TV
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",CORFU CHANNEL
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/TXIKksH.jpg",CORFU CHANNEL
 http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",EPIRUS TV1
 http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",ITV
 http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",ASTRA TV
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/DFeXxxO.png",ASTRA TV
 rtmp://www.astratv.gr:1935/astratv/livestream
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",TRT TV
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",TV10
 http://iphone-streaming.ustream.tv/uhls/10741054/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",E TV
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/KLmxIkp.gif",E TV
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",STAR K.E
 http://4.31.30.145:9080
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",BEST TV
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/42SLIiT.png",BEST TV
 http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8     
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",DR TV
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/Wpl03si.png",DR TV
 http://xdrtvhellasx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",LYXNOC
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
@@ -171,7 +171,7 @@ rtmp://media.patrisnews.com:1935/patris/tvstream
 http://iphone-streaming.ustream.tv/uhls/20468277/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/GlBCmAc.png",AIGAIOTV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",IRIDA TV
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/X0Z1Zlp.png",IRIDA TV
 mms://212.251.44.111:27030
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",OMEGA TELEVISION
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
@@ -183,7 +183,7 @@ rtsp://edge.vidblee.com:80/tvkosmos/tvkosmos.mp4
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",TV MYTILINI
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
-#EXTINF:0, group-title="Τοπικά" tvg-logo="",CRETA 
+#EXTINF:0, group-title="Τοπικά" tvg-logo="http://i.imgur.com/TRoDLc2.png",CRETA 
 http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
 #EXTINF:0, group-title="Τοπικά" tvg-logo="",KPHTH TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
