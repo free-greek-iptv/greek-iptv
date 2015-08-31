@@ -35,6 +35,14 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/SO8DEx3.png",OTE CINEMA 1 HD
+http://144.76.234.231/otecinema1_gr.m3u8?bandwidth=606&token=dab0d3821fbb36080a79001f53eba0e3&user=12047&playlistlength=25&os=browser
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/ft8bVDm.png",OTE CINEMA 3
+http://144.76.234.231/otecinema3_gr.m3u8?bandwidth=606&token=73903223415c49c6d018936019c00e98&user=12047&playlistlength=25&os=browser
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/3ux7Xar.png,VILLAGE CINEMA HD
+http://144.76.234.231/village_gr.m3u8?token=543bff207e24654a0a2c5ffad651c5ba&user=12047&bands=606&os=browser&shift=0
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/K6ClqY2.png",NAT GEO
+http://148.251.195.120/nat_geo_gr.m3u8?bandwidth=606&token=fef6ef445f3a36bb708cf2699b78fcf1&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART
 http://iphone-streaming.ustream.tv/uhls/19497341/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E
@@ -47,6 +55,8 @@ http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 http://smooth2.istoikona.net:1935/live/livenews 2/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/z7WpvaF.png",PLUS
+http://144.76.234.231/plus_cy.m3u8?bandwidth=606&token=bd57c2e77a93f6a5c410003cb1bb1987&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/qVhjZYR.png",CY SPORTS
@@ -203,7 +213,7 @@ http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
 http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="",REPLAY ON WEB
 rtsp://smooth2.istoikona.net:1935/live/replay
-#EXTINF:0, group-title="WEB TV" tvg-logo="",MANA ELLADA WEB TV
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/XbAzQTz.jpg",MANA ELLADA WEB TV
 http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/qHJDYRc.png",AKRITES TV
 http://iphone-streaming.ustream.tv/uhls/20021565/streams/live/iphone/playlist.m3u8
