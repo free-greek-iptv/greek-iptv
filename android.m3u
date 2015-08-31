@@ -37,12 +37,16 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/SO8DEx3.png",OTE CINEMA 1 HD
 http://144.76.234.231/otecinema1_gr.m3u8?bandwidth=606&token=dab0d3821fbb36080a79001f53eba0e3&user=12047&playlistlength=25&os=browser
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/fczu1nD.png",OTE CINEMA 2
+http://144.76.234.231/otecinema2_gr.m3u8?bandwidth=606&token=3c9749d4831d1cbfba0105fbe00af598&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/ft8bVDm.png",OTE CINEMA 3
 http://144.76.234.231/otecinema3_gr.m3u8?bandwidth=606&token=73903223415c49c6d018936019c00e98&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/3ux7Xar.png,VILLAGE CINEMA HD
 http://144.76.234.231/village_gr.m3u8?token=543bff207e24654a0a2c5ffad651c5ba&user=12047&bands=606&os=browser&shift=0
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/K6ClqY2.png",NAT GEO
 http://148.251.195.120/nat_geo_gr.m3u8?bandwidth=606&token=fef6ef445f3a36bb708cf2699b78fcf1&user=12047&playlistlength=25&os=browser
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/rxIlMQj.png",NAT GEO WILD HD
+http://148.251.195.120/nat_geo_wild_gr.m3u8?bandwidth=606&token=88c2f1450e7dbf22c3a61ddbedf91a84&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART
 http://iphone-streaming.ustream.tv/uhls/19497341/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E
