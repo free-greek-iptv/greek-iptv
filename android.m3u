@@ -255,3 +255,5 @@ rtmp://streaming3.syzefxis.gov.gr/kisamos/live.stream
 http://vod-03.viewer.dacast.com/i/unsecure/10736/10736_,164491.mp4,.csmil/master.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/wgTBmRd.png",VOICE OF GOD
 mmsh://media.voiceofgod.gr/VoiceofGod300GR
+#EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",MOBILE102
+http://xmobile102x.api.channel.livestream.com/3.0/playlist.m3u8
