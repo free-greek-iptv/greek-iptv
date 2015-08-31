@@ -67,6 +67,8 @@ rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 http://144.76.234.231/plus_cy.m3u8?bandwidth=606&token=bd57c2e77a93f6a5c410003cb1bb1987&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP
+http://144.76.234.231/sigma_cy.m3u8?bandwidth=606&token=0770242d9d0f37087233ae5a32c4b43f&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/qVhjZYR.png",CY SPORTS
 http://mlivenews.istoikona.net/cysports.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/EgfSO9e.jpg",EBS
