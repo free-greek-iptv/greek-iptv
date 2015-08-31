@@ -7,8 +7,8 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
 http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3 BUP
-http://live2.ertopen.com/live2/e600/playlist.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/aeiWLFk.png",ERT HD
+http://136.243.33.4/nerit_hd_gr.m3u8?bandwidth=606&token=bd1d5b41ba4b9efdec5a2146d9d3d6b7&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA BUP
@@ -29,8 +29,12 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Alpha/Greek_Alpha.sdp
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP
 rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Star/Greek_Star.sdp
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP 2
+http://136.243.33.4/star_gr.m3u8?bandwidth=606&token=f09f89e7bada67bd6e44d4a9e5b4cb42&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/dFWzZJW.png",SKAI
 rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/dFWzZJW.png",SKAI BUP
+http://136.243.33.4/skai_gr.m3u8?bandwidth=606&token=65666802c505d0e8bfac195840c3c03a&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE
