@@ -55,8 +55,6 @@ http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 http://148.251.195.120/mad_gr.m3u8?bandwidth=606&token=bc69b409925c20ae47a4383b20961107&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/qVhjZYR.png",CY SPORTS
-http://mlivenews.istoikona.net/cysports.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/YEzrAQh.png",LAMPSI TV
 http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="",CINEMA
@@ -83,6 +81,8 @@ http://144.76.234.231/extra_cy.m3u8?bandwidth=606&token=c29d54286f26b84749f7aabc
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD CY
 rtmp://144.76.2.213/live/livestream
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/qVhjZYR.png",CY SPORTS
+http://mlivenews.istoikona.net/cysports.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/EgfSO9e.jpg",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/fbQoraI.jpg",EBS PLUS
