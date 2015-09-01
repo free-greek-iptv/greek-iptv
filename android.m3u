@@ -51,8 +51,22 @@ http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD GR
+http://148.251.195.120/mad_gr.m3u8?bandwidth=606&token=bc69b409925c20ae47a4383b20961107&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/qVhjZYR.png",CY SPORTS
+http://mlivenews.istoikona.net/cysports.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/YEzrAQh.png",LAMPSI TV
+http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
+#EXTINF:0, group-title="CINEMA" tvg-logo="",CINEMA
+http://184.173.181.2:1935/8088/8088/playlist.m3u8
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/002xfYl.png",MAX CINEMA
+http://206.222.31.146/maxtv
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/kMaZG23.png",NATURA CINEMA
+http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/6xRxPun.png",TV GOLD
+mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
@@ -67,8 +81,8 @@ http://144.76.234.231/capital_cy.m3u8?bandwidth=606&token=f101ca8b0dec12445f025d
 http://144.76.234.231/extra_cy.m3u8?bandwidth=606&token=c29d54286f26b84749f7aabc3f477d6b&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/qVhjZYR.png",CY SPORTS
-http://mlivenews.istoikona.net/cysports.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD CY
+rtmp://144.76.2.213/live/livestream
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/EgfSO9e.jpg",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/fbQoraI.jpg",EBS PLUS
@@ -85,24 +99,12 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/gbg8cvH.gif",ELLINIKOS FM WEB TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD CY
-rtmp://144.76.2.213/live/livestream
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/qJ3eJJM.png",MESSINIA WEB TV
 rtmp://176.9.123.140:1935/messinia/messinia
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/OsHtEmW.png",RYTHMOS FM WEB TV
 rtmp://213.16.167.54:1935/live/watchlive
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/qGx8pCh.png",THLE MOUSIKH
 mmsh://wpso.com:200/music
-#EXTINF:0, group-title="CINEMA" tvg-logo="",CINEMA
-http://184.173.181.2:1935/8088/8088/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/YEzrAQh.png",LAMPSI TV
-http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/002xfYl.png",MAX CINEMA
-http://206.222.31.146/maxtv
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/kMaZG23.png",NATURA CINEMA
-http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/6xRxPun.png",TV GOLD
-mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/dZm6MvB.png",HELLAS TV
 rtmp://176.9.123.140:1935/leveltgp/leveltgp
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/S3NPnFf.png",GRATV
@@ -115,8 +117,6 @@ http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 http://ec2-54-162-205-148.compute-1.amazonaws.com:1935/live/a9f3ebc41be4eea1cc13f60627067c71/playlist.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/Dd2xxbo.png",WZRA KIDS
 mmsh://wpso.com:200/kids
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD GR
-http://148.251.195.120/mad_gr.m3u8?bandwidth=606&token=bc69b409925c20ae47a4383b20961107&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/aSbiRC1.png",BERGINA
