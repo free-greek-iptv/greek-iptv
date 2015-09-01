@@ -93,10 +93,6 @@ http://iphone-streaming.ustream.tv/uhls/14336927/streams/live/iphone/playlist.m3
 http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/xPK6Stv.png",WZRA
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI
-http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI BUP
-mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/gbg8cvH.gif",ELLINIKOS FM WEB TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/qJ3eJJM.png",MESSINIA WEB TV
@@ -181,6 +177,10 @@ http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8
 http://xdrtvhellasx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Glp0YiN.png",LYXNOC
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI BUP
+mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7780smV.png",MAX TV
 http://xmaxtvdigitalx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/sY1grRj.png",ORT
