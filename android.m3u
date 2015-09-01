@@ -7,6 +7,8 @@ rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
 http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3 BUP
+http://live2.ertopen.com/live2/e600/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/aeiWLFk.png",ERT HD
 http://136.243.33.4/nerit_hd_gr.m3u8?bandwidth=606&token=bd1d5b41ba4b9efdec5a2146d9d3d6b7&user=12047&playlistlength=25&os=browser
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA
