@@ -253,3 +253,55 @@ http://eco.onestreaming.com:8081/;
 http://50.7.173.162:8204/;
 #EXTINF:0,1431 AM 1431
 http://155.207.18.114:8000/1431med
+#EXTINF:0,KISS FM 89
+http://live3.istoikona.net:8195/;stream.nsv
+#EXTINF:0,KANALI 7 91.8
+http://live.kanali7.com:4012/;stream.nsv
+#EXTINF:0,RADIO ASTRA 92.8
+http://radio.dialogos.com.cy:8000/stream
+#EXTINF:0,DEEJAY RADIO 93.5
+http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/playlist.m3u8
+#EXTINF:0,RADIO PAPHOS 93.7
+http://213.149.180.233:88/broadwave.mp3
+#EXTINF:0,STAR FM 93.7
+http://eco.onestreaming.com:8538/;stream.nsv
+#EXTINF:0,RADIO APOSTOLOS ANTREAS 94.5
+mms://217.27.32.232:1755
+#EXTINF:0,RADIO KOSMOS 95.2
+http://50.22.219.97:34470/;.mp3
+#EXTINF:0,CUT RADIO 95.2
+http://radio.cut.ac.cy:8000/cutradio
+#EXTINF:0,ZENITH RADIO 96.4
+mms://live.istoikona.com/zenith
+#EXTINF:0,RADIO SFERA 96.8
+http://live3.istoikona.net:8193/;stream.nsv
+#EXTINF:0,KLIK FM 98.2
+http://go.erad.io/asx/klik.asx
+#EXTINF:0,ROCK FM 98.5
+http://live3.istoikona.net:8278/;stream.nsv
+#EXTINF:0,RADIO 99 FM 99
+http://81.4.181.74:88/broadwave.mp3
+#EXTINF:0,LOVE FM 100.7
+http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8
+#EXTINF:0,RADIO CAPITAL 101.4
+http://81.4.144.146:8000/live
+#EXTINF:0,O LOGOS 101.6
+mmsh://live.istoikona.com/logos?MSWMExt=.asf
+#EXTINF:0,MIX FM 102.3
+http://eco.onestreaming.com:8127/;stream.nsv
+#EXTINF:0,ANT1 CY FM 102.7
+http://eco.onestreaming.com:8133/;stream.nsv
+#EXTINF:0,DROMOS FM CY 102.9
+mms://stream-push2.live24.gr/dromoscyprus
+#EXTINF:0,MELODY RADIO 103.1
+http://liveaudio.virtualict.com:8000/;stream.nsv
+#EXTINF:0,SUPER SPOR FM CY 104
+http://sportfm-cyprus.live24.gr/sportfm-cyprus
+#EXTINF:0,RADIO ASTRA 105.3
+http://radio.dialogos.com.cy:8000/stream
+#EXTINF:0,KANALI 6 106
+http://stream.dnsgb.net:8012/;stream.nsv
+#EXTINF:0,RADIO POLITEIA 106.7
+http://46.165.195.133:8145/;stream.nsv
+#EXTINF:0,POLITIS 107.6
+http://live3.istoikona.com:8199/;stream.nsv
