@@ -9,7 +9,7 @@ http://nerit3radio-lh.akamaihd.net/i/trito_1@123329/master.m3u8
 http://erasport-lh.akamaihd.net/i/live_1@326375/master.m3u8
 #EXTINF:0,KOSMOS 93.6
 http://nerit4radio-lh.akamaihd.net/i/kosmos_1@123354/master.m3u8
-#EXTINF:0,I FONI TIS ELLADAS
+#EXTINF:0,I FONI TIS ELLADAS 7475
 http://voiceofgreece-lh.akamaihd.net/i/live_1@326376/master.m3u8
 #EXTINF:0,ERT3 958 95.8
 http://958fm-lh.akamaihd.net/i/live_1@359477/master.m3u8
@@ -305,3 +305,33 @@ http://stream.dnsgb.net:8012/;stream.nsv
 http://46.165.195.133:8145/;stream.nsv
 #EXTINF:0,POLITIS 107.6
 http://live3.istoikona.com:8199/;stream.nsv
+#EXTINF:0,HELLAS FM
+http://206.190.136.140:7257/;
+#EXTINF:0,LGR 103.3
+http://live3.istoikona.net:8203/stream
+#EXTINF:0,ELLINIKOS FM FM
+http://85.17.75.171/ellinikosfm
+#EXTINF:0,CGR
+http://216.235.85.20/play?s=chicagogreekradio
+#EXTINF:0,TCGH
+http://173.165.1.213:8000/;stream.mp3
+#EXTINF:0,HELLENIC RADIO
+http://usa7.fastcast4u.com:5997/;
+#EXTINF:0,RADIO FUSION
+http://50.7.71.219:7678/stream
+#EXTINF:0,RADIO SYMBAN 151.675
+http://s4.onweb.gr:8430/;
+#EXTINF:0,SFINAKIA FM 97.3
+http://70.167.242.173:8080/;
+#EXTINF:0,WXYB 1520
+http://wpso.com:7071/;
+#EXTINF:0,WPSO 1500
+http://wpso.com:8000/
+#EXTINF:0,MANA ELLADA
+http://198.154.106.101:8348/;?1441962080856.mp3
+#EXTINF:0,RADIO ENA 87.6
+http://radio1.internode.on.net:8002/51
+#EXTINF:0,HELLENIC RADIO
+http://216.246.37.52:8044/listen.pls
+#EXTINF:0,GREEK WEB RADIO
+http://gwr.no-ip.biz:8000/;?1441963051597.mp3
