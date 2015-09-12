@@ -219,6 +219,8 @@ http://iphone-streaming.ustream.tv/uhls/19160825/streams/live/iphone/playlist.m3
 rtmp://streaming3.syzefxis.gov.gr/dimospeiraia/live1.stream
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/SgimJLO.png",KLIK FM WEB TV
 http://smooth2.istoikona.net:1935/live/klikfm/master.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/x4iiLEs.png",RADIO VERENIKI WEB TV
+http://iphone-streaming.ustream.tv/uhls/7948248/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="",AGIOS GEORGIOS HUDSON WEB TV
 http://iphone-streaming.ustream.tv/uhls/20366895/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="",AGIOS NIKOLAOS CINCINATI WEB TV
