@@ -221,6 +221,8 @@ rtmp://streaming3.syzefxis.gov.gr/dimospeiraia/live1.stream
 http://smooth2.istoikona.net:1935/live/klikfm/master.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/x4iiLEs.png",RADIO VERENIKI WEB TV
 http://iphone-streaming.ustream.tv/uhls/7948248/streams/live/iphone/playlist.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/0FkSqnw.png",RYTHMOS 94.3 WEB TV
+rtmp://rythmoscam.dyndns.org:1935/live/myStream
 #EXTINF:0, group-title="WEB TV" tvg-logo="",AGIOS GEORGIOS HUDSON WEB TV
 http://iphone-streaming.ustream.tv/uhls/20366895/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="",AGIOS NIKOLAOS CINCINATI WEB TV
