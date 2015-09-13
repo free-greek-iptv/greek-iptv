@@ -795,3 +795,51 @@ http://go.radioin.audio:7002/;listen.pls
 http://37.59.14.77:7038/;listen.pls
 #EXTINF:0,ARIA FM 107.4
 http://176.9.107.200:9998/;
+#EXTINF:0,DHMOTIKH PADIOFWNIA PREBEZAS 87.9
+http://46.227.60.32:8046/;
+#EXTINF:0,PADIO HGOYMENITSA 89.2
+http://85.25.144.39:8912/;
+#EXTINF:0,IWANNINA DEE JAY 89.6
+http://50.7.70.58:8748/;
+#EXTINF:0,BEST RADIO IWANNINA 90.7
+http://907ioannina.live24.gr/907ioannina
+#EXTINF:0,PRISMA 91.6
+http://50.7.86.138:8117/;listen.pls
+#EXTINF:0,RADIO PREVEZA 93
+http://sc2.streamwithq.com:8050/;
+#EXTINF:0,ENERGY PREVEZA 93.4
+http://50.7.173.162:8175/;
+#EXTINF:0,HIT RADIO IWANNINA 93.5
+http://s3.onweb.gr:8006/;
+#EXTINF:0,PADIO PWMAIOS 94
+http://el1.info:9400/;listen.pls
+#EXTINF:0,PADIO HPEIPOS 94.5
+http://el1.info:9450/;
+#EXTINF:0,STAR FM IWANNINA 95.7
+http://144.76.84.8:8044/;
+#EXTINF:0,PADIO THESPRWTIA 97.1
+http://144.76.102.231:8015/live
+#EXTINF:0,LOVE RADIO - TOP FM IWANNINA 97.2
+http://eco.onestreaming.com:8072/;
+#EXTINF:0,ALFA PREBEZAS 98.1
+http://184.154.90.186:8306/stream
+#EXTINF:0,ACTION RADIO 98.2
+http://eco.onestreaming.com:8153/stream
+#EXTINF:0,SKY RADIO 99.2
+http://live.skyradio.gr:9920/;
+#EXTINF:0,PADIO IONIO 99.9
+http://167.114.131.90:5192/;listen.pls
+#EXTINF:0,PADIO APTA 101.5
+http://eco.onestreaming.com:8460/;
+#EXTINF:0,MUSIC RADIO ARTA 102.1
+http://iphone.live24.gr/musicradioarta
+#EXTINF:0,HXW RADIO IWANNINWN 102.7
+http://eco.onestreaming.com:8266/;
+#EXTINF:0,SAFARI RADIO 104.7
+http://109.123.114.74:8018/;listen.pls
+#EXTINF:0,PIGASOS APTA 106
+http://ice.streamcloud.mediacdn.com/pegasosarta-128mp3
+#EXTINF:0,RYTHMOS FM IWANNINA 107.5
+http://radio.pointer.gr:8013/live
+#EXTINF:0,PINDOS FM 107.7
+http://netradio.live24.gr/radiopindos1077
