@@ -685,3 +685,113 @@ http://eco.onestreaming.com:8142/;
 http://s1.onweb.gr:8898/;
 #EXTINF:0,MOJO RADIO 107.7
 http://mojoradio.live24.gr/mojoradio
+#EXTINF:0,PHASE RADIO 87.7
+http://streaming.multiserver.gr:8013/;
+#EXTINF:0,MELWDIA LAMIAS 88
+http://eco.onestreaming.com:8129/;
+#EXTINF:0,DALKAS 88.2
+http://212.7.199.201:8018/;
+#EXTINF:0,PADIO KSHPOMEPO
+http://www.jayradio.gr/playerJay/asx/596.asx
+#EXTINF:0,HOME 89.1
+http://144.76.102.231:8028/;listen.pls
+#EXTINF:0,IEPA MHTPOPOLH FTHIWTIDOS 89.4
+http://eco.onestreaming.com:8264/;
+#EXTINF:0,LIVE FM 89.6
+http://netradio.live24.gr/livefm896
+#EXTINF:0,EYPIPPOS FM 90
+http://stereo.wavestreamer.com:8412/;listen.pls
+#EXTINF:0,METPO 90.3
+http://metro903.live24.gr/metro903
+#EXTINF:0,ELLHNIKOS 90.3
+http://live.ellinikos.gr:8010/903.mp3
+#EXTINF:0,OSCAR FM 90.9
+http://78.46.37.77:8099/live
+#EXTINF:0,CITY FM 92
+http://cityfm92.live24.gr/cityfm92
+#EXTINF:0,PADIO MESSOLOGI 92
+http://178.63.80.9:8462/;
+#EXTINF:0,NOVA FM 92.1
+http://46.4.65.194:8007/;
+#EXTINF:0,GALAXIAS FM 92.1
+http://91.138.198.64:18500/listen.pls/;
+#EXTINF:0,APIA FM 92.4
+http://www.gointernet.gr:8255/;listen.pls
+#EXTINF:0,JUST RADIO 93
+http://194.219.98.110:8002/;
+#EXTINF:0,AGPINIO 93.7
+http://stream2.proradio.gr:8004/anemos
+#EXTINF:0,STYLIDA FM 94.1
+http://s1.onweb.gr:8860/;
+#EXTINF:0,ENERGY 94.2
+http://netradio.live24.gr/energy942art
+#EXTINF:0,RYTHMOS 94.6
+http://sc2.streamwithq.com:8098/;listen.pls
+#EXTINF:0,NRG 95
+http://212.7.199.201:8012/;
+#EXTINF:0,PALMOS LAMIAS 95
+http://s7.onweb.gr:8554/;
+#EXTINF:0,MUSIC LIFE 95.1
+http://213.239.206.179:9501/;listen.pls
+#EXTINF:0,NEA STYPA FM 95.4
+http://62.103.68.29:8000/;
+#EXTINF:0,MONADIKH POLITEIA 96
+http://67.212.189.122:8153/;
+#EXTINF:0,LAMEIA FM1 96.2
+http://sc2.streamwithq.com:8092/;listen.pls
+#EXTINF:0,O STATHMOS TWN EPGAZOMENWN 96.5
+http://178.63.80.9:9972
+#EXTINF:0,STAR LAMEIAS FM 97.1
+http://eco.onestreaming.com:8434/;
+#EXTINF:0,PADIO THHBA 97.5
+http://144.76.102.231:8034/;stream.mp3
+#EXTINF:0,AVANTI 97.7
+http://avanti977lamia.live24.gr/avanti977lamia
+#EXTINF:0,AGIOS TIMOTHEIOS EYRIPOY 97.7
+http://62.103.68.167:8000/RIMX
+#EXTINF:0,PADIO POYMELI NEWS FM 98
+http://www.radioplanet.gr/roumeli/roumeli.mp3
+#EXTINF:0,PADIO 1 98.1
+http://proradio.gr:8004/radio981m
+#EXTINF:0,XPWMA LAMIAS 98.5
+http://xroma985.live24.gr/xroma985
+#EXTINF:0,MPLE 99
+http://212.7.199.201:8002/;listen.pls
+#EXTINF:0,AEPAS FM 99.5
+http://ice.streamcloud.mediacdn.com/aerasfm995
+#EXTINF:0,PADIO KOSMOS XALKIDAS 100
+http://s1.onweb.gr:8856/;
+#EXTINF:0,PADIO ISTIAIA 100.4
+http://www.radioistiaia.gr/music1.mp3
+#EXTINF:0,LAIKOS LAMIAS 100.6
+http://s5.onweb.gr:8864/;listen.pls
+#EXTINF:0,AVANTI XALKIDAS 101.2
+http://netradio.live24.gr/metrofm1012xalkida
+#EXTINF:0,RADIO LEPANTO 101.4
+http://s26.myradiostream.com:8574/;
+#EXTINF:0,PADIO NET 101.9
+http://66.90.103.144:8940/;
+#EXTINF:0,PADIO ALIVEPI 102.2
+http://85.25.105.195:8291/;
+#EXTINF:0,MAGIC FM AGPINIO 102.9
+http://live.magicfmagrinio.net:9500/;
+#EXTINF:0,HIT FM XALKIDAS 103.5
+http://94.23.62.189:5650/stream
+#EXTINF:0,PADIO EYBOIA 104.1
+http://178.21.169.118:8012/live
+#EXTINF:0,PADIO AMFISA 104.4
+http://stream3.468.gr:8104/;listen.pls
+#EXTINF:0,MAGIA 104.7
+http://37.59.14.77:7275/;
+#EXTINF:0,SOK FM 104.8
+http://212.7.199.201:8000/;
+#EXTINF:0,PADIO DISTOMO 106.1
+http://radio.icehosting.com:8091
+#EXTINF:0,IEPA MHTPOPOLH AITWLIAS KAI AKAPNANIAS 106.3
+http://144.76.84.8:8048/;
+#EXTINF:0,RADIO IN 106.5
+http://go.radioin.audio:7002/;listen.pls
+#EXTINF:0,MAD RADIO AGPINIOY 107
+http://37.59.14.77:7038/;listen.pls
+#EXTINF:0,ARIA FM 107.4
+http://176.9.107.200:9998/;
