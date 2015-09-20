@@ -149,7 +149,7 @@ http://4.31.30.145:9080
 http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8     
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Wpl03si.png",DR TV
 http://xdrtvhellasx.api.channel.livestream.com/3.0/playlist.m3u8
-h#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MgxJjAV.png", LEPANTO
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MgxJjAV.png", LEPANTO
 http://78.129.184.15:33102/streaming/stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7780smV.png",MAX TV
 http://xmaxtvdigitalx.api.channel.livestream.com/3.0/playlist.m3u8
