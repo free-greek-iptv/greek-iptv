@@ -65,8 +65,6 @@ rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD CY
 rtmp://144.76.2.213/live/livestream
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/qVhjZYR.png",CY SPORTS
-http://mlivenews.istoikona.net/cysports.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Glp0YiN.png",LYXNOC
@@ -131,8 +129,6 @@ http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u
 rtmp://www.astratv.gr:1935/astratv/livestream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/11rcENd.png",TRT TV
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/HtDqGrW.png",TV10
-http://iphone-streaming.ustream.tv/uhls/10741054/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/QuqYcOj.png",E TV
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/tt5FDCA.png",STAR K.E
@@ -175,16 +171,10 @@ rtmp://fml.68FC.edgecastcdn.net/2068FC/kissamos
 rtmp://176.9.123.140:1935/leveltgp/leveltgp
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/dthHJjZ.jpg",TILESPORT
 http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/0Zrsydk.png",SMILE
-http://ec2-54-162-205-148.compute-1.amazonaws.com:1935/live/a9f3ebc41be4eea1cc13f60627067c71/playlist.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/EgfSO9e.jpg",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/fbQoraI.jpg",EBS PLUS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
-#EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/RLLNzey.gif",ODIE
-http://iphone-streaming.ustream.tv/uhls/14336927/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/NwKzRtH.png",ERT PROMO
-http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/xPK6Stv.png",WZRA
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/gbg8cvH.gif",ELLINIKOS FM WEB TV
@@ -207,33 +197,3 @@ http://iphone-streaming.ustream.tv/uhls/20021565/streams/live/iphone/playlist.m3
 http://xevriposnewsx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="",EXOMBOURGO TV
 http://iphone-streaming.ustream.tv/uhls/19160825/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/qVkgNkM.png",KANALI 1 FM WEB TV
-rtmp://streaming3.syzefxis.gov.gr/dimospeiraia/live1.stream
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/SgimJLO.png",KLIK FM WEB TV
-http://smooth2.istoikona.net:1935/live/klikfm/master.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/x4iiLEs.png",RADIO VERENIKI WEB TV
-http://iphone-streaming.ustream.tv/uhls/7948248/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/0FkSqnw.png",RYTHMOS 94.3 WEB TV
-rtmp://rythmoscam.dyndns.org:1935/live/myStream
-#EXTINF:0, group-title="WEB TV" tvg-logo="",AGIOS GEORGIOS HUDSON WEB TV
-http://iphone-streaming.ustream.tv/uhls/20366895/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="",AGIOS NIKOLAOS CINCINATI WEB TV
-rtmp://fls.8.c3.audiovideoweb.com:443/live/il81flslive3150
-#EXTINF:0, group-title="WEB TV" tvg-logo="",AGIOS NIKOLAOS MICHIGAN WEB TV
-http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/mX6AHhC.png",BIBLE LIVE
-http://vod-03.viewer.dacast.com/i/unsecure/24379/24379_,140497.mp4,.csmil/master.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/XDVhV19.png",DRAMA CHURCH
-http://xeeedramasx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/xV6wnHt.png",FAROS WEB TV
-http://xwebtvfarosx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/u2gyuP4.png",FOS
-http://wm1.gmlogic.com/ch-patra?ovpsv=2.3.1.0
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/14nFhXQ.png",KIVOTOS KISAMOS
-rtmp://streaming3.syzefxis.gov.gr/kisamos/live.stream
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/8IQtGH1.png",NIKAIA CHURCH
-http://vod-03.viewer.dacast.com/i/unsecure/10736/10736_,164491.mp4,.csmil/master.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/wgTBmRd.png",VOICE OF GOD
-mmsh://media.voiceofgod.gr/VoiceofGod300GR
-#EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",MOBILE102
-http://xmobile102x.api.channel.livestream.com/3.0/playlist.m3u8
