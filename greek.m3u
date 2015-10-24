@@ -1,38 +1,22 @@
 #EXTM3U
 #EXTINF:0,ERT1
 http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
-#EXTINF:0,ERT1 BUP
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Nerit/Greek_Nerit.sdp
 #EXTINF:0,ERT2
 http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
 #EXTINF:0,ERT3
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
-#EXTINF:0,ERT3 BUP
-http://live2.ertopen.com/live2/e600/playlist.m3u8
 #EXTINF:0,MEGA
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0,MEGA BUP
-rtmp://area61.better-than.tv:1935/ANYTV_USR_MEGA/MEGA.sdp
-#EXTINF:0,MEGA BUP 2
-http://94.23.218.186:1935/galanos1/galanos1/playlist.m3u8
+http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0,ANT1
 http://antennatv-lh.akamaihd.net/z/live_1@329667/master.m3u8
 #EXTINF:0,ANT1 BUP
-rtmp://area61.better-than.tv:1935/ANYTV_USR_ANT1/ANT1.sdp
-#EXTINF:0,ANT1 BUP 2
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0,ALPHA
 http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
-#EXTINF:0,ALPHA BUP
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Alpha/Greek_Alpha.sdp
 #EXTINF:0,STAR
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
-#EXTINF:0,STAR BUP
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Star/Greek_Star.sdp
-#EXTINF:0,STAR BUP 2
-http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
-#EXTINF:0,SKAI
-rtmp://area61.better-than.tv:1935/ANYTV_USR_Greek_Skai/Greek_Skai.sdp
 #EXTINF:0,E
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0,M.TV
