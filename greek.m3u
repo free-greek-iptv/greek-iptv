@@ -22,7 +22,7 @@ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0,M.TV
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0,ART
-http://iphone-streaming.ustream.tv/uhls/19497341/streams/live/iphone/playlist.m3u8
+http://66.71.244.98:1935/app/artthleorashs-channel/playlist.m3u8
 #EXTINF:0,SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,BLUE SKY
@@ -33,6 +33,8 @@ http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0,JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:0,THEMA TV
+http://5.196.92.57/webtv/medium.m3u8
 #EXTINF:0,ZOUGLA TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:0,APEIRO TV
@@ -50,7 +52,7 @@ http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,TV GOLD
 mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:0,EURONEWS
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
+rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0,RIK SAT
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0,MEGA CY
