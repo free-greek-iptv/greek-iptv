@@ -56,7 +56,7 @@ rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0,RIK SAT
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0,MEGA CY
-http://smooth2.istoikona.net:1935/live/livenews 2/playlist.m3u8
+http://smooth2.istoikona.net:1935/live/megalive 1/playlist.m3u8
 #EXTINF:0,ANT1 CY
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0,SIGMA CY
