@@ -127,10 +127,6 @@ http://iphone-streaming.ustream.tv/uhls/20468277/streams/live/iphone/playlist.m3
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7o98X3F.png",OMEGA TELEVISION
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/ENwk1Qq.png",SAMIAKI TV
-http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/m8sXibX.png",TV KOSMOS
-rtsp://edge.vidblee.com:80/tvkosmos/tvkosmos.mp4
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/mAhkgEw.png",TV 1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/hHS4S1l.png",TV MYTILINI
