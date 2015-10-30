@@ -55,7 +55,7 @@ rtmp://144.76.2.213/live/livestream
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E BUP
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Glp0YiN.png",LYXNOC
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Glp0YiN.png",LYCHNOS
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -111,6 +111,8 @@ http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphone/playlist.m3u
 http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/ozisch8.png",ITV
 http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/ozisch8.png",START TV
+http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/DFeXxxO.png",ASTRA TV
 rtmp://www.astratv.gr:1935/astratv/livestream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/11rcENd.png",TRT TV
@@ -119,7 +121,7 @@ http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 http://4.31.30.145:9080
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/VU3en8a.png",BEST TV
 http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MgxJjAV.png", LEPANTO
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MgxJjAV.png",LEPANTO
 http://78.129.184.15:33102/streaming/stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/sY1grRj.png",ORT
 rtmp://media.patrisnews.com:1935/patris/tvstream
