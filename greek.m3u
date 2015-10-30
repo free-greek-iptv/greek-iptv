@@ -156,7 +156,7 @@ mms://212.251.44.111:27030
 #EXTINF:0,OMEGA TELEVISION
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 #EXTINF:0,SAMIAKI TV
-http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
+rtmp://94.23.218.186/samiaki/samiaki
 #EXTINF:0,TV KOSMOS
 rtsp://edge.vidblee.com:80/tvkosmos/tvkosmos.mp4
 #EXTINF:0,TV 1
