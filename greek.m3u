@@ -85,8 +85,6 @@ http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/9461248/streams/live/iphone/playlist.m3u8
 #EXTINF:0,TV-100 
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
-#EXTINF:0,TV THESSALONIKI
-http://xthessalonikitelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,BERGINA
 http://195.81.140.68/4dc154b6133e5b071ca8f6bda1639987/VerginaStream1.m3u8
 #EXTINF:0,EUROPE ONE
@@ -117,8 +115,6 @@ http://iphone-streaming.ustream.tv/uhls/18477664/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
 #EXTINF:0,WEST CHANNEL
 http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
-#EXTINF:0,ART TV
-http://iphone-streaming.ustream.tv/uhls/6875027/streams/live/iphone/playlist.m3u8
 #EXTINF:0,AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:0,BHMA TV
@@ -129,6 +125,8 @@ http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphone/playlist.m3u
 http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,ITV
 http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
+#EXTINF:0,START TV
+http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:0,ASTRA TV
 rtmp://www.astratv.gr:1935/astratv/livestream
 #EXTINF:0,TRT TV
