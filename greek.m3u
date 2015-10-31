@@ -89,8 +89,6 @@ http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
 #EXTINF:0,PONTOS TV
 http://xdiontvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,CENTER TV
-http://xjimhatzogloux.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,ENA CHANNEL
 http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
 #EXTINF:0,KANALI 6
@@ -129,16 +127,12 @@ http://www.astratv.gr:8090/hls/livestream.m3u8
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,TV10
 http://iphone-streaming.ustream.tv/uhls/10741054/streams/live/iphone/playlist.m3u8
-#EXTINF:0,E TV
-http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:0,STAR K.E
 http://4.31.30.145:9080
 #EXTINF:0,BEST TV
 http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0,LEPANTO
 http://78.129.184.15:33102/streaming/stream/playlist.m3u8
-#EXTINF:0,MAX TV
-http://xmaxtvdigitalx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,ORT
 rtmp://media.patrisnews.com/patris/tvstream
 #EXTINF:0,SUPER B
