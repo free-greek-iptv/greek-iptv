@@ -11,12 +11,12 @@ http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0,ANT1
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-#EXTINF:0,ANT1 BUP
-http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0,ALPHA
 http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
 #EXTINF:0,STAR
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+#EXTINF:0,STAR BUP
+http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0,E
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0,M.TV
@@ -25,6 +25,8 @@ http://stream.maktv.gr/i/live_1@332903/master.m3u8
 http://66.71.244.98:1935/app/artthleorashs-channel/playlist.m3u8
 #EXTINF:0,SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,ACTION24
+http://stream-04.vty.dailymotion.com/15/dm/1/x2p626q/live.isml/events(live-1445892340)/live-audio=128000-video=444000.m3u8
 #EXTINF:0,BLUE SKY
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
 #EXTINF:0,EXTRA CHANNEL
@@ -37,34 +39,28 @@ http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 http://5.196.92.57/webtv/medium.m3u8
 #EXTINF:0,ZOUGLA TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
-#EXTINF:0,APEIRO TV
-http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
+#EXTINF:0,TV GOLD
+mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:0,MPAXALO TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,LAMPSI TV
 http://94.23.218.186:1935/LampsiTV/LampsiTV/playlist.m3u8
-#EXTINF:0,CINEMA
-http://184.173.181.2:1935/8088/8088/playlist.m3u8
 #EXTINF:0,MAX CINEMA
 http://206.222.31.146/maxtv
 #EXTINF:0,NATURA CINEMA
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,TV GOLD
-mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:0,EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0,RIK SAT
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0,MEGA CY
-http://smooth2.istoikona.net:1935/live/megalive 1/playlist.m3u8
+http://smooth2.istoikona.net:1935/live/mlive 2/playlist.m3u8
 #EXTINF:0,ANT1 CY
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0,SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0,MAD CY
-rtmp://144.76.2.213/live/livestream
-#EXTINF:0,CY SPORTS
-http://mlivenews.istoikona.net/cysports.isml/manifest(format=m3u8-aapl).m3u8
+http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
 #EXTINF:0,4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0,4E BUP
@@ -138,9 +134,7 @@ http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:0,STAR K.E
 http://4.31.30.145:9080
 #EXTINF:0,BEST TV
-http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8     
-#EXTINF:0,DR TV
-http://xdrtvhellasx.api.channel.livestream.com/3.0/playlist.m3u8
+http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0,LEPANTO
 http://78.129.184.15:33102/streaming/stream/playlist.m3u8
 #EXTINF:0,MAX TV
