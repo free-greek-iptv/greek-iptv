@@ -126,7 +126,7 @@ http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MgxJjAV.png",LEPANTO
 http://78.129.184.15:33102/streaming/stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/sY1grRj.png",ORT
-rtmp://media.patrisnews.com:1935/patris/tvstream
+rtmp://media.patrisnews.com/patris/tvstream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/lFa1KuV.gif",SUPER B
 http://iphone-streaming.ustream.tv/uhls/20468277/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIOTV
