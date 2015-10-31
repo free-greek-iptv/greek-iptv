@@ -124,7 +124,7 @@ http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u
 #EXTINF:0,START TV
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:0,ASTRA TV
-rtmp://www.astratv.gr:1935/astratv/livestream
+http://www.astratv.gr:8090/hls/livestream.m3u8
 #EXTINF:0,TRT TV
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,TV10
