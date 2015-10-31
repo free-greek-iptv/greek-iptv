@@ -131,6 +131,8 @@ http://iphone-streaming.ustream.tv/uhls/10741054/streams/live/iphone/playlist.m3
 http://4.31.30.145:9080
 #EXTINF:0,BEST TV
 http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,IONIAN CHANNEL
+http://stream-01.vty.dailymotion.com/16/dm/1/x2wlwmy/live.isml/events(live-1446235277)/live-audio=128000-video=692000.m3u8
 #EXTINF:0,LEPANTO
 http://78.129.184.15:33102/streaming/stream/playlist.m3u8
 #EXTINF:0,ORT
@@ -176,7 +178,7 @@ http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u
 #EXTINF:0,ELLINIKOS FM WEB TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:0,RYTHMOS FM WEB TV
-rtmp://213.16.167.54:1935/live/watchlive
+http://rythmostv-lh.akamaihd.net/i/live_1@334551/master.m3u8
 #EXTINF:0,THLE MOUSIKH
 mmsh://wpso.com:200/music
 #EXTINF:0,GRATV
