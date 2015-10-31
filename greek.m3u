@@ -158,7 +158,7 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0,TV MYTILINI
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:0,MESSINIA WEB TV
-rtmp://176.9.123.140:1935/messinia/messinia
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:0,CRETA TV
 http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
 #EXTINF:0,KISSAMOS
