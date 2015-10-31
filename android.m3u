@@ -52,7 +52,7 @@ rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD CY
-rtmp://144.76.2.213/live/livestream
+http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E BUP
@@ -93,6 +93,8 @@ http://94.23.218.186:1935/kanali5/kanali5/playlist.m3u8
 mmsh://radiofeeds1.mediabox.gr/startv
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/WXlf12i.png",THRAKI NET
 rtmp://hls.onestreaming.com:1935/live/thrakinettv
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/PNlJ9g5.png",TV EPILOGES
+http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/5fAgbi5.png",DELTA TV
 mms://deltatv1.dyndns.org:1194
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/8b1ZJBa.png",FLASH TV
