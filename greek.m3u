@@ -187,8 +187,6 @@ mmsh://wpso.com:200/music
 http://iphone-streaming.ustream.tv/uhls/291847/streams/live/iphone/playlist.m3u8
 #EXTINF:0,MAKELEIO WEB TV
 http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
-#EXTINF:0,REPLAY ON WEB
-rtsp://smooth2.istoikona.net:1935/live/replay
 #EXTINF:0,MANA ELLADA WEB TV
 http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
 #EXTINF:0,AKRITES TV
@@ -197,6 +195,10 @@ http://iphone-streaming.ustream.tv/uhls/20021565/streams/live/iphone/playlist.m3
 http://xevriposnewsx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,EXOMBOURGO TV
 http://iphone-streaming.ustream.tv/uhls/19160825/streams/live/iphone/playlist.m3u8
+#EXTINF:0,MHTROPOLH SYROY 95.4
+http://xradio954fmx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,RADIO 98.1
+http://xradio981x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,KANALI 1 FM WEB TV
 rtmp://streaming3.syzefxis.gov.gr/dimospeiraia/live1.stream
 #EXTINF:0,KLIK FM WEB TV
@@ -227,3 +229,5 @@ http://vod-03.viewer.dacast.com/i/unsecure/10736/10736_,164491.mp4,.csmil/master
 mmsh://media.voiceofgod.gr/VoiceofGod300GR
 #EXTINF:0,MOBILE102
 http://xmobile102x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,TINOS TV 2
+http://iphone-streaming.ustream.tv/uhls/20905250/streams/live/iphone/playlist.m3u8
