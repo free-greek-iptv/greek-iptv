@@ -165,8 +165,6 @@ rtmp://fml.68FC.edgecastcdn.net/2068FC/kissamos
 rtmp://176.9.123.140:1935/leveltgp/leveltgp
 #EXTINF:0,TILESPORT
 http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
-#EXTINF:0,SMILE
-http://ec2-54-162-205-148.compute-1.amazonaws.com:1935/live/a9f3ebc41be4eea1cc13f60627067c71/playlist.m3u8
 #EXTINF:0,WZRA KIDS
 mmsh://wpso.com:200/kids
 #EXTINF:0,EBS
