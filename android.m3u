@@ -153,8 +153,12 @@ http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/Ellin
 http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/QUYJeJ5.png",MAKELEIO TV
 http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/lF7tUV8.png",MANA ELLADA TV
+http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/tVbxUiz.png",THLEMOYSIKH
+iphone-streaming.ustream.tv/uhls/18655753/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/0Ovqq2f.png",TILESPORT
 rtmp://78.47.151.114/tilesport/movie1
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA
