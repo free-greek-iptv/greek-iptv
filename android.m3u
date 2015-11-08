@@ -141,11 +141,9 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/dPYhckT.png",TV EPILOGES
 http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/nSIaZhH.png",CRETA TV
-http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/QEEhkUO.png",KISSAMOS
-rtmp://fml.68FC.edgecastcdn.net/2068FC/kissamos
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/EgfSO9e.jpg",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/fbQoraI.jpg",EBS PLUS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/nSIaZhH.png",CRETA TV
+http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
