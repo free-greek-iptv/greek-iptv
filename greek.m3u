@@ -179,8 +179,6 @@ http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:0,ELLINIKOS FM WEB TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
-#EXTINF:0,RYTHMOS FM WEB TV
-http://rythmostv-lh.akamaihd.net/i/live_1@334551/master.m3u8
 #EXTINF:0,THLE MOUSIKH
 mmsh://wpso.com:200/music
 #EXTINF:0,GRATV
@@ -195,6 +193,8 @@ http://iphone-streaming.ustream.tv/uhls/20021565/streams/live/iphone/playlist.m3
 http://xevriposnewsx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,EXOMBOURGO TV
 http://iphone-streaming.ustream.tv/uhls/19160825/streams/live/iphone/playlist.m3u8
+#EXTINF:0,RYTHMOS FM WEB TV
+http://rythmostv-lh.akamaihd.net/i/live_1@334551/master.m3u8
 #EXTINF:0,MHTROPOLH SYROY 95.4
 http://xradio954fmx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,RADIO 98.1
