@@ -179,6 +179,12 @@ http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u
 http://iphone-streaming.ustream.tv/uhls/20021565/streams/live/iphone/playlist.m3u8
 #EXTINF:0,EVRIPOS TV
 http://xevriposnewsx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,EVRIPOS TV SPORT
+http://xevripostvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,PEZIKO XALKIDOS
+http://xarmygrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,IERA MITROPOLI XALKIDOS
+http://ximxtv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,EXOMBOURGO TV
 http://iphone-streaming.ustream.tv/uhls/19160825/streams/live/iphone/playlist.m3u8
 #EXTINF:0,RYTHMOS FM WEB TV
