@@ -58,7 +58,7 @@ rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
-http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
+http://cdnvideo.webvideocore.net/enc4_l5t9inthpmvaq5tqootiad8s089te3vs43dma51pctsj71scrl5d7urssbrtu8deo54p2fl61ulg4kh3iaaomhha3mcj1evo8vknin0o78auambnibcqv9r2j5v75k02l433johtblmqt247qsqngeftnesje50t5pajhbsavm689uqe1u6hhppd9bkligh3cdh1efr052gknc/index.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY BUP
