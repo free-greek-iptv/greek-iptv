@@ -19,8 +19,6 @@ http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
-#EXTINF:-1,SKAI
-http://portal.rapidiptv.com:8080/live/usiptv/Bye95WSwSR/6395.ts
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV
