@@ -47,6 +47,12 @@ http://stream.maktv.gr/i/live_1@332903/master.m3u8
 http://154.57.7.251:8000/art
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART BUP
 https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD GR
+http://154.57.7.251:8000/mad
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/EPiNUtP.png",RISE
+http://154.57.7.251:8000/mtv
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/1Xysx18.png",NICKELODEON ATH
+http://154.57.7.251:8000/nick
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/6IgB5FI.png",AB CHANNEL
 http://154.57.7.251:8000/abchannel
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/8e5oX67.png",ACTION 24
@@ -67,12 +73,6 @@ rtmp://213.16.167.186:1935/live/mpegts_256.stream
 http://154.57.7.251:8000/kontra
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/FpTDRtd.png",KONTRA BUP
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD GR
-http://154.57.7.251:8000/mad
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/EPiNUtP.png",RISE
-http://154.57.7.251:8000/mtv
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/1Xysx18.png",NICKELODEON ATH
-http://154.57.7.251:8000/nick
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
 http://154.57.7.251:8000/sbc
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC BUP
