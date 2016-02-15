@@ -27,6 +27,8 @@ http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
 http://154.57.7.251:8000/alph
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA BUP
 http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI
+http://154.57.7.251:8000/skai
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR
 http://154.57.7.251:8000/star
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP
@@ -45,14 +47,40 @@ http://stream.maktv.gr/i/live_1@332903/master.m3u8
 http://154.57.7.251:8000/art
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART BUP
 https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
-http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/6IgB5FI.png",AB CHANNEL
+http://154.57.7.251:8000/abchannel
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/8e5oX67.png",ACTION 24
+http://154.57.7.251:8000/action24
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xPuja9R.png",ATTICA TV
+http://154.57.7.251:8000/attica
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/CzxGu1G.png",BLUE SKY
+http://154.57.7.251:8000/blusky
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/CzxGu1G.png",BLUE SKY BUP
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Udo40oZ.png",CHANNEL 9 ATH
+http://154.57.7.251:8000/ch9
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/aZJPj9f.png",EXTRA CHANNEL
+http://154.57.7.251:8000/extra
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/aZJPj9f.png",EXTRA CHANNEL BUP
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/FpTDRtd.png",KONTRA
+http://154.57.7.251:8000/kontra
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/FpTDRtd.png",KONTRA BUP
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD GR
+http://154.57.7.251:8000/mad
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/EPiNUtP.png",RISE
+http://154.57.7.251:8000/mtv
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/1Xysx18.png",NICKELODEON ATH
+http://154.57.7.251:8000/nick
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
+http://154.57.7.251:8000/sbc
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC BUP
+http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/NdnNcOX.jpg",SUNNY
+http://154.57.7.251:8000/sunny
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/IVhmYEJ.jpg",SMILE
+http://154.57.7.251:8000/smile
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/sepsdxn.png",THEMA TV
@@ -74,7 +102,7 @@ rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
-http://cdnvideo.webvideocore.net/enc4_l5t9inthpmvaq5tqootiad8s089te3vs43dma51pctsj71scrl5d7urssbrtu8deo54p2fl61ulg4kh3iaaomhha3mcj1evo8vknin0o78auambnibcqv9r2j5v75k02l433johtblmqt247qsqngeftnesje50t5pajhbsavm689uqe1u6hhppd9bkligh3cdh1efr052gknc/index.m3u8
+http://154.57.7.251:8000/rik
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY BUP
@@ -88,8 +116,10 @@ http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/UKdSX5z.png",WZRA KIDS
 mmsh://wpso.com:200/kids
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI
-http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+http://154.57.7.251:8000/vouli
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI BUP
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI BUP 2
 mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/gN761Me.png",KPHTH TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
