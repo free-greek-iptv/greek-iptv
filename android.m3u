@@ -49,13 +49,13 @@ http://154.57.7.251:8000/art
 https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD GR
 http://154.57.7.251:8000/mad
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/EPiNUtP.png",RISE
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/yL195Ok.png",RISE
 http://154.57.7.251:8000/mtv
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/1Xysx18.png",NICKELODEON ATH
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/FkcVaZY.png",NICKELODEON ATH
 http://154.57.7.251:8000/nick
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/6IgB5FI.png",AB CHANNEL
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
 http://154.57.7.251:8000/abchannel
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/8e5oX67.png",ACTION 24
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/qW4mulc.png",ACTION 24
 http://154.57.7.251:8000/action24
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xPuja9R.png",ATTICA TV
 http://154.57.7.251:8000/attica
@@ -63,7 +63,7 @@ http://154.57.7.251:8000/attica
 http://154.57.7.251:8000/blusky
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/CzxGu1G.png",BLUE SKY BUP
 http://88.198.238.44:1935/live/bluesky/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Udo40oZ.png",CHANNEL 9 ATH
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 ATH
 http://154.57.7.251:8000/ch9
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/aZJPj9f.png",EXTRA CHANNEL
 http://154.57.7.251:8000/extra
@@ -77,9 +77,9 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 http://154.57.7.251:8000/sbc
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC BUP
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/NdnNcOX.jpg",SUNNY
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/EvO9Dvq.png",SUNNY
 http://154.57.7.251:8000/sunny
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/IVhmYEJ.jpg",SMILE
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE
 http://154.57.7.251:8000/smile
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
