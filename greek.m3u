@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:0, otecinema1 http://89.163.225.219:8080/otecinema1/mpegts?token=XSJk_pIC41 
-#EXTINF:0, otecinema2 http://89.163.225.219:8080/otecinema2/mpegts?token=XSJk_pIC41 
-#EXTINF:0, otecinema3 http://89.163.225.219:8080/otecinema3/mpegts?token=XSJk_pIC41
+#EXTINF:0, otecinema1
+http://89.163.225.219:8080/otecinema1/mpegts?token=XSJk_pIC41 
+#EXTINF:0, otecinema2
+http://89.163.225.219:8080/otecinema2/mpegts?token=XSJk_pIC41 
+#EXTINF:0, otecinema3
+http://89.163.225.219:8080/otecinema3/mpegts?token=XSJk_pIC41
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
 http://154.57.7.251:8000/ert1
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP
