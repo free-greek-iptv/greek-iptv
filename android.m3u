@@ -39,6 +39,12 @@ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 http://38.140.63.250:1935/gr-live/otesport5.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/FkcVaZY.png",NICKELODEON ATH
+http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/VIP-GR-NICKELODEON
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/yL195Ok.png",RISE
+http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/VIP-GR-MTV
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
+http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/GR-AB
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART
 https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
