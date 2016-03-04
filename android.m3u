@@ -78,6 +78,14 @@ http://iphone-streaming.ustream.tv/uhls/20905250/streams/live/iphone/playlist.m3
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD CY
 rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",RIK SAT
+http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/GR-RIK-SAT-CYPRUS
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",RIK 1
+http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/GR-RIK1-CYPRUS
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",RIK 2
+http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/GR-RIK2-CYPRUS
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA CY
+http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/GR-MEGA-CYPRUS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
 rtmp://46.21.53.171/iwohttporigin/mp4:livestream
