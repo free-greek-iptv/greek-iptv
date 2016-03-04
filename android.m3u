@@ -47,6 +47,8 @@ http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/VIP-GR-MTV
 http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/GR-AB
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART
 https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE
+http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/VIP-GR-SMILE
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/CzxGu1G.png",BLUE SKY
