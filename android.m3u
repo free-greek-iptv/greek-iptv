@@ -93,11 +93,11 @@ rtmp://46.21.53.171/iwohttporigin/mp4:livestream
 http://ant1cypruslive-vh.akamaihd.net/iwohttporigin/livestream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="GR VIP2",PLUS CYPRUS
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/hfT9Mgb.gif",PLUS CYPRUS
 http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/GR-PLUS-CYPRUS/m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="GR VIP2",EXTRA CYPRUS
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/vGpo89H.png",EXTRA CYPRUS
 http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/GR-EXTRA-CYPRUS/m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="GR VIP2",CAPITAL CYPRUS
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/5uVT7ZO.png",CAPITAL CYPRUS
 http://bstream.eu/bsdev/live/?panos.ventouris@gmail.com/uAxUlCmdTv/GR-CAPITAL-CYPRUS/m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
