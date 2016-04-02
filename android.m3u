@@ -90,7 +90,7 @@ http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/PvFxL49.png",TINOS TV
 http://iphone-streaming.ustream.tv/uhls/20905250/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD CY
-http://over.ddns.net:65209/
+http://over.ddns.net:65213/
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD CY BUP
 rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
