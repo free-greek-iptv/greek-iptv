@@ -203,7 +203,7 @@ http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
 http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="",NET TV TORONTO
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/5j4BfAu.png?1",NETV TORONTO
 http://176.9.25.17:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/0Ovqq2f.png",TILESPORT
 rtmp://78.47.151.114/tilesport/movie1
