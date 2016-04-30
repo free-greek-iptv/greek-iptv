@@ -139,8 +139,6 @@ http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/dzR618m.png",CRETA 
 http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/sbKOMEv.png",KYDON
-http://iphone-streaming.ustream.tv/uhls/9461248/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/H7iFPO1.png",TV-100 
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/aSbiRC1.png",BERGINA
@@ -177,8 +175,6 @@ http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 http://176.9.30.75:1935/live/epsilon/master.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Hpu1DhY.png",BEST TV
 http://hls.onestreaming.com:1935/live/besttv/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MgxJjAV.png",LEPANTO
-http://78.129.184.15:33102/streaming/stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Glp0YiN.png",LYCHNOS
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIOTV
