@@ -63,6 +63,8 @@ http://stream.maktv.gr/i/live_1@332903/master.m3u8
 http://over.ddns.net:65107/
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART BUP
 https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
+#EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo=" http://i.imgur.com/ZrD6GYb.png",ERT WORLD
+http://nerit3-lh.akamaihd.net/i/ertworld_1@48667/master.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/CzxGu1G.png",BLUE SKY
