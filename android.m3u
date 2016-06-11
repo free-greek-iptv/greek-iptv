@@ -167,6 +167,8 @@ mms://deltatv1.dyndns.org:1194
 http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/PNSKuHk.png",WEST CHANNEL
 http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/3us2U1i.png",ART TV
+http://iphone-streaming.ustream.tv/uhls/6894275/streams/live/iphon/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/RW83YYe.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MFRF94w.png",BHMA TV
