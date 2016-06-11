@@ -63,6 +63,30 @@ http://stream.maktv.gr/i/live_1@332903/master.m3u8
 http://over.ddns.net:65107/
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART BUP
 https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
+#EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
+rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Uh6uPuh.png",RIK 1
+http://over.ddns.net:65113/
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/49RnUbd.png",RIK 2
+http://over.ddns.net:65114/
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA CY
+http://over.ddns.net:65117/
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
+http://over.ddns.net:65116/
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY BUP
+rtmp://46.21.53.171/iwohttporigin/mp4:livestream
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY BUP 2
+http://ant1cypruslive-vh.akamaihd.net/iwohttporigin/livestream/playlist.m3u8
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
+http://over.ddns.net:65115/
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/27Xhdsk.png" ,CAPITAL
+http://over.ddns.net:65118/
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=http://over.ddns.net/channels/android/240/extra.png ,EXTRA CY
+http://over.ddns.net:65119/
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=http://over.ddns.net/channels/android/240/plus.png ,PLUS
+http://over.ddns.net:65120/
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/CzxGu1G.png",BLUE SKY
@@ -93,7 +117,7 @@ http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/ZTIWHBd.png",NEW TV
 http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",CANNALI WEB MUSIC CHANNEL
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
 rtmp://live.streams.ovh/cannali/cannali
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
 mmsh://wpso.com:200/music
@@ -101,30 +125,6 @@ mmsh://wpso.com:200/music
 http://over.ddns.net:65213/
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD CY BUP
 rtmp://eradio.networksolutions.com.cy/live/livestream
-#EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
-rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Uh6uPuh.png",RIK 1
-http://over.ddns.net:65113/
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/49RnUbd.png",RIK 2
-http://over.ddns.net:65114/
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA CY
-http://over.ddns.net:65117/
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
-http://over.ddns.net:65116/
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY BUP
-rtmp://46.21.53.171/iwohttporigin/mp4:livestream
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY BUP 2
-http://ant1cypruslive-vh.akamaihd.net/iwohttporigin/livestream/playlist.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
-http://over.ddns.net:65115/
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP
-http://81.21.47.74/hls/live.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/27Xhdsk.png" ,CAPITAL
-http://over.ddns.net:65118/
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=http://over.ddns.net/channels/android/240/extra.png ,EXTRA CY
-http://over.ddns.net:65119/
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=http://over.ddns.net/channels/android/240/plus.png ,PLUS
-http://over.ddns.net:65120/
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E BUP
