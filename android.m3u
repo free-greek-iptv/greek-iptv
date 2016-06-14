@@ -65,6 +65,8 @@ http://over.ddns.net:65107/
 https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
+#EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/ZrD6GYb.png",ERT WORLD
+rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Uh6uPuh.png",RIK 1
 http://over.ddns.net:65113/
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/49RnUbd.png",RIK 2
