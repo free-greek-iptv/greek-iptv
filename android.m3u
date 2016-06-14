@@ -119,8 +119,6 @@ http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 http://176.9.25.17:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/WVqJAhQ.png",NATURA TV HD
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
-http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
@@ -229,3 +227,5 @@ rtmp://78.47.151.114/tilesport/movie1
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/ZTIWHBd.png",NEW TV
 http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
+http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
