@@ -129,6 +129,8 @@ http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/UKdSX5z.png",WZRA KIDS
 mmsh://wpso.com:200/kids
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/7Gy5OeS.png",RTVR SAVATE
+http://176.9.123.140:1935/savate/mp4:stream/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI
 http://over.ddns.net:65104/
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI BUP
