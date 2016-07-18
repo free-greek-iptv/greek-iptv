@@ -137,7 +137,7 @@ http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 http://www.astratv.gr:8090/hls/livestream.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/nAzfWx5.png",TRT TV
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",ACHAIA CHANNEL
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/K6yJMyU.png",ACHAIA CHANNEL
 http://78.129.184.15:23319/streaming/stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Hpu1DhY.png",BEST TV
 http://138.201.57.212:1935/best/myStream/playlist.m3u8
