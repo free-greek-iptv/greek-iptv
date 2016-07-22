@@ -32,6 +32,8 @@ http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP 2
 http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI
+https://www.youtube.com/watch?v=fknuPzSf3-I
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI BUP
 http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
