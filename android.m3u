@@ -67,8 +67,10 @@ http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/FpTDRtd.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:0, ALERT
+#EXTINF:0, ALERT T V
 https://www.youtube.com/watch?v=4TxS3Je89Iw
+#EXTINF:0, MAKELEIO
+https://www.youtube.com/watch?v=OVecTWv-xXw
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE HD
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/sepsdxn.png",THEMA TV
