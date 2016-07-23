@@ -7,7 +7,7 @@ http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
 https://www.youtube.com/watch?v=TyvdueFoCfA
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 BUP
 http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
-#EXTINF:0, ERT3
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3
 https://www.youtube.com/watch?v=TAPQISON4YM
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA
 https://www.youtube.com/watch?v=2Y8qsS_xH2Y
