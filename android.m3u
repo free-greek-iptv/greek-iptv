@@ -131,7 +131,7 @@ http://w11.streamgb.com:1935/8046/8046/playlist.m3u8
 http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/PNlJ9g5.png",TV EPILOGES
 http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
-#EXTINF:0, TV DELTA
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo=" https://yt3.ggpht.com/-nDwpTRy8q-o/AAAAAAAAAAI/AAAAAAAAAAA/AmwvTxwa8vw/s88-c-k-no/photo.jpg ",TV DRAMA
 https://m.youtube.com/watch?v=rOBW6DJwlv0
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/5fAgbi5.png",DELTA TV
 mms://deltatv1.dyndns.org:1194
