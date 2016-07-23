@@ -49,9 +49,9 @@ rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 https://www.youtube.com/watch?v=rdlulSBQPp8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/ZrD6GYb.png",ERT WORLD BUP
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT BUP
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT BUP
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
 http://l2.cloudskep.com/antl2/abr/playlist.m3u8
