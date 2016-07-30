@@ -135,6 +135,12 @@ http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/RW83YYe.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/RW83YYe.png",ENA LAMIAS
+rtmp://204.77.214.14/mogulus-stream-edge/lamiaenatv/rtmp://212-169.livestream.com/affiliateStream/lamiaenatv/6c69766572657065617465723a72746d703a2f2f3231322d3136392e6c69766573747265616d2e636f6d2f6d6f67756c75732f6c616d6961656e6174762f6c69766573747265616d
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/RW83YYe.png",STAR K.E.
+http://stream-08.vty.dailymotion.com/11/dm/1/xqjey2/live.isml/events(live-1468833651)/live-audio=128000-video=2000000.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",LEPANTO 
+http://stream-13.vty.dailymotion.com/07/dm/1/x4eyjfv/live.isml/events(live-1469725176)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MFRF94w.png",BHMA TV
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7oUMRVj.png",CORFU CHANNEL
