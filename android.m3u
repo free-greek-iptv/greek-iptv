@@ -135,13 +135,10 @@ mms://deltatv1.dyndns.org:1194
 https://www.youtube.com/watch?v=Fcomx2jV1Cw
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MVrLjre.png",TOP CHANNEL
 http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/PNSKuHk.png",WEST CHANNEL
-http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/RW83YYe.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/RW83YYe.png",ENA LAMIAS
-rtmp://204.77.214.14/mogulus-stream-edge/lamiaenatv/rtmp://212-169.livestream.com/affiliateStream/lamiaenatv/6c69766572657065617465723a72746d703a2f2f3231322d3136392e6c69766573747265616d2e636f6d2f6d6f67756c75732f6c616d6961656e6174762f6c69766573747265616d
-
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/61525402/TV_DELTA.png",DRAMA TV
+https://www.youtube.com/watch?v=rOBW6DJwlv0
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MFRF94w.png",BHMA TV
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7oUMRVj.png",CORFU CHANNEL
@@ -177,7 +174,7 @@ rtmp://176.9.123.140:1935/santorini/santorini
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/D1VjXMn.png",TV ALITHEIA
 https://www.youtube.com/watch?v=C2qW_-v9Ri8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/z9YLCnG.png",TV MYTILINI
-rtmp://cp77174.live.edgefcs.net/live/123456@19937@
+rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT TV
 https://www.youtube.com/watch?v=4TxS3Je89Iw
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/QUYJeJ5.png",MAKELEIO WEB TV
