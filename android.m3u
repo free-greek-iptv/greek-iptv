@@ -45,8 +45,8 @@ https://www.youtube.com/watch?v=rdlulSBQPp8
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://lh3.googleusercontent.com/-lSwZ7eXoMH4/Ub0r9qUsN4I/AAAAAAAAAco/P14Wb1ena98/s272-Ic42/mega_cyprus_tv.jpg",MEGA CY
-http://85.25.207.85/hlive/abr/l1/m1/l_57_2086801510_68243.ts?nimblesessionid=1627933&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDE2IDM6NDE6MDAgUE0maGFzaF92YWx1ZT1kWUl1V3VyUVZJYTFzVWFWTjMyU3NnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://www.tvradiogr.com/images/tv/mega-cyprus.jpg",MEGA CY
+http://85.25.207.85/hlive/abr/l1/m1/l_57_2087110806_68274.ts?nimblesessionid=1627972&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDE2IDM6NDk6MjEgUE0maGFzaF92YWx1ZT1penNiZCtvcnh5WlNxVGxsSWxuWU9BPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY
 https://www.youtube.com/watch?v=0khKa0_RnXk
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
