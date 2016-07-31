@@ -41,7 +41,7 @@ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 http://38.140.63.250:1935/gr-live/otesport5.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="",ACTION 24
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
 http://stream-13.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART
 https://www.youtube.com/watch?v=b3OP-35Pc50
