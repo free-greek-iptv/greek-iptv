@@ -28,7 +28,7 @@ http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP 
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI
-https://www.youtube.com/watch?v=ViSKuhoxJUw
+https://www.youtube.com/watch?v=fPhQdJy9OzY
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI BUP
 http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E
@@ -166,7 +166,7 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/4566fqM.png",VOLCANO
 rtmp://176.9.123.140:1935/santorini/santorini
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/D1VjXMn.png",TV ALITHEIA
-https://www.youtube.com/watch?v=C2qW_-v9Ri8
+https://www.youtube.com/watch?v=1DGNrbOtOyM
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/z9YLCnG.png",TV MYTILINI
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT TV
