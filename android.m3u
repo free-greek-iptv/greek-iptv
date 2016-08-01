@@ -63,8 +63,8 @@ rtmp://213.16.167.186:1935/live/mpegts_256.stream
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
-http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
+http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/WVqJAhQ.png",NATURA TV 
