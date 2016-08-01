@@ -49,6 +49,8 @@ rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3
 https://www.youtube.com/watch?v=0khKa0_RnXk
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://4.bp.blogspot.com/-5oZnWTS2ge8/TjXdTYpg0EI/AAAAAAAAAEE/hkhveln8JEo/s1600/ant1_cy_tv.jpg",ANT1 CY
+http://l2.cloudskep.com/antl2/abr/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
 http://stream-13.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
