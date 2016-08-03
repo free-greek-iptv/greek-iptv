@@ -2,10 +2,14 @@
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
 https://www.youtube.com/watch?v=VaviMC3KGtQ
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP 2
+http://live.upg.gr:8081/live/ert1/playlist.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP 3
 http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2
 https://www.youtube.com/watch?v=TyvdueFoCfA
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 BUP
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 BUP 2
+http://live.upg.gr:8081/live/ert2/playlist.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 BUP 3
 http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3
 https://www.youtube.com/watch?v=TAPQISON4YM
@@ -53,8 +57,6 @@ https://www.youtube.com/watch?v=rdlulSBQPp8
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA CY
-http://138.201.22.165/hlive/abr/l1/m1/chunks.m3u8?nimblesessionid=671145&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMTYgNTo0NDoxMSBQTSZoYXNoX3ZhbHVlPXRMVG1mUzhaT2ovR0tFN3VOd3NqQlE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY
 https://www.youtube.com/watch?v=0khKa0_RnXk
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
@@ -108,7 +110,7 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI BUP
 mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
-http://stream-08.vty.dailymotion.com/11/dm/1/xqjey2/live.isml/events(live-1468833651)/live-audio=128000-video=2000000.m3u8
+http://stream-13.vty.dailymotion.com/38/dm/1/xqjey2/live.isml/events(live-1470236143)/live-audio=128000-video=1200000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254420/LEPANTO.PNG",LEPANTO 
 http://stream-13.vty.dailymotion.com/07/dm/1/x4eyjfv/live.isml/events(live-1469725176)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/gN761Me.png",KPHTH TV
