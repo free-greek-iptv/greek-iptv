@@ -199,7 +199,7 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 rtmp://78.47.151.114/tilesport/movie1
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://cretatv.gr/wp-content/uploads/2016/04/CRETA-TV-%CE%A7%CE%91%CE%9D%CE%99%CE%91-logo-n.png",CRETA TV
 rtmp://94.23.218.186:1935/cretatv/cretatv
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://iscale.iheart.com/catalog/live/5799?ops=fit(240%2C240)",HELLENIC TV
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://4.bp.blogspot.com/-PGt5s0oF9c0/VYHPzZ37HHI/AAAAAAAAB0k/fAimOda2Rtg/s1600/tinos%2Btv%2B001.jpg",TINOS TV
 http://stream-06.vty.dailymotion.com/34/dm/1/x49eqwt/live.isml/events(live-1470376488)/live-audio=64000-video=400000.m3u8
