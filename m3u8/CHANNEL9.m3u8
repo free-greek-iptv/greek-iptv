@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,GR:CHANNEL9
-http://xchannel9grx.api.channel.livestream.com/3.0/playlist.m3u8 
+rtsp://mobilestr3.livestream.com/livestreamiphone/channel9gr
