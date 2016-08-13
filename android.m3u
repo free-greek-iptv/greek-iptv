@@ -211,7 +211,3 @@ http://stream-05.vty.dailymotion.com/49/dm/1/x49eqwt/live.isml/events(live-14708
 http://iphone-streaming.ustream.tv/uhls/22590560/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",KANALI 9
-http://globe2.midomed.com:80/live/toto//toto/2557.ts
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",KANALI 9 BUP
-http://136.243.89.70/channel_9_gr
