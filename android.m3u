@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
 http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream2.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP
+http://iptv.re:80/live/Server1000/rStartimes100Serve/3534.ts
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2
 http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream2.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 BUP
+http://iptv.re:80/live/Server1000/rStartimes100Serve/3542.ts
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png ,ERT3
 http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/chunklist_w1719238078_b1960000_sleng.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png ,ERT3 BUP
+http://iptv.re:80/live/Server1000/rStartimes100Serve/3543.ts
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA
 https://www.youtube.com/watch?v=2Y8qsS_xH2Y
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA BUP
@@ -15,6 +21,8 @@ http://iptv.re:80/live/Server1000/rStartimes100Serve/3535.ts
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 BUP
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 BUP 2
+http://iptv.re:80/live/Server1000/rStartimes100Serve/3536.ts
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA ΒUP
@@ -34,7 +42,7 @@ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV BUP
-http://136.243.89.70/m_tv_gr
+http://iptv.re:80/live/Server1000/rStartimes100Serve/3540.ts
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART
 https://www.youtube.com/watch?v=b3OP-35Pc50
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
@@ -203,3 +211,7 @@ http://stream-05.vty.dailymotion.com/49/dm/1/x49eqwt/live.isml/events(live-14708
 http://iphone-streaming.ustream.tv/uhls/22590560/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",KANALI 9
+http://globe2.midomed.com:80/live/toto//toto/2557.ts
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",KANALI 9 BUP
+http://136.243.89.70/channel_9_gr
