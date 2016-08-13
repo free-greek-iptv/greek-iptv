@@ -77,12 +77,26 @@ https://www.youtube.com/watch?v=rdlulSBQPp8
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/fyiu37kb7/rik1.png",RIK 1
+http://136.243.89.70/rik_1_cy
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/bdwnoa0lv/rik2.png",RIK 2
+http://136.243.89.70/rik2_cy
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA CY
+http://136.243.89.70/m_mega_cy
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
+http://l2.cloudskep.com/antl2/abr/playlist.m3u8
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY BUP
+http://136.243.89.70/antena_1_cy
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY
 https://www.youtube.com/watch?v=0khKa0_RnXk
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
-http://l2.cloudskep.com/antl2/abr/playlist.m3u8
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP
+http://136.243.89.70/sigma_cy
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/fa5e6iw7n/capital.png",CAPITAL
+http://136.243.89.70/capital_cy
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/6r1jedatv/extra_tv.png",EXTRA
+http://136.243.89.70/extra_cy
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
 http://stream-03.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
@@ -247,3 +261,5 @@ http://stream-05.vty.dailymotion.com/49/dm/1/x49eqwt/live.isml/events(live-14708
 http://iphone-streaming.ustream.tv/uhls/22590560/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://www.radioapokalipsi.gr/uploads/1/0/4/3/10434720/7855735.jpg",APOKALIPSI WEBTV
+https://www.youtube.com/watch?v=Wakk2pw0ELM
