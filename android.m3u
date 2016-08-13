@@ -264,4 +264,4 @@ http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://www.radioapokalipsi.gr/uploads/1/0/4/3/10434720/7855735.jpg",APOKALIPSI WEBTV
 https://www.youtube.com/watch?v=Wakk2pw0ELM
 #EXTINF:0, group-title="WEB TV" tvg-logo="",TEST
-www.lakatamia.tv/app/m3u/rik1.m3u
+http://www.lakatamia.tv/app/m3u/rik1.m3u
