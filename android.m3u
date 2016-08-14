@@ -61,9 +61,9 @@ rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MEGA.COSMOS.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/4t2GyX2.png",ALPHA SAT
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ALPHA.SAT.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/fyiu37kb7/rik1.png",RIK 1
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/JR07zIN.png",RIK 1
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik1.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/bdwnoa0lv/rik2.png",RIK 2
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/6XSloOR.png",RIK 2
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik2.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA CY
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/Mega.cy.m3u8
