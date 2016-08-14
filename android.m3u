@@ -57,9 +57,9 @@ https://www.youtube.com/watch?v=rdlulSBQPp8
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://s19.postimg.org/4i5thn76b/Mega_Cosmos.png",MEGA COSMOS
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/NUwlnWu.png",MEGA COSMOS
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MEGA.COSMOS.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Alpha_Sat.png",ALPHA SAT
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/4t2GyX2.png",ALPHA SAT
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ALPHA.SAT.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/fyiu37kb7/rik1.png",RIK 1
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik1.m3u8
@@ -139,7 +139,7 @@ http://stream-ec2.vty.dailymotion.com/03/dm/1/x4eyjfv/live.isml/events(live-1470
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/JnKysEY.png",NEA TV
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/dzR618m.png",CRETA 
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/uLaoSrL.png",TV CRETA 
 http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/H7iFPO1.png",TV-100 
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
