@@ -103,8 +103,6 @@ http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/6xRxPun.png",TV GOLD
 mms://tvgold.webcast.mediacdn.com/tvgold
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://mad.tv/wp-content/uploads/2014/05/1303392381.jpg",MAD
-http://144.76.2.213:1935/live/livestream
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/sepsdxn.png",THEMA TV
