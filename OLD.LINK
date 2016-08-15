@@ -1,0 +1,44 @@
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",MEGA 
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",MEGA
+http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ANT1
+http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ALPHA
+http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ALPHA 
+http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ALPHA 
+http://193.92.37.235:1935/liveedge/live@720/manifest.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ALPHA 
+http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",STAR
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",STAR 
+http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",STAR 
+http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",STAR 
+http://94.23.218.186:1935/galanos21/galanos21/chunklist_w1213669043.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",SKAI 
+http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",E TV 
+http://38.140.63.250:1935/gr-live/otesport5.sdp/playlist.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",E TV 
+http://176.9.30.75:1935/live/epsilon/master.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ART 
+https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",ART
+http://104.200.159.58:1935/app/artthleorashs-channel/playlist.m3u8  
+#EXTINF:0, group-title="Κυπριακά" tvg-logo="",MAD CYPRUS
+rtmp://144.76.2.213/live/livestream
+#EXTINF:0, group-title="Κυπριακά" tvg-logo="",MAD CYPRUS 
+rtmp://144.76.2.213:1935/live/livestream
+#EXTINF:0, group-title="Κυπριακά" tvg-logo="",MAD CYPRUS 
+http://144.76.2.213:1935/live/livestream/playlist.m3u8
+#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",BLUE SKY 
+rtsp://136.243.200.188:1935/tvlive/tvlive
+#EXTINF:0, group-title="web tv" tvg-logo="",GREEK CINEMA
+http://wpc.68FC.edgecastcdn.net/8068FC/INFINITY/m3u8/cinema.m3u8
+#EXTINF:0, group-title="web tv" tvg-logo="",ELLADA TC
+rtmp://fml.68FC.edgecastcdn.net/2068FC/elladatv
