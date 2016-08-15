@@ -12,20 +12,14 @@ https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT3.m3
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png ,ERT3 BUP 
 http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA 
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MEGA.GR.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA BUP
 http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA BUP 2
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA BUP 
 https://www.youtube.com/watch?v=2Y8qsS_xH2Y
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 BUP 
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ANT1.GR.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 BUP 2
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA 
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ALPHA.GR.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA BUP
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR 
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/STAR.m3u8
@@ -57,10 +51,6 @@ https://www.youtube.com/watch?v=rdlulSBQPp8
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/NUwlnWu.png",MEGA COSMOS
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MEGA.COSMOS.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/4t2GyX2.png",ALPHA SAT
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ALPHA.SAT.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/JR07zIN.png",RIK 1
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik1.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/6XSloOR.png",RIK 2
@@ -203,8 +193,6 @@ https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/OMEGA.m
 rtmp://94.23.218.186/samiaki/samiaki
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/mAhkgEw.png",SYROS TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/mAhkgEw.png",SYROS TV1 BUP
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/TV_1_SYROS.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/4566fqM.png",VOLCANO
 rtmp://176.9.123.140:1935/santorini/santorini
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/z9YLCnG.png",TV MYTILINI
