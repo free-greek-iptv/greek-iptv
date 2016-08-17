@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT1.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP 
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 
 http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream2.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT2.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 BUP 
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 
 http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream2.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png ,ERT3
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT3.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png ,ERT3 BUP 
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png ,ERT3 
 http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA 
 http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
@@ -22,24 +16,14 @@ http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA 
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR 
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/STAR.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP
 http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI 
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/SKAI.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI BUP 
-https://www.youtube.com/watch?v=fNkYiojNHlc
+https://www.youtube.com/watch?v=FKGWmvHwBAc
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E BUP
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ETV.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV BUP 2
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MAKEDONIA.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART 
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ART.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART BUP
 https://www.youtube.com/watch?v=b3OP-35Pc50
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/EURONEWS.m3u8
@@ -51,24 +35,12 @@ https://www.youtube.com/watch?v=rdlulSBQPp8
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/JR07zIN.png",RIK 1
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik1.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/6XSloOR.png",RIK 2
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rik2.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA CY
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/Mega.cy.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
-http://l2.cloudskep.com/antl2/abr/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY
 https://www.youtube.com/watch?v=0khKa0_RnXk
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
+http://l2.cloudskep.com/antl2/abr/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/SIGMA.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/fa5e6iw7n/capital.png",CAPITAL CY
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/CAPITAL.m3u8
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/WeeJEpz.png",EXTRA CY
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/EXTRA.CY.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
 http://stream-03.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
@@ -119,8 +91,6 @@ rtmp://eradio.networksolutions.com.cy/live/livestream
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E BUP
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E BUP 2
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/4E.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/UKdSX5z.png",WZRA KIDS
 mmsh://wpso.com:200/kids
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI
@@ -175,8 +145,6 @@ http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/DFeXxxO.png",ASTRA TV
 http://www.astratv.gr:8090/hls/livestream.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/DFeXxxO.png",ASTRA TV BUP
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ASTRA.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/nAzfWx5.png",TRT TV
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/K6yJMyU.png",ACHAIA CHANNEL
@@ -191,12 +159,8 @@ http://iphone-streaming.ustream.tv/uhls/13351318/streams/live/iphon/playlist.m3u
 http://stream-10.vty.dailymotion.com/48/dm/1/x4hnjh6/live.isml/events(live-1471120976)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV BUP
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/AIGAIO.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7o98X3F.png",OMEGA TV
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7o98X3F.png",OMEGA TV BUP
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/OMEGA.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/ENwk1Qq.png",SAMIAKI TV
 rtmp://94.23.218.186/samiaki/samiaki
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/mAhkgEw.png",SYROS TV1
