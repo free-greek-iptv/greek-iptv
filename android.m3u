@@ -23,6 +23,8 @@ http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
 mmsh://38.99.163.111:80/star?sid=EE738802-4738-3D9K-B522-B902A7A119A3&MSWMExt=.asf
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI 
 https://www.youtube.com/watch?v=FKGWmvHwBAc
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI BUP
+mmsh://38.99.163.111:80/skai?sid=DC2AE07A-DFD4-3D9K-A85F-E43BD1ED90E4&MSWMExt=.asf
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV
