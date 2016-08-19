@@ -115,6 +115,8 @@ http://iphone-streaming.ustream.tv/uhls/18655753/streams/live/iphone/playlist.m3
 mmsh://38.103.153.242:80/kids?MSWMExt=.asf
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/h4wW2Tp.png",KIDS TV 2
 mmsh://wpso.com:200/kids
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/h4wW2Tp.png",KIDS TV 2 BUP
+mmsh://38.103.153.242:80/kids2?MSWMExt=.asf
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E BUP
@@ -215,6 +217,8 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS TV BUP
+mmsh://38.103.153.242:80/ellinikos?MSWMExt=.asf
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/lF7tUV8.png",MANA ELLADA TV
 http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA TV
