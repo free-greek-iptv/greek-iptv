@@ -14,7 +14,7 @@ http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 BUP 2
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA
-mmsh://38.99.163.111:80/alpha?sid=1F10F636-32BA-3D9K-916C-CFFE62DE772A&MSWMExt=.asf
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ALPHA.GR
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA BUP
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR 
@@ -63,8 +63,6 @@ https://www.youtube.com/watch?v=4TxS3Je89Iw
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="https://i.ytimg.com/vi/3uj5uqg5jaw/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=esRWYR35dMjmvZ0sKQRYIjmDV08",GREEK CINEMA 2
 mmsh://38.103.153.242:80/maxtv?sid=D4D41F34-AC79-3D9K-8F66-AA57EA0CB364&MSWMExt=.asf
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
-http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
@@ -79,8 +77,6 @@ http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 http://5.196.92.57/webtv/medium.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
-http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
 rtmp://live.streams.ovh/cannali/cannali
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
@@ -183,6 +179,10 @@ http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/n907AGO.png",EBS PLUS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
+http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/lF7tUV8.png",MANA ELLADA TV
