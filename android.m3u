@@ -77,14 +77,18 @@ mmsh://38.103.153.242:80/new_gr?MSWMExt=.asf
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="https://i.ytimg.com/vi/3uj5uqg5jaw/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=esRWYR35dMjmvZ0sKQRYIjmDV08",GREEK CINEMA 2
 mmsh://38.103.153.242:80/maxtv?sid=D4D41F34-AC79-3D9K-8F66-AA57EA0CB364&MSWMExt=.asf
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://cdn8.staztic.com/app/a/2936/2936166/greece-tv-live-greek-tv-1-0-s-307x512.jpg",GREEK SERIES TV
+mmsh://38.103.153.242:80/seriestv?MSWMExt=.asf
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://a4.mzstatic.com/us/r1000/102/Purple/v4/b7/f0/70/b7f070b5-7a89-6a7c-1452-124077515ed5/icon.175x175-75.png",SERIES TV
+mmsh://38.103.153.242:80/SeriesTV2?MSWMExt=.asf
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/6xRxPun.png",TV GOLD
-mms://tvgold.webcast.mediacdn.com/tvgold
+#EXTINF:0, group-title="WEB TV" tvg-logo="https://lh6.ggpht.com/UkyGbUDjC4R0xnfSGiJIu1SblNw4oJTP7gGZ3TS0tWGcRDK6ThO8lhV_xxhK0ruxOQ=w300",DOCYMENTARY TV
+mmsh://38.99.163.111:80/thes100?MSWMExt=.asf
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD TV CY
 rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
@@ -170,7 +174,7 @@ https://www.youtube.com/watch?v=txPl0fKQqrc
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/lFa1KuV.gif",SUPER B
 http://iphone-streaming.ustream.tv/uhls/13351318/streams/live/iphon/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/2UQ9O1T.png",IONIAN TV
-http://stream-01.vty.dailymotion.com/40/dm/1/x4hnjh6/live.isml/events(live-1471382599)/live-audio=128000-video=2000000.m3u8
+http://stream-04.vty.dailymotion.com/08/dm/1/x4hnjh6/live.isml/events(live-1471534350)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7o98X3F.png",OMEGA TV
@@ -191,6 +195,8 @@ http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/n907AGO.png",EBS PLUS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/6xRxPun.png",TV GOLD
+mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
 http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
@@ -212,7 +218,7 @@ rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SD
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://4.bp.blogspot.com/-PGt5s0oF9c0/VYHPzZ37HHI/AAAAAAAAB0k/fAimOda2Rtg/s1600/tinos%2Btv%2B001.jpg",TINOS TV
-http://stream-ec2.vty.dailymotion.com/43/dm/1/x3wwv6n/live.isml/events(live-1471545192)/live-audio=128000-video=1200000.m3u8
+http://stream-11.vty.dailymotion.com/39/dm/1/x3wwv6n/live.isml/events(live-1471585420)/live-audio=128000-video=1200000.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://www.greekradio.net/graphics/chwb.png",MONTREAL TV
