@@ -111,7 +111,7 @@ mmsh://wpso.com:200/music
 mmsh://38.99.163.111:80/grmusic?MSWMExt=.asf
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/ozpJVQb.png",TILEMOUSIKI 2
 http://iphone-streaming.ustream.tv/uhls/18655753/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/undefined.png",KIDS TV 
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/AVpfiRz.png",KIDS TV 
 mmsh://38.103.153.242:80/kids?MSWMExt=.asf
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/h4wW2Tp.png",KIDS TV 2
 mmsh://wpso.com:200/kids
