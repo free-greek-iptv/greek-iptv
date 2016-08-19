@@ -87,7 +87,7 @@ http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="https://lh6.ggpht.com/UkyGbUDjC4R0xnfSGiJIu1SblNw4oJTP7gGZ3TS0tWGcRDK6ThO8lhV_xxhK0ruxOQ=w300",DOCYMENTARY TV
+#EXTINF:0, group-title="WEB TV" tvg-logo="https://lh6.ggpht.com/UkyGbUDjC4R0xnfSGiJIu1SblNw4oJTP7gGZ3TS0tWGcRDK6ThO8lhV_xxhK0ruxOQ=w300",DOCUMENTARY TV
 mmsh://38.99.163.111:80/thes100?MSWMExt=.asf
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD TV CY
 rtmp://eradio.networksolutions.com.cy/live/livestream
@@ -217,6 +217,8 @@ rtmp://94.23.218.186:1935/cretatv/cretatv
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA BUP
+http://stream.ssh101.com:1935/live/greekvoice/chunklist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://4.bp.blogspot.com/-PGt5s0oF9c0/VYHPzZ37HHI/AAAAAAAAB0k/fAimOda2Rtg/s1600/tinos%2Btv%2B001.jpg",TINOS TV
 http://stream-11.vty.dailymotion.com/39/dm/1/x3wwv6n/live.isml/events(live-1471585420)/live-audio=128000-video=1200000.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
