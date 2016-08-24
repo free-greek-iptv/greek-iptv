@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
-http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream2.m3u8
+https://www.youtube.com/watch?v=gnnO4TeJG-4
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP
 https://www.youtube.com/watch?v=wyBm8cFiUp0
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2
-http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream2.m3u8
+https://www.youtube.com/watch?v=f7ISZRsgztY
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 BUP
 https://www.youtube.com/watch?v=Zjbwf5QE7aI
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png ,ERT3
-http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
+https://www.youtube.com/watch?v=NdrihJS8-5g
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png ,ERT3 BUP
 https://www.youtube.com/watch?v=nxebm_-DkF0
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA
