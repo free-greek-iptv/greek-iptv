@@ -147,7 +147,7 @@ http://78.129.184.15:23319/streaming/stream/playlist.m3u8
 http://138.201.57.212:1935/best/myStream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/AZVMgbB.png",DR TV
 https://www.youtube.com/watch?v=txPl0fKQqrc
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/6/8/7/5/6875027/6875027_art_plastic_white_1295419705,192x192,r:1.jpg",ART TV
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ART_TV.png",ART TV
 http://iphone-streaming.ustream.tv/uhls/6875027/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/lFa1KuV.gif",SUPER B
 http://iphone-streaming.ustream.tv/uhls/13351318/streams/live/iphon/playlist.m3u8
