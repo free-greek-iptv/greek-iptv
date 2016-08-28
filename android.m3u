@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=nxebm_-DkF0
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA BUP
 https://www.youtube.com/watch?v=2Y8qsS_xH2Y
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA BUP 2
+http://stream.ssh101.com:1935/live/megachannel/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 BUP
