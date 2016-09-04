@@ -90,7 +90,7 @@ mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/IJ9CPOF.png",STAR K.E.
 http://stream-03.vty.dailymotion.com/04/dm/1/xqjey2/live.isml/events(live-1472673827)/live-audio=128000-video=1200000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/YvXSqqO.png",LEPANTO 
-http://stream-11.vty.dailymotion.com/36/dm/1/x4eyjfv/live.isml/events(live-1472915668)/live-audio=128000-video=700000.m3u8
+http://stream-01.vty.dailymotion.com/48/dm/1/x4eyjfv/live.isml/events(live-1472971843)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/gN761Me.png",KPHTH TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/JnKysEY.png",NEA TV
