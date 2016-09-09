@@ -203,3 +203,5 @@ https://www.youtube.com/watch?v=A8eYODcxvwI
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://www.greekradio.net/graphics/chwb.png",MONTREAL TV
 http://iphone-streaming.ustream.tv/uhls/22590560/streams/live/iphone/playlist.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="",TEST
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/MEGA.CY.m3u8
