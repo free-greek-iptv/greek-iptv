@@ -169,6 +169,17 @@ mms://tvgold.webcast.mediacdn.com/tvgold
 http://stream-ec2.vty.dailymotion.com/39/dm/1/x2w1yj0/live.isml/events(live-1474304618)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://4.bp.blogspot.com/-PGt5s0oF9c0/VYHPzZ37HHI/AAAAAAAAB0k/fAimOda2Rtg/s1600/tinos%2Btv%2B001.jpg",TINOS TV
 http://stream-10.vty.dailymotion.com/34/dm/1/x3wwv6n/live.isml/events(live-1474261815)/live-audio=128000-video=1200000.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/3066.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xPuja9R.png",ATTICA TV
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/3072.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/3074.m3u8
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/yL195Ok.png",RISE 
+http://orbit-iptv.com:2500/live/3536/3536/2342.m3u8#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/3098.m3u8
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/wh1ziaidv/mad.png",MAD GR
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/3088.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/ZTIWHBd.png",NEW TV
