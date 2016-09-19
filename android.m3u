@@ -106,7 +106,7 @@ http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7n5PZua.gif",KANALI 6
 http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/5GXo7d3.png",R CHANNEL
-http://w11.streamgb.com:1935/8024/8024/playlist.m3u8
+rtmp://w11.streamgb.com:1935/8024/8024
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/WXlf12i.png",THRAKI NET
 http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/PNlJ9g5.png",TV EPILOGES
@@ -121,8 +121,6 @@ https://www.youtube.com/watch?v=Fcomx2jV1Cw
 http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/RW83YYe.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/erIcOfO.png",DRAMA TV
-https://www.youtube.com/watch?v=rOBW6DJwlv0
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MFRF94w.png",BHMA TV
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Gi8YadR.png",EPIRUS TV1
