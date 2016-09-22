@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=2Y8qsS_xH2Y
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA BUP
 http://5.196.81.121:8000/live/baba/baba/1375.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA BUP 1
-http://62.210.104.34/get/live/barryd/barryd/2553.m3u8
+http://62.210.104.34/live/barryd/barryd/2553.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 BUP
@@ -26,7 +26,7 @@ http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA BUP
 http://5.196.81.121:8000/live/baba/baba/1377.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR 
-http://62.210.104.34/get/live/barryd/barryd/2546.m3u8
+http://62.210.104.34/live/barryd/barryd/2546.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP
 http://5.196.81.121:8000/live/baba/baba/4319.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP 1
@@ -42,11 +42,11 @@ https://57c821d91eac3.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E BUP
 http://5.196.81.121:8000/live/baba/baba/1384.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E BUP 1
-http://62.210.104.34/get/live/barryd/barryd/2555.m3u8
+http://62.210.104.34/live/barryd/barryd/2555.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV BUP
-http://62.210.104.34/get/live/barryd/barryd/2554.m3u8
+http://62.210.104.34/live/barryd/barryd/2554.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART 
 http://stream-07.vty.dailymotion.com/01/dm/1/x4sxo2v/live.isml/events(live-1474547890)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/OaQ57Pu.png",EURONEWS
@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=0khKa0_RnXk
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
-http://62.210.104.34/get/live/barryd/barryd/2562.m3u8
+http://62.210.104.34/live/barryd/barryd/2562.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP
 http://5.196.81.121:8000/live/baba/baba/527.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP 1
@@ -72,11 +72,11 @@ http://stream-03.vty.dailymotion.com/37/dm/1/x2p626q/live.isml/events(live-14745
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC BUP
-http://62.210.104.34/get/live/barryd/barryd/2549.m3u8
+http://62.210.104.34/live/barryd/barryd/2549.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/CzxGu1G.png",BLUE SKY
 http://176.9.175.244:1935/bluesky/tvlive/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/CzxGu1G.png",BLUE SKY BUP
-http://62.210.104.34/get/live/barryd/barryd/2558.m3u8
+http://62.210.104.34/live/barryd/barryd/2558.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/aZJPj9f.png",EXTRA CHANNEL
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/aZJPj9f.png",EXTRA CHANNEL BUP
@@ -86,15 +86,15 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/FpTDRtd.png",KONTRA BUP
 http://5.196.81.121:8000/live/baba/baba/1383.m3u8
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/FkcVaZY.png",NICKELODEON
-http://62.210.104.34/get/live/barryd/barryd/2551.m3u8
+http://62.210.104.34/live/barryd/barryd/2551.m3u8
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/FkcVaZY.png",NICKELODEON BUP
 http://5.196.81.121:8000/live/baba/baba/1380.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE 
-http://62.210.104.34/get/live/barryd/barryd/2547.m3u8
+http://62.210.104.34/live/barryd/barryd/2547.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE BUP
 http://5.196.81.121:8000/live/baba/baba/1381.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9
-http://62.210.104.34/get/live/barryd/barryd/2557.m3u8
+http://62.210.104.34/live/barryd/barryd/2557.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 BUP
 rtmp://204.77.214.15:80/mogulus-stream-edge/channel9gr/rtmp://212-47.livestream.com/affiliateStream/channel9gr/6c69766572657065617465723a72746d703a2f2f3231322d34372e6c69766573747265616d2e636f6d2f6d6f67756c75732f6368616e6e656c3967722f6368616e6e656c39
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT TV
@@ -102,9 +102,9 @@ https://www.youtube.com/watch?v=4TxS3Je89Iw
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT TV BUP
 http://5.196.81.121:8000/live/baba/baba/526.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/AB_CHANNEL.png",AB CHANNEL
-http://62.210.104.34/get/live/barryd/barryd/2563.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://el.wikipedia.org/wiki/Αρχείο:Atticatv_logo_2015.png",ATTICA TV
-http://62.210.104.34/get/live/barryd/barryd/2560.m3u8
+http://62.210.104.34/live/barryd/barryd/2563.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://www.digea.gr/project_images/Images/Channel%20logos/Attiki/ATTICA%20TV.jpg",ATTICA TV
+http://62.210.104.34/live/barryd/barryd/2560.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
