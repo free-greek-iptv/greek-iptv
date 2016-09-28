@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
-http://s1.finoip.com:20000/live/paolo/paolo/3078.ts
+http://s1.ukhdtv.com:7860/live/gary/gary/1447.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP
 https://www.youtube.com/watch?v=gnnO4TeJG-4
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2
-http://s1.finoip.com:20000/live/paolo/paolo/3079.ts
+http://s1.ukhdtv.com:7860/live/gary/gary/1446.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 BUP
 https://www.youtube.com/watch?v=7IVPHnffeHs
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png ,ERT3
-http://s1.finoip.com:20000/live/paolo/paolo/3080.ts
+http://s1.ukhdtv.com:7860/live/gary/gary/1445.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png ,ERT3 BUP
 https://www.youtube.com/watch?v=NdrihJS8-5g
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA 
@@ -51,6 +51,8 @@ https://www.youtube.com/watch?v=0khKa0_RnXk
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
 http://www.ipsat.me:8000/live/ghost/ghost/2944.m3u8?swf
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA 
+http://s1.ukhdtv.com:7860/live/gary/gary/933.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 
 http://stream-ec2.vty.dailymotion.com/37/dm/1/x2p626q/live.isml/events(live-1474560839)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP
