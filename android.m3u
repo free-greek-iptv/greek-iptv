@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/EPT_HD_logo.svg",ERT HD
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/EPT_HD.png",ERT HD
 http://s1.ukhdtv.com:7860/live/gary/gary/1447.m3u8&ts
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
 https://www.youtube.com/watch?v=gnnO4TeJG-4
