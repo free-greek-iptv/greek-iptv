@@ -20,7 +20,7 @@ http://s1.ukhdtv.com:7860/live/gary/gary/1437.m3u8&ts
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI
-http://www.ipsat.me:8000/live/ghost/ghost/2950.m3u8?swf
+https://www.youtube.com/watch?v=1CD139bVQ4o
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI BUP
 http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E
@@ -28,7 +28,7 @@ https://57c821d91eac3.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART 
-http://stream-04.vty.dailymotion.com/33/dm/1/x4uyz1w/live.isml/events(live-1475031616)/live-audio=128000-video=700000.m3u8
+http://stream-ec2.vty.dailymotion.com/08/dm/1/x4uyz1w/live.isml/events(live-1475236996)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/OaQ57Pu.png",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/ZrD6GYb.png",ERT WORLD
@@ -59,7 +59,6 @@ rtmp://213.16.167.186:1935/live/mpegts_256.stream
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 
 rtmp://204.77.214.15:80/mogulus-stream-edge/channel9gr/rtmp://212-47.livestream.com/affiliateStream/channel9gr/6c69766572657065617465723a72746d703a2f2f3231322d34372e6c69766573747265616d2e636f6d2f6d6f67756c75732f6368616e6e656c3967722f6368616e6e656c39
-
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT TV
 https://www.youtube.com/watch?v=4TxS3Je89Iw
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 
@@ -97,7 +96,7 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI BUP
 mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/IJ9CPOF.png",STAR K.E.
-http://stream-06.vty.dailymotion.com/15/dm/1/xqjey2/live.isml/events(live-1474987627)/live-audio=128000-video=1200000.m3u8
+http://stream-03.vty.dailymotion.com/36/dm/1/xqjey2/live.isml/events(live-1475242748)/live-audio=128000-video=1200000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/YvXSqqO.png",LEPANTO 
 http://stream-02.vty.dailymotion.com/33/dm/1/x4eyjfv/live.isml/events(live-1475067728)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/gN761Me.png",KPHTH TV
@@ -163,7 +162,7 @@ rtmp://176.9.123.140:1935/santorini/santorini
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/z9YLCnG.png",TV MYTILINI
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/2UQ9O1T.png",IONIAN TV
-http://stream-09.vty.dailymotion.com/07/dm/1/x4hnjh6/live.isml/events(live-1474991985)/live-audio=128000-video=2000000.m3u8
+http://stream-13.vty.dailymotion.com/08/dm/1/x4hnjh6/live.isml/events(live-1475248763)/live-audio=128000-video=2000000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52577601/ALETHEIA_TV.png",ALITHEIA TV
 https://www.youtube.com/watch?v=HTF_frj5-Lg
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Glp0YiN.png",LYCHNOS
@@ -175,9 +174,9 @@ http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/6xRxPun.png",TV GOLD
 mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://s1.dmcdn.net/Lpj8y/60x60-ioF.jpg",EXTRA KAVANTZA
-http://stream-13.vty.dailymotion.com/19/dm/1/x2w1yj0/live.isml/events(live-1475056596)/live-audio=64000-video=400000.m3u8
+http://stream-01.vty.dailymotion.com/38/dm/1/x2w1yj0/live.isml/events(live-1475242741)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://4.bp.blogspot.com/-PGt5s0oF9c0/VYHPzZ37HHI/AAAAAAAAB0k/fAimOda2Rtg/s1600/tinos%2Btv%2B001.jpg",TINOS TV
-http://stream-ec2.vty.dailymotion.com/15/dm/1/x3wwv6n/live.isml/events(live-1475040884)/live-audio=128000-video=1200000.m3u8
+http://stream-12.vty.dailymotion.com/30/dm/1/x3wwv6n/live.isml/events(live-1475230108)/live-audio=128000-video=1200000.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/ZTIWHBd.png",NEW TV
