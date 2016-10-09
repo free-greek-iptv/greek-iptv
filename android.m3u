@@ -5,15 +5,19 @@ https://www.youtube.com/watch?v=gnnO4TeJG-4
 https://www.youtube.com/watch?v=7IVPHnffeHs
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/0Oz56bA.png ,ERT3
 https://www.youtube.com/watch?v=NdrihJS8-5g
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA 
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA
 https://www.youtube.com/watch?v=2Y8qsS_xH2Y
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA BUP
+rtmp://94.75.240.96:1935/mega/mega.sdp
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA 
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR
 http://ipsatpro.com:8000/live/156/156/848.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP 1
+rtmp://94.75.240.96:1935/star/star.sdp
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/30uLkyA.png",STAR BUP 2
 http://starhdlive2-lh.akamaihd.net/I/live_1@181243/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI
 https://www.youtube.com/watch?v=Ug5gBDLNiGY
