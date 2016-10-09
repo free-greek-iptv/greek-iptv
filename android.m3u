@@ -49,6 +49,8 @@ http://176.9.175.244:1935/bluesky/tvlive/playlist.m3u8
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/FpTDRtd.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/xpimavggj/Channel9.png",CHANNEL 9
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/CHANNEL9.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT TV
 https://www.youtube.com/watch?v=Vi1Bnjb9Wv8
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/FkcVaZY.png",NICKELODEON
