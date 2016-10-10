@@ -65,6 +65,8 @@ https://www.youtube.com/watch?v=Vi1Bnjb9Wv8
 http://dmtn-iptv.com:8080/live/189nad1604/189nad1604/8757.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, group-title="Cinema" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
+http://stream.ssh101.com:1935/live/lampsitv/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
 http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i855.photobucket.com/albums/ab117/twilight-zero/Channel-Icons/APEIRO%20TV.png", APEIRO TV
