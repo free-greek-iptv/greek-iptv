@@ -43,6 +43,8 @@ https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
 rtmp://94.75.240.96:1935/e/e.sdp
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART 
 http://stream-08.vty.dailymotion.com/38/dm/1/x4x146p/live.isml/events(live-1476500417)/live-audio=128000-video=700000.m3u8
+#EXTINF:-1,Nickelodeon
+http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1986.ts
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="",RISE
 http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1501.ts
 #EXTINF:-1,Smile
