@@ -106,7 +106,7 @@ mmsh://wpso.com:200/music
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/ozpJVQb.png",TILEMOUSIKI 2
 http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://www.gatzoli.gr/wp-content/uploads/2016/09/logo.png",GATZOLI TV
-rtmp://live.streams.ovh:1935/GATZOLITV/GATZOLITV
+http://live.streams.ovh:1935/GATZOLITV/GATZOLITV/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/h4wW2Tp.png",KIDS TV
 mmsh://wpso.com:200/kids
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E
