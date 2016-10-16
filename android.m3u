@@ -101,7 +101,7 @@ http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/oYR9RVE.png",Magic TV
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/QZQhg6C.png",MAGIC TV HD
 http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
 mmsh://wpso.com:200/music
