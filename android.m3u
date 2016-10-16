@@ -114,8 +114,6 @@ http://stream-02.vty.dailymotion.com/03/dm/1/x2w1yj0/live.isml/events(live-14765
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/h4wW2Tp.png",WZRA KIDS
 mmsh://wpso.com:200/kids
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E BUP
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
