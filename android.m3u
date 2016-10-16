@@ -212,7 +212,7 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/0Ovqq2f.png",TILESPORT
 rtmp://78.47.151.114/tilesport/movie1
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://cretatv.gr/wp-content/uploads/2016/04/CRETA-TV-%CE%A7%CE%91%CE%9D%CE%99%CE%91-logo-n.png",CRETA TV
-rtmp://94.23.218.186:1935/cretatv/cretatv
+http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA
