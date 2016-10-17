@@ -75,6 +75,18 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT TV
 https://www.youtube.com/watch?v=nc95hYFIdqg
+#EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="",KIDS TV
+mmsh://38.103.153.242:80/kids?MSWMExt=.asf
+#EXTINF:0, group-title="CINEMA" tvg-logo="",CINEMA
+mmsh://38.103.153.242:80/maxtv?MSWMExt=.asf
+#EXTINF:0, group-title="CINEMA" tvg-logo="",CINEMA 2
+mmsh://38.103.153.242:80/new_gr?MSWMExt=.asf
+#EXTINF:0, group-title="CINEMA" tvg-logo="",GREEK SERIES
+mmsh://38.103.153.242/seriestv?MSWMExt=.asf
+#EXTINF:0, group-title="CINEMA" tvg-logo="",SERIES
+mmsh://38.103.153.242/SeriesTV2?MSWMExt=.asf
+#EXTINF:0, group-title="CINEMA" tvg-logo="",DOCU TV
+mmsh://38.99.163.111/thes100?MSWMExt=.asf
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
