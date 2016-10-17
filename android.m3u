@@ -71,17 +71,17 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT TV
 https://www.youtube.com/watch?v=nc95hYFIdqg
-#EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="",KIDS TV
+#EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",KIDS TV
 mmsh://38.103.153.242:80/kids?MSWMExt=.asf
-#EXTINF:0, group-title="CINEMA" tvg-logo="",CINEMA
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/UbLlB0R.png",CINEMA
 mmsh://38.103.153.242:80/maxtv?MSWMExt=.asf
-#EXTINF:0, group-title="CINEMA" tvg-logo="",CINEMA 2
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/UbLlB0R.png",CINEMA 2
 mmsh://38.103.153.242:80/new_gr?MSWMExt=.asf
-#EXTINF:0, group-title="CINEMA" tvg-logo="",GREEK SERIES
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/k9Bhah8.png",GREEK SERIES
 mmsh://38.103.153.242/seriestv?MSWMExt=.asf
-#EXTINF:0, group-title="CINEMA" tvg-logo="",SERIES
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/k9Bhah8.png",SERIES
 mmsh://38.103.153.242/SeriesTV2?MSWMExt=.asf
-#EXTINF:0, group-title="CINEMA" tvg-logo="",DOCU TV
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/g8OmG89.png",DOCU TV
 mmsh://38.99.163.111/thes100?MSWMExt=.asf
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
@@ -91,10 +91,6 @@ http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
 http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/kVSyeQw.png", APEIRO TV
 http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/kVSyeQw.png", APEIRO TV 2
-http://137.74.171.115:1935/galanos/live3/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/kVSyeQw.png", APEIRO TV 3
-http://137.74.171.115:1935/galanos/live4/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
