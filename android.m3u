@@ -83,9 +83,9 @@ http://IPTVFREE1.COM:6969/live/1/www.iptvrestream.net/3637.m3u8&amp;streamtype=T
 http://IPTVFREE1.COM:6969/live/1/www.iptvrestream.net/3653.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",KIDS TV
 mmsh://38.103.153.242:80/kids?MSWMExt=.asf
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/UbLlB0R.png",CINEMA
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/UbLlB0R.png",MAX GREEK CINEMA
 mmsh://38.103.153.242:80/maxtv?MSWMExt=.asf
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/UbLlB0R.png",CINEMA 2
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/UbLlB0R.png",CINEMA
 mmsh://38.103.153.242:80/new_gr?MSWMExt=.asf
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/k9Bhah8.png",GREEK SERIES
 mmsh://38.103.153.242/seriestv?MSWMExt=.asf
@@ -131,6 +131,8 @@ http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
 rtmp://live.streams.ovh:1935/GATZOLITV/GATZOLITV
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://s1.dmcdn.net/Lpj8y/60x60-ioF.jpg",EXTRA KAVANTZA
 http://stream-02.vty.dailymotion.com/03/dm/1/x2w1yj0/live.isml/events(live-1476554184)/live-audio=64000-video=400000.m3u8
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/9VvqV8Th.jpg",ENTEXNOS TV
+rtmp://live.streams.ovh/Ellastv/Ellastv
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",WZRA KIDS
 mmsh://wpso.com:200/kids
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E
