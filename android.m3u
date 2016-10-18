@@ -74,7 +74,7 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT
-https://www.youtube.com/watch?v=nc95hYFIdqg
+https://www.youtube.com/watch?v=L0qL9fjUUKU
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",KIDS TV
 mmsh://38.103.153.242:80/kids?MSWMExt=.asf
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/UbLlB0R.png",CINEMA
@@ -156,7 +156,7 @@ rtmp://live.streams.ovh:1935/rchanneltv/rchanneltv
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/WXlf12i.png",THRAKI NET
 rtmp://hls.onestreaming.com:1935/live/thrakinettv
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/u9MOLwa.png",STAR B.E.
-https://www.youtube.com/watch?v=sVsCvfB7Mx0
+https://www.youtube.com/watch?v=2-vS7UMHafc
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/PNlJ9g5.png",TV EPILOGES
 http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xAKXNn1.png",FLASH TV
