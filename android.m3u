@@ -51,7 +51,7 @@ rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT BUP
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK 1
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/fyiu37kb7/rik1.png",RIK 1
 http://dmtn-iptv.com:8080/live/tet/tet/7864.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/MegaOneCY.jpg",MEGAONE CY
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/megacy.m3u8
