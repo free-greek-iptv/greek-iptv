@@ -63,8 +63,6 @@ http://tvf.ddns.net/live/69855248mgcytfg/playlist.m3u8
 http://tvf.ddns.net/live/69855248ant1cytfg/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY
 https://www.youtube.com/watch?v=dLI7hbWmWE4
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY BUP
-http://dmtn-iptv.com:8080/live/tet/tet/7876.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
@@ -107,7 +105,7 @@ http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
 http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/kVSyeQw.png", APEIRO TV
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/kVSyeQw.png",APEIRO TV
 http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
