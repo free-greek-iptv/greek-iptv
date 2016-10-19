@@ -51,6 +51,8 @@ rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT BUP
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK 1
+http://dmtn-iptv.com:8080/live/tet/tet/7864.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/MegaOneCY.jpg",MEGAONE CY
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/megacy.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/MegaOneCY.jpg",MEGAONE CY BUP
@@ -59,6 +61,8 @@ http://IPTVFREE1.COM:6969/live/1/www.iptvrestream.net/3341.m3u8&amp;streamtype=T
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ant1cy.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY
 https://www.youtube.com/watch?v=dLI7hbWmWE4
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY BUP
+http://dmtn-iptv.com:8080/live/tet/tet/7876.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 
