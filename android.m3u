@@ -56,7 +56,7 @@ http://dmtn-iptv.com:8080/live/tet/tet/7864.m3u8&amp;streamtype=TSDOWNLOADER&amp
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/MegaOneCY.jpg",MEGAONE CY
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/megacy.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/MegaOneCY.jpg",MEGAONE CY BUP
-http://IPTVFREE1.COM:6969/live/1/www.iptvrestream.net/3341.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+http://stream.greekelitetv.com:1935/mega_cyprus/mega_cyprus.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 CY
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ant1cy.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY
@@ -77,16 +77,14 @@ http://176.9.175.244:1935/bluesky/tvlive/playlist.m3u8
 rtmp://204.77.214.15:80/mogulus-stream-edge/channel9gr/rtmp://212-47.livestream.com/affiliateStream/channel9gr/6c69766572657065617465723a72746d703a2f2f3231322d34372e6c69766573747265616d2e636f6d2f6d6f67756c75732f6368616e6e656c3967722f6368616e6e656c39
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/aZJPj9f.png",EXTRA CHANNEL
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://4.bp.blogspot.com/-RNna6fkMj7A/UV7_0uyuN6I/AAAAAAAAOII/1Ot7qXhAamg/s200/hightv.jpg",HIGH TV
+http://IPTVFREE1.COM:6969/live/1/www.iptvrestream.net/3637.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/FpTDRtd.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT
 https://www.youtube.com/watch?v=L0qL9fjUUKU
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
-http://IPTVFREE1.COM:6969/live/1/www.iptvrestream.net/3659.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://4.bp.blogspot.com/-RNna6fkMj7A/UV7_0uyuN6I/AAAAAAAAOII/1Ot7qXhAamg/s200/hightv.jpg",HIGH TV
-http://IPTVFREE1.COM:6969/live/1/www.iptvrestream.net/3637.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE 
 http://IPTVFREE1.COM:6969/live/1/www.iptvrestream.net/3653.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",KIDS TV
