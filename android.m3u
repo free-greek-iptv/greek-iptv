@@ -156,7 +156,7 @@ http://stream.ssh101.com:1935/live/tinostileorasi/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/f/MAD.png",MAD TV GR
 http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/7138.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/107431668/RISE.png",RISE
-http://ipsatpro.com:8000/live/odriscoll/odriscoll/864.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+http://ipsatpro.com:8000/live/reg/reg/864.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/f/MAD.png",MAD TV CY
 http://eradio.networksolutions.com.cy/live/livestream/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
