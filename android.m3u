@@ -65,7 +65,7 @@ http://ipsatpro.com:8000/live/reg/reg/854.m3u8&amp;streamtype=TSDOWNLOADER&amp;n
 http://ipsatpro.com:8000/live/reg/reg/859.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://stream-04.vty.dailymotion.com/03/dm/1/x4x146p/live.isml/events(live-1476759618)/live-audio=128000-video=700000.m3u8
-#EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/OaQ57Pu.png",EURONEWS
+#EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/OaQ57Pu.png",EURONEWS BUP
 http://stream.greekelitetv.com:1935/euro_news/euro_news.stream/playlist.m3u8
