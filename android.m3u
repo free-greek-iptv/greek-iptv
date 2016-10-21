@@ -183,6 +183,8 @@ http://stream-10.vty.dailymotion.com/06/dm/1/x2w1yj0/live.isml/events(live-14768
 mmsh://wpso.com:200/kids
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E BUP
+rtmp://stream2.svbllc.com:1935/4e/4e.stream
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP
