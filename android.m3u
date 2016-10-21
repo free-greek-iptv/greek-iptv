@@ -48,11 +48,11 @@ rtmp://stream.greekelitetv.com:1935/star/star.stream
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 3
 mmsh://38.99.163.111:80/star?MSWMExt=.asf
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
-http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
+mmsh://38.99.163.111:80/skai?MSWMExt=.asf
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP
 rtmp://stream.greekelitetv.com:1935/skai/skai.stream
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 2
-mmsh://38.99.163.111:80/skai?MSWMExt=.asf
+http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP
@@ -66,7 +66,7 @@ http://IPTVFREE1.COM:6969/live/1/www.iptvrestream.net/3322.m3u8&amp;streamtype=T
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
 http://IPTVFREE1.COM:6969/live/3/www.iptvrestream.net/3648.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
-http://stream-04.vty.dailymotion.com/03/dm/1/x4x146p/live.isml/events(live-1476759618)/live-audio=128000-video=700000.m3u8
+http://stream-05.vty.dailymotion.com/50/dm/1/x4x146p/live.isml/events(live-1477018816)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
@@ -98,7 +98,7 @@ http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
 rtmp://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 
-http://stream-05.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1476877951)/live-audio=64000-video=400000.m3u8
+http://stream-12.vty.dailymotion.com/38/dm/1/x2p626q/live.isml/events(live-1477047530)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP
 rtmp://stream.greekelitetv.com:1935/action_24/action_24.stream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP 2
@@ -178,7 +178,7 @@ http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://www.gatzoli.gr/wp-content/uploads/2016/09/logo.png",GATZOLI TV
 rtmp://live.streams.ovh:1935/GATZOLITV/GATZOLITV
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://s1.dmcdn.net/Lpj8y/60x60-ioF.jpg",EXTRA KAVANTZA
-http://stream-10.vty.dailymotion.com/06/dm/1/x2w1yj0/live.isml/events(live-1476882210)/live-audio=64000-video=400000.m3u8
+http://stream-12.vty.dailymotion.com/07/dm/1/x2w1yj0/live.isml/events(live-1477063295)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",WZRA KIDS
 mmsh://wpso.com:200/kids
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
@@ -264,7 +264,7 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/VOLCANO.png",VOLCANO
 rtmp://176.9.123.140:1935/santorini
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52577601/ALETHEIA_TV.png",ALITHEIA TV
-https://www.youtube.com/watch?v=MBi4Pv2kbaM
+https://www.youtube.com/watch?v=FHI_IDHfXlY
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52572892/TVM.png",TV MYTILINI
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
