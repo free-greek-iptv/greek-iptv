@@ -90,7 +90,7 @@ mmsh://38.103.153.242:80/riksat
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY
 rtmp://stream.greekelitetv.com:1935/mega_cyprus/mega_cyprus.stream
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 CY
-http://tvf.ddns.net/live/69955248ant1cytfg/playlist.m3u8
+http://stream.tvfromgreece.dynu.com:1935/live/66955248ant1cytfg/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA CY
 https://www.youtube.com/watch?v=dLI7hbWmWE4
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
