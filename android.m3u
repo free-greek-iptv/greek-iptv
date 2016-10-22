@@ -229,7 +229,7 @@ http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52996478/ASTRA_TV.png",ASTRA TV
 http://www.astratv.gr:8090/hls/livestream.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52997867/TRT.png",TRT TV
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52997867/TRT.png",TRT
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51290362/ENA.png",ENA K.E.
 rtmp://204.77.214.17/mogulus-stream-edge/lamiaenatv/rtmp://212-94.livestream.com/affiliateStream/lamiaenatv/6c69766572657065617465723a72746d703a2f2f3230342e37372e3231322e39342f6d6f67756c75732f6c616d6961656e6174762f6c69766573747265616d
