@@ -74,7 +74,7 @@ http://stream-03.vty.dailymotion.com/01/dm/1/xqjey2/live.isml/events(live-147710
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/tB0vfVT.png”,HORSE RACES
 http://odiehls-i.akamaihd.net/hls/live/233406/odie/odie.m3u8
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD
-rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP
 https://www.youtube.com/watch?v=-wnkHy7t2pY
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
@@ -82,7 +82,7 @@ rtmp://stream2.svbllc.com:1935/mega/mega.stream
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/RwQITu8.png",ALPHA SAT
 rtmp://stream2.svbllc.com:1935/alpha/alpha.stream
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT
-rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT BUP
 mmsh://38.103.153.242:80/riksat
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY
@@ -268,7 +268,7 @@ rtmp://78.47.151.114/tilesport/movie1
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://cretatv.gr/wp-content/uploads/2016/04/CRETA-TV-%CE%A7%CE%91%CE%9D%CE%99%CE%91-logo-n.png",CRETA TV
 http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
-rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/QUYJeJ5.png",MAKELEIO TV
