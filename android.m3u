@@ -62,7 +62,9 @@ rtmp://94.75.240.96:1935/e/e.sdp
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP 3
 mmsh://38.103.153.242:80/epsilon
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60021260/M.tv.png",M.TV
-http://IPTVFREE1.COM:6969/live/1/www.iptvrestream.net/3322.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+http://iptvfree1:6969/live/florinelguga@yahoo.com/PmWrtAUY0e/3322.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+#EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
+http://iptvfree1:6969/live/florinelguga@yahoo.com/PmWrtAUY0e/3648.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://stream-11.vty.dailymotion.com/06/dm/1/x4x146p/live.isml/events(live-1477105216)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
