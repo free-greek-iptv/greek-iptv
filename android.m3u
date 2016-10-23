@@ -65,7 +65,7 @@ http://iptvfree1.com:6969/live/florinelguga@yahoo.com/PmWrtAUY0e/3322.m3u8&amp;s
 http://stream-11.vty.dailymotion.com/06/dm/1/x4x146p/live.isml/events(live-1477105216)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
-#EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS BUP
+#EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
 rtmp://stream.greekelitetv.com:1935/euro_news/euro_news.stream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
 http://stream-03.vty.dailymotion.com/01/dm/1/xqjey2/live.isml/events(live-1477109515)/live-audio=128000-video=700000.m3u8
