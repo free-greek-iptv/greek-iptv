@@ -106,7 +106,7 @@ http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3648.m3u8&amp;streamtype=T
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://4.bp.blogspot.com/-RNna6fkMj7A/UV7_0uyuN6I/AAAAAAAAOII/1Ot7qXhAamg/s200/hightv.jpg",HIGH TV
 http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3637.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
-rtmp://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream
+http://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream/streamline.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 
 http://stream-12.vty.dailymotion.com/38/dm/1/x2p626q/live.isml/events(live-1477047530)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP
