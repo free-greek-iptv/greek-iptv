@@ -62,7 +62,7 @@ rtmp://94.75.240.96:1935/e/e.sdp
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP 3
 mmsh://38.103.153.242:80/epsilon
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60021260/M.tv.png",M.TV
-http://IPTVFREE1.COM:6969/live/4/wwww.iptvrestream.net/3322.m3u8
+http://IPTVFREE1.COM:6969/live/4/wwww.iptvrestream.net/3322.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://stream-11.vty.dailymotion.com/06/dm/1/x4x146p/live.isml/events(live-1477105216)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
@@ -87,20 +87,12 @@ http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3
 mmsh://38.103.153.242:80/riksat
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY
 rtmp://stream.greekelitetv.com:1935/mega_cyprus/mega_cyprus.stream
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY BUP
-http://IPTVFREE1.COM:6969/live/4/wwww.iptvrestream.net/3341.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 CY
 http://stream.tvfromgreece.dynu.com:1935/live/66955248ant1cytfg/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA CY
 https://www.youtube.com/watch?v=dLI7hbWmWE4
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
-http://IPTVFREE1.COM:6969/live/4/wwww.iptvrestream.net/3648.m3u8
-#EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE
-http://IPTVFREE1.COM:6969/live/4/wwww.iptvrestream.net/3653.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://4.bp.blogspot.com/-RNna6fkMj7A/UV7_0uyuN6I/AAAAAAAAOII/1Ot7qXhAamg/s200/hightv.jpg",HIGH TV
-http://IPTVFREE1.COM:6969/live/4/wwww.iptvrestream.net/3637.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
 rtmp://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 
@@ -115,9 +107,7 @@ rtmp://stream.greekelitetv.com:1935/attica_tv/attica_tv.stream
 http://176.9.175.244:1935/bluesky/tvlive/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY BUP
 rtmp://stream.greekelitetv.com:1935/bluesky/bluesky.stream
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/CHANNEL9.png",CHANNEL 9 
-http://IPTVFREE1.COM:6969/live/4/wwww.iptvrestream.net/3668.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/CHANNEL9.png",CHANNEL 9 BUP
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/CHANNEL9.png",CHANNEL 9
 rtmp://204.77.214.17/mogulus-stream-edge/channel9gr/rtmp://212-91.livestream.com/affiliateStream/channel9gr/6c69766572657065617465723a72746d703a2f2f3230342e37372e3231322e39312f6d6f67756c75732f6368616e6e656c3967722f6368616e6e656c39
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/EXTRA.png",EXTRA CHANNEL
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
@@ -165,10 +155,6 @@ rtmp://live.streams.ovh/Ellastv/Ellastv
 mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://4.bp.blogspot.com/-PGt5s0oF9c0/VYHPzZ37HHI/AAAAAAAAB0k/fAimOda2Rtg/s1600/tinos%2Btv%2B001.jpg",TINOS TV
 http://stream.ssh101.com:1935/live/tinostileorasi/playlist.m3u8
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/f/MAD.png",MAD TV GR
-http://IPTVFREE1.COM:6969/live/4/wwww.iptvrestream.net/3640.m3u8
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/yL195Ok.png",RISE
-http://IPTVFREE1.COM:6969/live/4/wwww.iptvrestream.net/3646.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/f/MAD.png",MAD TV CY
 rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
