@@ -65,8 +65,6 @@ mmsh://38.103.153.242:80/epsilon
 http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3322.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://stream-11.vty.dailymotion.com/06/dm/1/x4x146p/live.isml/events(live-1477105216)/live-audio=128000-video=700000.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART BUP
-http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3332.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
@@ -99,8 +97,6 @@ https://www.youtube.com/watch?v=dLI7hbWmWE4
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
 http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3648.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
-#EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE
-http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3653.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://4.bp.blogspot.com/-RNna6fkMj7A/UV7_0uyuN6I/AAAAAAAAOII/1Ot7qXhAamg/s200/hightv.jpg",HIGH TV
 http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3637.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
