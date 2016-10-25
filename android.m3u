@@ -63,9 +63,7 @@ rtmp://stream.greekelitetv.com:1935/epsilon/epsilon.stream
 rtmp://94.75.240.96:1935/e/e.sdp
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP 3
 mmsh://38.103.153.242:80/epsilon
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60021260/M.tv.png",M.TV
-http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3322.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60021260/M.tv.png",M.TV BUP
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60021260/M.tv.png",M.TV 
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/index_700_av-b.m3u8
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
 http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3648.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
@@ -97,8 +95,6 @@ http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3
 mmsh://38.103.153.242:80/riksat
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY
 rtmp://stream.greekelitetv.com:1935/mega_cyprus/mega_cyprus.stream
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY BUP
-http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3341.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 CY
 http://stream.tvfromgreece.dynu.com:1935/live/661955248ant1cytfg/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA CY
@@ -125,8 +121,6 @@ rtmp://204.77.214.17/mogulus-stream-edge/channel9gr/rtmp://212-91.livestream.com
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
 https://www.youtube.com/watch?v=sK7CNRdzoA4
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV BUP
-http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3637.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA BUP
