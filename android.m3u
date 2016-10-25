@@ -65,6 +65,8 @@ rtmp://94.75.240.96:1935/e/e.sdp
 mmsh://38.103.153.242:80/epsilon
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60021260/M.tv.png",M.TV 
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/index_700_av-b.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60021260/M.tv.png",M.TV BUP
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3641.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
 http://IPTVFREE1.COM:6969/live/sportTVapp2/FkgeTiLQYQ/3648.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
@@ -116,6 +118,8 @@ http://176.9.175.244:1935/bluesky/tvlive/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY BUP
 rtmp://stream.greekelitetv.com:1935/bluesky/bluesky.stream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/CHANNEL9.png",CHANNEL 9 
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3668.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/CHANNEL9.png",CHANNEL 9 BUP
 rtmp://204.77.214.17/mogulus-stream-edge/channel9gr/rtmp://212-91.livestream.com/affiliateStream/channel9gr/6c69766572657065617465723a72746d703a2f2f3230342e37372e3231322e39312f6d6f67756c75732f6368616e6e656c3967722f6368616e6e656c39
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/EXTRA.png",EXTRA CHANNEL
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
