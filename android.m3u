@@ -20,9 +20,9 @@ mmsh://38.99.163.111:80/ERTHD?MSWMExt=.asf
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ERT_HD.png",ERT HD
 rtmp://stream.greekelitetv.com:1935/ert_hd/ert_hd.stream
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
-http://stream.ssh101.com:1935/live/megachannel/playlist.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP
 mmsh://38.103.153.242:80/mega?MSWMExt=.asf
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP
+http://stream.ssh101.com:1935/live/megachannel/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 2
 rtmp://stream.greekelitetv.com:1935/mega/mega.stream
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 3
@@ -65,8 +65,10 @@ rtmp://94.75.240.96:1935/e/e.sdp
 mmsh://38.103.153.242:80/epsilon
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60021260/M.tv.png",M.TV
 http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3322.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60021260/M.tv.png",M.TV BUP
+http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/index_700_av-b.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
-http://stream-11.vty.dailymotion.com/06/dm/1/x4x146p/live.isml/events(live-1477105216)/live-audio=128000-video=700000.m3u8
+http://stream-07.vty.dailymotion.com/04/dm/1/x4x146p/live.isml/events(live-1477364417)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
@@ -96,7 +98,7 @@ rtmp://stream.greekelitetv.com:1935/mega_cyprus/mega_cyprus.stream
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY BUP
 http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3341.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 CY
-http://stream.tvfromgreece.dynu.com:1935/live/66955248ant1cytfg/playlist.m3u8
+http://stream.tvfromgreece.dynu.com:1935/live/661955248ant1cytfg/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA CY
 https://www.youtube.com/watch?v=dLI7hbWmWE4
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
@@ -108,7 +110,7 @@ http://IPTVFREE1.COM:6969/live/4/www.iptvrestream.net/3637.m3u8&amp;streamtype=T
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
 http://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream/streamline.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 
-http://stream-12.vty.dailymotion.com/38/dm/1/x2p626q/live.isml/events(live-1477047530)/live-audio=64000-video=400000.m3u8
+http://stream-10.vty.dailymotion.com/07/dm/1/x2p626q/live.isml/events(live-1477318942)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP
 rtmp://stream.greekelitetv.com:1935/action_24/action_24.stream
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP 2
@@ -184,7 +186,7 @@ http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://www.gatzoli.gr/wp-content/uploads/2016/09/logo.png",GATZOLI TV
 rtmp://live.streams.ovh:1935/GATZOLITV/GATZOLITV
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://s1.dmcdn.net/Lpj8y/60x60-ioF.jpg",EXTRA KAVANTZA
-http://stream-10.vty.dailymotion.com/02/dm/1/x2w1yj0/live.isml/events(live-1477128604)/live-audio=64000-video=400000.m3u8
+http://stream-06.vty.dailymotion.com/19/dm/1/x2w1yj0/live.isml/events(live-1477348165)/live-audio=64000-video=400000.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO MUSIC
 http://137.74.171.115:1935/galanos/live2/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO MUSIC 2
