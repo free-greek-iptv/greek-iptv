@@ -51,12 +51,16 @@ http://137.74.171.115:1935/galanos/1951live2/playlist.m3u8
 rtmp://stream.greekelitetv.com:1935/star/star.stream
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 3
 rtmp://94.75.240.96:1935/star/star.sdp
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 4
+http://stream1.tvfromgreece.dynu.com:1935/star/star.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
 mmsh://38.99.163.111:80/skai?MSWMExt=.asf
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP
 rtmp://stream.greekelitetv.com:1935/skai/skai.stream
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 2
 http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 3
+http://stream1.tvfromgreece.dynu.com:1935/skai/skai.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP
