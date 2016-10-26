@@ -18,13 +18,13 @@ https://www.youtube.com/watch?v=nxebm_-DkF0
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 BUP 2
 mmsh://38.99.163.111:80/ERTHD?MSWMExt=.asf
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ERT_HD.png",ERT HD
-rtmp://stream.greekelitetv.com:1935/ert_hd/ert_hd.stream
+http://stream.greekelitetv.com:1935/ert_hd/ert_hd.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
 mmsh://38.103.153.242:80/mega?MSWMExt=.asf
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP
 http://stream.ssh101.com:1935/live/megachannel/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 2
-rtmp://stream.greekelitetv.com:1935/mega/mega.stream
+http://stream.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 3
 rtmp://94.75.240.96:1935/mega/mega.sdp
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 4
@@ -48,7 +48,7 @@ mmsh://38.99.163.111:80/star?MSWMExt=.asf
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP
 http://137.74.171.115:1935/galanos/1951live2/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 2
-rtmp://stream.greekelitetv.com:1935/star/star.stream
+http://stream.greekelitetv.com:1935/star/star.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 3
 rtmp://94.75.240.96:1935/star/star.sdp
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 4
@@ -56,7 +56,7 @@ http://stream1.tvfromgreece.dynu.com:1935/star/star.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
 mmsh://38.99.163.111:80/skai?MSWMExt=.asf
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP
-rtmp://stream.greekelitetv.com:1935/skai/skai.stream
+http://stream.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 2
 http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 3
@@ -64,7 +64,7 @@ http://stream1.tvfromgreece.dynu.com:1935/skai/skai.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP
-rtmp://stream.greekelitetv.com:1935/epsilon/epsilon.stream
+http://stream.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP 2
 rtmp://94.75.240.96:1935/e/e.sdp
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP 3
@@ -76,7 +76,7 @@ http://stream-07.vty.dailymotion.com/04/dm/1/x4x146p/live.isml/events(live-14773
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
-rtmp://stream.greekelitetv.com:1935/euro_news/euro_news.stream
+http://stream.greekelitetv.com:1935/euro_news/euro_news.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
 http://stream-03.vty.dailymotion.com/01/dm/1/xqjey2/live.isml/events(live-1477109515)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
@@ -90,15 +90,15 @@ http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP
 https://www.youtube.com/watch?v=-wnkHy7t2pY
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
-rtmp://stream2.svbllc.com:1935/mega/mega.stream
+http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/RwQITu8.png",ALPHA SAT
-rtmp://stream2.svbllc.com:1935/alpha/alpha.stream
+http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT
 http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT BUP
 mmsh://38.103.153.242:80/riksat
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY
-rtmp://stream.greekelitetv.com:1935/mega_cyprus/mega_cyprus.stream
+http://stream.greekelitetv.com:1935/mega_cyprus/mega_cyprus.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY BUP
 http://stream.tvfromgreece.dynu.com:1935/live/691955248mgcytfg/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 CY
@@ -108,21 +108,21 @@ https://www.youtube.com/watch?v=dLI7hbWmWE4
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
-http://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream/streamline.m3u8
+http://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 
 http://stream-10.vty.dailymotion.com/07/dm/1/x2p626q/live.isml/events(live-1477318942)/live-audio=64000-video=400000.m3u8 
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP
 http://stream1.tvfromgreece.dynu.com:1935/action_24/action_24.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP 2
-rtmp://stream.greekelitetv.com:1935/action_24/action_24.stream
+http://stream.greekelitetv.com:1935/action_24/action_24.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP 3
 mmsh://38.103.153.242/sport_plus
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020440/ATTICA.png",ATTICA TV
-rtmp://stream.greekelitetv.com:1935/attica_tv/attica_tv.stream
+http://stream.greekelitetv.com:1935/attica_tv/attica_tv.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY
 http://176.9.175.244:1935/bluesky/tvlive/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY BUP
-rtmp://stream.greekelitetv.com:1935/bluesky/bluesky.stream
+http://stream.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/CHANNEL9.png",CHANNEL 9 
 rtmp://204.77.214.17/mogulus-stream-edge/channel9gr/rtmp://212-91.livestream.com/affiliateStream/channel9gr/6c69766572657065617465723a72746d703a2f2f3230342e37372e3231322e39312f6d6f67756c75732f6368616e6e656c3967722f6368616e6e656c39
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/EXTRA.png",EXTRA CHANNEL
@@ -132,7 +132,7 @@ https://www.youtube.com/watch?v=sK7CNRdzoA4
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA BUP
-rtmp://stream.greekelitetv.com:1935/kontra/kontra.stream
+http://stream.greekelitetv.com:1935/kontra/kontra.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA BUP 2
 mmsh://38.103.153.242:80/kontra?MSWMExt=.asf
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/SBC.png",SBC
@@ -202,7 +202,7 @@ mmsh://wpso.com:200/kids
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E BUP
-rtmp://stream2.svbllc.com:1935/4e/4e.stream
+http://stream2.svbllc.com:1935/4e/4e.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP
@@ -210,7 +210,7 @@ mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP 2
 mmsh://38.103.153.242/Vouli?MSWMExt=.asf
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP 3
-rtmp://stream.greekelitetv.com:1935/vouli_tv/vouli_tv.stream
+http://stream.greekelitetv.com:1935/vouli_tv/vouli_tv.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png",TV CRETA
 http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png",KPHTH TV
