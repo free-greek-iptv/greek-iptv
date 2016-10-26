@@ -257,6 +257,8 @@ http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 http://www.astratv.gr:8090/hls/livestream.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52997867/TRT.png",TRT
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51290669/E_TV.png",E TV
+http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51290362/ENA.png",ENA K.E.
 rtmp://204.77.214.17/mogulus-stream-edge/lamiaenatv/rtmp://212-94.livestream.com/affiliateStream/lamiaenatv/6c69766572657065617465723a72746d703a2f2f3230342e37372e3231322e39342f6d6f67756c75732f6c616d6961656e6174762f6c69766573747265616d
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254400/ACHAIA.PNG",ACHAIA CHANNEL
