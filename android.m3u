@@ -110,10 +110,12 @@ http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
 http://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream/streamline.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 
-http://stream1.tvfromgreece.dynu.com:1935/action_24/action_24.stream/playlist.m3u8
+http://stream-10.vty.dailymotion.com/07/dm/1/x2p626q/live.isml/events(live-1477318942)/live-audio=64000-video=400000.m3u8 
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP
-rtmp://stream.greekelitetv.com:1935/action_24/action_24.stream
+http://stream1.tvfromgreece.dynu.com:1935/action_24/action_24.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP 2
+rtmp://stream.greekelitetv.com:1935/action_24/action_24.stream
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP 3
 mmsh://38.103.153.242/sport_plus
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020440/ATTICA.png",ATTICA TV
 rtmp://stream.greekelitetv.com:1935/attica_tv/attica_tv.stream
