@@ -80,7 +80,7 @@ rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
 http://stream.greekelitetv.com:1935/euro_news/euro_news.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
-http://stream-03.vty.dailymotion.com/01/dm/1/xqjey2/live.isml/events(live-1477109515)/live-audio=128000-video=700000.m3u8
+https://stream-03.vty.dailymotion.com/33/dm/1/xqjey2/live.isml/events(live-1477493981)/live-audio=128000-video=2000000.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL BUP
