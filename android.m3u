@@ -162,7 +162,7 @@ http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
 http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://reloadplay.com/wp-content/uploads/2015/11/Cool-Text-199183501564938.png",RELOAD TV
-rtmp://178.33.196.122:1935/reloadtv/reloadtv
+http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO CINEMA 1
 http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO CINEMA 2
@@ -193,6 +193,8 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://yt3.ggpht.com/-z-0LJhE1spY/AAAAAAAAAAI/AAAAAAAAAAA/7uU8dIUVjhI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",SPICY TV
 rtmp://178.33.196.122:1935/ReloadtvGreek/ReloadtvGreek
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://yt3.ggpht.com/-z-0LJhE1spY/AAAAAAAAAAI/AAAAAAAAAAA/7uU8dIUVjhI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",SPICY TV 2
+http://178.33.196.122:1935/greekvideo/greekvideo/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
 mmsh://wpso.com:200/music
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/ozpJVQb.png",TILEMOUSIKI 2
