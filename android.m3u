@@ -191,7 +191,7 @@ http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3
 http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100 
 http://178.62.176.153:1935/TV100/myStream/master.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://www.iptvgreece.com/wp-content/uploads/2016/10/super_tv_xalkidiki.png",TV SUPER
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193853/SUPER.png",TV SUPER
 http://iphone-streaming.ustream.tv/uhls/11946358/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/FLASH.png",FLASH TV
 https://www.youtube.com/watch?v=Fcomx2jV1Cw
