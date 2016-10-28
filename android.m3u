@@ -133,6 +133,10 @@ rtmp://live.streams.ovh/Ellastv/Ellastv
 mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://4.bp.blogspot.com/-PGt5s0oF9c0/VYHPzZ37HHI/AAAAAAAAB0k/fAimOda2Rtg/s1600/tinos%2Btv%2B001.jpg",TINOS TV
 http://stream.ssh101.com:1935/live/tinostileorasi/playlist.m3u8
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://yt3.ggpht.com/-z-0LJhE1spY/AAAAAAAAAAI/AAAAAAAAAAA/7uU8dIUVjhI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",SPICY TV
+rtmp://178.33.196.122:1935/ReloadtvGreek/ReloadtvGreek
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://yt3.ggpht.com/-z-0LJhE1spY/AAAAAAAAAAI/AAAAAAAAAAA/7uU8dIUVjhI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",SPICY TV 2
+http://178.33.196.122:1935/greekvideo/greekvideo/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/f/MAD.png",MAD TV CY
 rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
@@ -143,10 +147,6 @@ http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/QZQhg6C.png",MAGIC TV 
 http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://yt3.ggpht.com/-z-0LJhE1spY/AAAAAAAAAAI/AAAAAAAAAAA/7uU8dIUVjhI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",SPICY TV
-rtmp://178.33.196.122:1935/ReloadtvGreek/ReloadtvGreek
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://yt3.ggpht.com/-z-0LJhE1spY/AAAAAAAAAAI/AAAAAAAAAAA/7uU8dIUVjhI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",SPICY TV 2
-http://178.33.196.122:1935/greekvideo/greekvideo/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
 mmsh://wpso.com:200/music
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/ozpJVQb.png",TILEMOUSIKI 2
