@@ -30,7 +30,7 @@ http://137.74.171.115:1935/galanos/1951live/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA 
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR 
-http://137.74.171.115:1935/galanos/1951live2/playlist.m3u8
+http://137.74.171.115:1935/galanos/a1951live2/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP
 http://stream.greekelitetv.com:1935/star/star.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 2
