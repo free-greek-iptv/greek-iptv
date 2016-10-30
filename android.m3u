@@ -61,7 +61,7 @@ http://stream-11.vty.dailymotion.com/03/dm/1/xqjey2/live.isml/events(live-147770
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL BUP
 http://stream.ssh101.com:1935/live/ionian/playlist.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/tB0vfVT.png”,HORSE RACES
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/tB0vfVT.png",HORSE RACES
 http://odiehls-i.akamaihd.net/hls/live/233406/odie/odie.m3u8
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD
 http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
