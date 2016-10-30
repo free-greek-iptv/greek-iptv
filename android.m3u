@@ -267,8 +267,6 @@ rtmp://live.streams.ovh:1935/GATZOLITV/GATZOLITV
 https://www.youtube.com/watch?v=xBGfBaelVDA
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
-#EXTINF:0, group-title="WEB TV" tvg-logo="https://www.radiofono.gr/sites/www.radiofono.gr/files/images/alpha989.png",ALPHA 98,9
-https://www.youtube.com/watch?v=ttWmL_5jSC0
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/n8042kB.png",LAMIA FM-1 TV
 http://iphone-streaming.ustream.tv/uhls/19761282/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL TV
