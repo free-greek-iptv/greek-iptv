@@ -119,11 +119,9 @@ http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
 http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO CINEMA 1
-http://137.74.171.115:1935/galanos/apeiro1live/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO CINEMA 2
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO CINEMA
 http://137.74.171.115:1935/galanos/live2/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO CINEMA 3
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO CINEMA 2
 http://137.74.171.115:1935/galanos/live1/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
@@ -167,9 +165,9 @@ mmsh://wpso.com:200/kids
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E BUP
 http://stream2.svbllc.com:1935/4e/4e.stream/playlist.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP
 http://stream.greekelitetv.com:1935/vouli_tv/vouli_tv.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png",TV CRETA
 http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
