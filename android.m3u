@@ -45,15 +45,15 @@ https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
 http://stream.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP 2
 rtmp://94.75.240.96:1935/e/e.sdp
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
-#EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
+#EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
 http://IPTVFREE1.COM:6969/live/sportTVapp2/FkgeTiLQYQ/3648.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://stream-01.vty.dailymotion.com/41/dm/1/x4x146p/live.isml/events(live-1477886416)/live-audio=128000-video=700000.m3u8
-#EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
+#EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
-#EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="",EURONEWS
+#EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="euronews" tvg-logo="",EURONEWS
 http://stream.greekelitetv.com:1935/euro_news/euro_news.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
 http://stream-09.vty.dailymotion.com/46/dm/1/xqjey2/live.isml/events(live-1477892621)/live-audio=128000-video=1200000.m3u8
