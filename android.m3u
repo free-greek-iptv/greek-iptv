@@ -39,8 +39,6 @@ https://www.youtube.com/watch?v=kZ95KlIZZhU
 http://stream.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 2
 http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 3
-http://ipsatpro.com:8000/live/00/00/850.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP
@@ -121,7 +119,7 @@ https://www.youtube.com/watch?v=ShjefmX4iP0
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="4E.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E BUP
 http://stream2.svbllc.com:1935/4e/4e.stream/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://reloadplay.com/wp-content/uploads/2015/11/Cool-Text-199183501564938.png",RELOAD TV 2
+#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/6i8Q7U2.png",RELOAD BIZZ
 http://web.onair-radio.eu:1935/reloadbizz/reloadbizz/playlist.m3u8
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
 http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
