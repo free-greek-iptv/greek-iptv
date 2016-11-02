@@ -49,8 +49,6 @@ rtmp://94.75.240.96:1935/e/e.sdp
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="nickelodeon",NICKELODEON
 http://ipsatpro.com:8000/live/00/00/859.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
-#EXTINF:0, group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="nickelodeon",NICKELODEON BUP
-http://ksportiptv.com:1557/live/ariva010/sWTLPKNJQl/3725.m3u8;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://stream-01.vty.dailymotion.com/41/dm/1/x4x146p/live.isml/events(live-1477886416)/live-audio=128000-video=700000.m3u8
 #EXTINF:0, group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="euronews.nws" tvg-logo="",EURONEWS
