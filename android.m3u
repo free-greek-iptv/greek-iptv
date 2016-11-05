@@ -147,8 +147,6 @@ http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 rtmp://live.streams.ovh/Ellastv/Ellastv
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/6xRxPun.png",TV GOLD
 mms://tvgold.webcast.mediacdn.com/tvgold
-#EXTINF:0, group-title="WEB TV" tvg-logo="http://www.gatzoli.gr/wp-content/uploads/2016/09/logo.png",GATZOLI TV
-rtmp://live.streams.ovh:1935/GATZOLITV/GATZOLITV
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://4.bp.blogspot.com/-PGt5s0oF9c0/VYHPzZ37HHI/AAAAAAAAB0k/fAimOda2Rtg/s1600/tinos%2Btv%2B001.jpg",TINOS TV
 http://stream.ssh101.com:1935/live/tinostileorasi/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://yt3.ggpht.com/-z-0LJhE1spY/AAAAAAAAAAI/AAAAAAAAAAA/7uU8dIUVjhI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",SPICY TV
@@ -271,6 +269,8 @@ http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SD
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA 2
 http://stream.ssh101.com:1935/live/greekvoice/playlist.m3u8
+#EXTINF:0, group-title="WEB TV" tvg-logo="http://www.gatzoli.gr/wp-content/uploads/2016/09/logo.png",GATZOLI TV
+rtmp://live.streams.ovh:1935/GATZOLITV/GATZOLITV
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/QUYJeJ5.png",MAKELEIO TV
 https://www.youtube.com/watch?v=w7PzRrBhJ0Q
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
