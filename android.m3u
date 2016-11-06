@@ -63,6 +63,8 @@ http://stream.ssh101.com:1935/live/ionian/playlist.m3u8
 http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/tB0vfVT.png",HORSE RACES
 http://odiehls-i.akamaihd.net/hls/live/233406/odie/odie.m3u8
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP
@@ -149,8 +151,8 @@ rtmp://178.33.196.122:1935/ReloadtvGreek/ReloadtvGreek
 http://178.33.196.122:1935/greekvideo/greekvideo/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/f/MAD.png",MAD TV CY
 http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
-http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/ZqmKsFT.png",ELA TV
+http://live.streams.ovh:1935/elawebtv/elawebtv/playlist.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
