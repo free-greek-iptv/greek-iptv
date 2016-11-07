@@ -86,7 +86,7 @@ http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 http://195.81.140.80:1935/live/tv_mall_cyprus/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
-http://ksportiptv.com:1557/live/sparak006/JcuhoTlQ7p/3726.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+http://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 
 http://stream-02.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/events(live-1477752803)/live-audio=64000-video=400000.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP
