@@ -71,8 +71,6 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
 http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY BUP
-http://stream.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY
 http://stream.greekelitetv.com:1935/mega_cyprus/mega_cyprus.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY BUP
@@ -89,14 +87,10 @@ http://195.81.140.80:1935/live/tv_mall_cyprus/playlist.m3u8
 http://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 
 http://stream-02.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/events(live-1477752803)/live-audio=64000-video=400000.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24 BUP
-http://stream.greekelitetv.com:1935/action_24/action_24.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020440/ATTICA.png",ATTICA TV
 http://stream.greekelitetv.com:1935/attica_tv/attica_tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY
 http://136.243.200.184:1935/live/tvlive/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY BUP
-http://stream.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/CHANNEL9.png",CHANNEL 9
 http://149.202.78.137:8080/live/5454/5454/3187.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/CHANNEL9.png",CHANNEL 9 BUP
