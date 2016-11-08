@@ -1,3 +1,11 @@
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 3
+rtmp://94.75.240.96:1935/mega/mega.sdp
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP 2
+rtmp://94.75.240.96:1935/e/e.sdp
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="euronews.nws" tvg-logo="Euronews",EURONEWS BUP
+http://stream.greekelitetv.com:1935/euro_news/euro_news.stream/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Kontra Channel" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA BUP
+http://stream.greekelitetv.com:1935/kontra/kontra.stream/playlist.m3u8
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",MEGA 
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",MEGA
