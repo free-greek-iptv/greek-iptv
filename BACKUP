@@ -12,6 +12,10 @@ http://stream.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
 http://stream.greekelitetv.com:1935/action_24/action_24.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY BUP
 http://stream.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 2
+http://stream.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP
+http://stream.greekelitetv.com:1935/star/star.stream/playlist.m3u8
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",MEGA 
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",MEGA
