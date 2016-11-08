@@ -127,8 +127,10 @@ http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 http://stream.ssh101.com:1935/live/lampsitv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO
 http://137.74.171.115:1935/galanos/live1/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO 2
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO 2
 http://137.74.171.115:1935/galanos/live/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO 3
+http://137.74.171.115:1935/galanos/live2/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
