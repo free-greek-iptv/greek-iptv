@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/6i8Q7U2.png",RELOAD BIZZ
-http://web.onair-radio.eu:1935/reloadbizz/reloadbizz/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP
+http://stream.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 3
 rtmp://94.75.240.96:1935/mega/mega.sdp
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP 2
@@ -16,8 +16,6 @@ http://stream.greekelitetv.com:1935/action_24/action_24.stream/playlist.m3u8
 http://stream.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 2
 http://stream.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP
-http://stream.greekelitetv.com:1935/star/star.stream/playlist.m3u8
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",MEGA 
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0, group-title="Πανελλαδικά" tvg-logo="",MEGA
