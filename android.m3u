@@ -24,7 +24,7 @@ http://137.74.171.115:1935/galanos/a1951live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA 
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA BUP
-http://37.187.162.224:1557/live/DREAMBOX/fq6RzQzV6h/2327.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+http://37.187.162.224:1557/live/GEANT10/T0nzPze56V/2327.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR 
 http://137.74.171.115:1935/galanos/a1951live2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP
@@ -40,7 +40,7 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://stream-04.vty.dailymotion.com/12/dm/1/x4x16kx/live.isml/events(live-1478577616)/live-audio=128000-video=700000.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
-http://biwsat.com:8080/live/test34/0711/3190.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+http://37.187.162.224:1557/live/GEANT10/T0nzPze56V/3725.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://static-s.aa-cdn.net/img/ios/525541399/6f3f22bc07927fbab0bbf197d367e0e1?v=1",CARTOON TV
 http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://reloadplay.com/wp-content/uploads/2015/11/Cool-Text-199183501564938.png",RELOAD TV
