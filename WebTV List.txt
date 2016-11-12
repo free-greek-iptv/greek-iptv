@@ -35,7 +35,7 @@ URL: http://stream.greekelitetv.com:1935/mega_delay/mega_delay.stream/playlist.m
 Channel name: STAR 7H DELAY
 URL: http://stream.greekelitetv.com:1935/star_delay/star_delay.stream/playlist.m3u8
 Channel name: SKAI 7H DELAY
-http://stream.greekelitetv.com:1935/skai_delay/skai_delay.stream/playlist.m3u8
+URL: http://stream.greekelitetv.com:1935/skai_delay/skai_delay.stream/playlist.m3u8
 Channel name: E 7H DELAY
 URL: http://stream.greekelitetv.com:1935/epsilon_delay/epsilon_delay.stream/playlist.m3u8
 Channel name: IONIAN CHANNEL
