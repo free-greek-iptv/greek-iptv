@@ -78,6 +78,8 @@ Channel name: EXTRA CHANNEL
 URL: http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
 Channel name: KONTRA
 URL: http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+Channel name: KONTRA BUP
+URL: http://stream.greekelitetv.com:1935/kontra/kontra.stream/playlist.m3u8
 Channel name: SBC
 URL: http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 Channel name: 4E
