@@ -216,6 +216,8 @@ Channel name: LAMIA FM-1 TV
 URL: http://iphone-streaming.ustream.tv/uhls/19761282/streams/live/iphone/playlist.m3u8
 Channel name: MONTREAL TV
 URL: http://stream.ssh101.com:1935/live/greektv/playlist.m3u8
+Channel name: ERT WEB TV
+URL: http://stream.ssh101.com:1935/live/upgert/playlist.m3u8
 Channel name: EBS
 URL: http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 Channel name: EBS PLUS
