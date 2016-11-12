@@ -24,8 +24,6 @@ Channel name: E
 URL: http://stream.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8
 Channel name: M.TV HD
 URL: http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
-Channel name: ART 
-URL: http://stream-03.vty.dailymotion.com/01/dm/1/x4x16pn/live.isml/events(live-1478836816)/live-audio=64000-video=400000.m3u8
 Channel name: CARTOON TV
 URL: http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
 Channel name: RELOAD TV
@@ -38,8 +36,6 @@ Channel name: STAR 7H DELAY
 URL: http://stream.greekelitetv.com:1935/star_delay/star_delay.stream/playlist.m3u8
 Channel name: E 7H DELAY
 URL: http://stream.greekelitetv.com:1935/epsilon_delay/epsilon_delay.stream/playlist.m3u8
-Channel name: STAR K.E.
-URL: http://stream-13.vty.dailymotion.com/37/dm/1/xqjey2/live.isml/events(live-1478613862)/live-audio=64000-video=400000.m3u8
 Channel name: IONIAN CHANNEL
 URL: http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 Channel name: IONIAN CHANNEL BUP
@@ -68,8 +64,6 @@ Channel name: CBC TV MALL CY
 URL: http://195.81.140.80:1935/live/tv_mall_cyprus/playlist.m3u8
 Channel name: AB CHANNEL
 URL: http://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream/playlist.m3u8
-Channel name: ACTION 24 
-URL: http://stream-12.vty.dailymotion.com/32/dm/1/x2p626q/live.isml/events(live-1477752803)/live-audio=64000-video=400000.m3u8
 Channel name: ATTICA TV
 URL: http://stream.greekelitetv.com:1935/attica_tv/attica_tv.stream/playlist.m3u8
 Channel name: BLUE SKY
@@ -122,8 +116,6 @@ Channel name: TILEMOUSIKI
 URL: http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
 Channel name: APEIRO MUSIC
 URL: http://137.74.171.115:1935/galanos/a3live/playlist.m3u8
-Channel name: EXTRA KAVANTZA
-URL: http://stream-01.vty.dailymotion.com/10/dm/1/x418tkw/live.isml/events(live-1478800036)/live-audio=128000-video=2000000.m3u8
 Channel name: ELLINIKOS TV
 URL: http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 Channel name: TV CRETA
@@ -176,8 +168,6 @@ Channel name: ACHAIA CHANNEL
 URL: http://78.129.184.15:23319/streaming/stream/playlist.m3u8
 Channel name: BEST TV
 URL: http://138.201.57.212:1935/best/myStream/playlist.m3u8
-Channel name: LEPANTO 
-URL: http://stream-ec2.vty.dailymotion.com/39/dm/1/x4eyjfv/live.isml/events(live-1478853524)/live-audio=64000-video=400000.m3u8
 Channel name: LYCHNOS
 URL: http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 Channel name: AIGAIO TV
