@@ -84,6 +84,8 @@ Channel name: SBC
 URL: http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 Channel name: 4E
 URL: http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+Channel name: 4E BUP
+URL: http://stream2.svbllc.com:1935/4e/4e.stream/playlist.m3u8
 Channel name: CINEFIL GR
 URL: http://web.onair-radio.eu:1935/moviesgr/moviesgr/playlist.m3u8
 Channel name: SPICY TV
