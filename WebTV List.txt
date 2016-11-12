@@ -48,6 +48,8 @@ Channel name: VOULI BUP
 URL: http://stream.greekelitetv.com:1935/vouli_tv/vouli_tv.stream/playlist.m3u8
 Channel name: ERT WORLD
 URL: http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+Channel name: ERT WORLD BUP
+URL: http://stream.ssh101.com:1935/live/upgertworld/playlist.m3u8
 Channel name: MEGA COSMOS
 URL: http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 Channel name: ALPHA SAT
