@@ -72,6 +72,8 @@ Channel name: ATTICA TV
 URL: http://stream.greekelitetv.com:1935/attica_tv/attica_tv.stream/playlist.m3u8
 Channel name: BLUE SKY
 URL: http://136.243.200.184:1935/live/tvlive/playlist.m3u8
+Channel name: BLUE SKY BUP
+URL: http://stream.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8
 Channel name: EXTRA CHANNEL
 URL: http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
 Channel name: KONTRA
