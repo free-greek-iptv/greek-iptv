@@ -64,6 +64,8 @@ Channel name: CBC TV MALL CY
 URL: http://195.81.140.80:1935/live/tv_mall_cyprus/playlist.m3u8
 Channel name: AB CHANNEL
 URL: http://stream.greekelitetv.com:1935/ab_channel/ab_channel.stream/playlist.m3u8
+Channel name: ACTION24
+URL: http://stream.greekelitetv.com:1935/action_24/action_24.stream/playlist.m3u8
 Channel name: ATTICA TV
 URL: http://stream.greekelitetv.com:1935/attica_tv/attica_tv.stream/playlist.m3u8
 Channel name: BLUE SKY
