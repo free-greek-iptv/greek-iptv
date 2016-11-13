@@ -212,6 +212,8 @@ Channel name: MANA ELLADA TV
 URL: http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphon/playlist.m3u8
 Channel name: MESSINIA WEB TV
 URL: http://176.9.123.140:1935/messinia/messinia/master.m3u8
+Channel name: TILESPORT
+URL: http://78.47.151.114:1935/tilesport/movie1/playlist.m3u8
 Channel name: CRETA TV
 URL: http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
 Channel name: FAROS ON AIR TV
