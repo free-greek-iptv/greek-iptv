@@ -23,9 +23,11 @@ https://www.youtube.com/watch?v=2Y8qsS_xH2Y
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 BUP
 http://137.74.171.115:1935/galanos/a1951live/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA 
+http://iptvsale.info:8889/live/taki/taki/817.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA BUP 2
 http://193.92.37.235:1935/liveedge/live@720/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA BUP
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA BUP 3
 https://www.youtube.com/watch?v=a67XGboEcdw
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR 
 http://137.74.171.115:1935/galanos/a1951live2/playlist.m3u8
@@ -41,10 +43,14 @@ https://www.youtube.com/watch?v=ACzk1Xj5Yos
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV
+http://IPTVFREE1.COM:6969/live/13/www.iptvrestream.net/3641.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://stream-09.vty.dailymotion.com/14/dm/1/x4x174r/live.isml/events(live-1479182417)/live-audio=128000-video=700000.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
 http://ipsatpro.com:8000/live/00000/00001/859.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
+http://IPTVFREE1.COM:6969/live/13/www.iptvrestream.net/3648.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV
 http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://reloadplay.com/wp-content/uploads/2015/11/Cool-Text-199183501564938.png",RELOAD TV
@@ -230,7 +236,7 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/VOLCANO.png",VOLCANO
 http://176.9.123.140:1935/santorini/santorini/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52577601/ALETHEIA_TV.png",ALITHEIA TV
-https://www.youtube.com/watch?v=I0TvsM_cdN4
+https://www.youtube.com/watch?v=pqhPi3S4F1c
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52572892/TVM.png",TV MYTILINI
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/tB0vfVT.png",HORSE RACES
@@ -258,7 +264,7 @@ http://smooth2.istoikona.net:1935/farosonair/farosonair/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA 
 http://stream.ssh101.com:1935/live/greekvoice/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/QUYJeJ5.png",MAKELEIO TV
-https://www.youtube.com/watch?v=I5_ZCw8LwZE
+https://www.youtube.com/watch?v=pQqFsyVnL2A
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/n8042kB.png",LAMIA FM-1 TV
