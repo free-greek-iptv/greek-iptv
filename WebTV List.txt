@@ -26,6 +26,8 @@ Channel name: E
 URL: http://stream.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8
 Channel name: M.TV HD
 URL: http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
+Channel name: HISTORY
+URL: http://skyeg.dyndns.org:8000/live/soso/123456/1255.ts
 Channel name: CARTOON TV
 URL: http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
 Channel name: RELOAD TV
