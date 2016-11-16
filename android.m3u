@@ -48,7 +48,7 @@ http://ipsatpro.com:8000/live/00000/00001/854.m3u8&amp;streamtype=TSDOWNLOADER&a
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://stream-09.vty.dailymotion.com/14/dm/1/x4x174r/live.isml/events(live-1479182417)/live-audio=128000-video=700000.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
-http://ipsatpro.com:8000/live/00000/00001/859.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+http://37.187.162.203:6969/live/App0015/BRrRgLlK3z/3648.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE 
 http://37.187.162.203:6969/live/App0015/BRrRgLlK3z/3653.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV
