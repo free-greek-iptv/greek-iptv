@@ -96,8 +96,6 @@ Channel name: CINEFIL GR
 URL: http://web.onair-radio.eu:1935/moviesgr/moviesgr/playlist.m3u8
 Channel name: SPICY TV
 URL: http://178.33.196.122:1935/ReloadtvGreek/ReloadtvGreek/playlist.m3u8
-Channel name: FUN TV
-URL: http://stream.ssh101.com:1935/live/upgfuntv/playlist.m3u8
 Channel name: PALMOS TV
 URL: http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 Channel name: GREEK CINEMA 
@@ -187,7 +185,7 @@ URL: http://138.201.57.212:1935/best/myStream/playlist.m3u8
 Channel name: LYCHNOS
 URL: http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 Channel name: AIGAIO TV
-URL: http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
+http://stream.ssh101.com:1935/live/aigaiotv/playlist.m3u8
 Channel name: OMEGA TV
 URL: http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 Channel name: SAMIAKI TV
