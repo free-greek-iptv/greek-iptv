@@ -97,16 +97,14 @@ URL: http://web.onair-radio.eu:1935/moviesgr/moviesgr/playlist.m3u8
 Channel name: SPICY TV
 URL: http://178.33.196.122:1935/ReloadtvGreek/ReloadtvGreek/playlist.m3u8
 Channel name: FUN TV
-URL: http://stream.ssh101.com:1935/live/FunTv/playlist.m3u8
+URL: http://stream.ssh101.com:1935/live/upgfuntv/playlist.m3u8
 Channel name: PALMOS TV
 URL: http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 Channel name: GREEK CINEMA 
 URL: http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 Channel name: LAMPSI TV
 URL: http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
-Channel name: APEIRO 1
-URL: http://137.74.171.115:1935/galanos/live/playlist.m3u8
-Channel name: APEIRO 2
+Channel name: APEIRO CINEMA
 URL: http://137.74.171.115:1935/galanos/live2/playlist.m3u8
 Channel name: NETV TORONTO
 URL: http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
