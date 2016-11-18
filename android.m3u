@@ -46,7 +46,7 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://stream-ec2.vty.dailymotion.com/42/dm/1/x4x174r/live.isml/events(live-1479355216)/live-audio=128000-video=700000.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
-http://ipsatpro.info:8000/live/panetest52/5789706998785580/859.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/5763.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE 
 http://iptv.nexa.space:8000/live/ayhan/ayhan/1863.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV
