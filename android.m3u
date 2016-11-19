@@ -20,7 +20,7 @@ http://s2.greekelitetv.com:1935/ert3/ert3.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 BUP 2
 https://www.youtube.com/watch?v=nxebm_-DkF0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΔΤ HD" tvg-logo="http://greektv.pbworks.com/f/ERT_HD.png",ERT HD
-http://s2.greekelitetv.com:1935/ert_hd/ert_hd.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
 http://137.74.171.115:1935/galanos/a1951live1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP
