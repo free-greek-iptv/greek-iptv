@@ -149,8 +149,6 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/ozpJVQb.png",TILEMOUSIKI 2
 mmsh://wpso.com:200/music
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO MUSIC
-http://137.74.171.115:1935/galanos/a3live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/rff1DsY.gif",FOX TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://s1.dmcdn.net/Lpj8y/60x60-ioF.jpg",EXTRA KAVANTZA
