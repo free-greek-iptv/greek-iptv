@@ -153,8 +153,10 @@ http://138.201.25.26:1935/Alpha-Music/Alpha-Music/playlist.m3u8
 http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",NG TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="",NG TV
 http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="",XALASTRA TV
+http://94.23.218.186:1935/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
 http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/ozpJVQb.png",TILEMOUSIKI 2
