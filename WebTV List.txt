@@ -38,8 +38,6 @@ Channel name: VOULI
 URL: http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 Channel name: VOULI BUP
 URL: http://s2.greekelitetv.com:1935/vouli/vouli.stream/playlist.m3u8
-Channel name: HISTORY
-URL: http://skyeg.dyndns.org:8000/live/soso/123456/1255.m3u8
 Channel name: SMILE
 URL: http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 Channel name: NICKELODEON
@@ -50,28 +48,6 @@ Channel name: RELOAD TV
 URL: http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8
 Channel name: EURONEWS
 URL: http://s2.greekelitetv.com:1935/euronews/euronews.stream/playlist.m3u8
-Channel name: OTE CINEMA 1 HD
-URL:http://iptvsale.info:8889/live/taki/taki/1283.m3u8
-Channel name: OTE CINEMA 2 HD
-URL:http://iptvsale.info:8889/live/taki/taki/1284.m3u8
-Channel name: OTE CINEMA 3 HD
-URL:http://iptvsale.info:8889/live/taki/taki/1285.m3u8
-Channel name: OTE Sport 1
-URL:http://iptvsale.info:8889/live/taki/taki/724.m3u8
-Channel name: OTE Sport 2
-URL:http://iptvsale.info:8889/live/taki/taki/725.m3u8
-Channel name: OTE Sport 3
-URL:http://iptvsale.info:8889/live/taki/taki/726.m3u8
-Channel name: OTE Sport 4
-URL:http://iptvsale.info:8889/live/taki/taki/727.m3u8
-Channel name: OTE Sport 5
-URL:http://iptvsale.info:8889/live/taki/taki/728.m3u8
-Channel name: OTE Sport 6
-URL:http://iptvsale.info:8889/live/taki/taki/729.m3u8
-Channel name: OTE Sport 7
-URL:http://iptvsale.info:8889/live/taki/taki/730.m3u8
-Channel name: OTE Sport 8
-URL:http://iptvsale.info:8889/live/taki/taki/731.m3u8
 Channel name: ERT1 7H DELAY
 URL: http://s2.greekelitetv.com:1935/ert1-7/ert1-7.stream/playlist.m3u8
 Channel name: ERT1 10H DELAY
