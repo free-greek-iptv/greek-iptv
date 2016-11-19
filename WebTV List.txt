@@ -1,23 +1,31 @@
 Channel name: ERT1
+URL: http://s2.greekelitetv.com:1935/ert1/ert1.stream/playlist.m3u8
+Channel name: ERT1 BUP
 URL: http://stream.ssh101.com:1935/live/upgert/playlist.m3u8
+Channel name: ERT2
+URL: http://s2.greekelitetv.com:1935/ert2/ert2.stream/playlist.m3u8
+Channel name: ERT3
+URL: http://s2.greekelitetv.com:1935/ert3/ert3.stream/playlist.m3u8
 Channel name: ERT HD
-URL: http://stream.greekelitetv.com:1935/ert_hd/ert_hd.stream/playlist.m3u8
+URL: http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8
 Channel name: MEGA
 URL: http://137.74.171.115:1935/galanos/a1951live1/playlist.m3u8
 Channel name: MEGA BUP
-URL: http://stream.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8
+URL: http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8
 Channel name: ANT1
 URL: http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 Channel name: ANT1 BUP
 URL: http://137.74.171.115:1935/galanos/a1951live/playlist.m3u8
 Channel name: ALPHA 
 URL: http://193.92.37.235:1935/liveedge/live@720/master.m3u8
+Channel name: ALPHA BUP
+URL: http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8
 Channel name: STAR 
 URL: http://137.74.171.115:1935/galanos/a1951live2/playlist.m3u8
 Channel name: STAR BUP
 URL: http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 Channel name: STAR BUP 2
-URL: http://stream.greekelitetv.com:1935/star/star.stream/playlist.m3u8
+URL: http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8
 Channel name: SKAI
 URL: http://stream.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8
 Channel name: SKAI BUP 
@@ -34,10 +42,18 @@ Channel name: RELOAD TV
 URL: http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8
 Channel name: EURONEWS
 URL: http://stream.greekelitetv.com:1935/euro_news/euro_news.stream/playlist.m3u8
+Channel name: ERT1 7H DELAY
+URL: http://s2.greekelitetv.com:1935/ert1-7/ert1-7.stream/playlist.m3u8
+Channel name: ERT1 10H DELAY
+URL: http://s2.greekelitetv.com:1935/ert1-10/ert1-10.stream/playlist.m3u8
 Channel name: MEGA 7H DELAY
-URL: http://stream.greekelitetv.com:1935/mega_delay/mega_delay.stream/playlist.m3u8
+URL: http://s2.greekelitetv.com:1935/mega-7/mega-7.stream/playlist.m3u8
+Channel name: MEGA 10H DELAY
+URL: http://s2.greekelitetv.com:1935/mega-10/mega-10.stream/playlist.m3u8
 Channel name: STAR 7H DELAY
-URL: http://stream.greekelitetv.com:1935/star_delay/star_delay.stream/playlist.m3u8
+URL: http://s2.greekelitetv.com:1935/star-7/star-7.stream/playlist.m3u8
+Channel name: STAR 10H DELAY
+URL: http://s2.greekelitetv.com:1935/star-10/star-10.stream/playlist.m3u8
 Channel name: SKAI 7H DELAY
 URL: http://stream.greekelitetv.com:1935/skai_delay/skai_delay.stream/playlist.m3u8
 Channel name: E 7H DELAY
@@ -55,15 +71,15 @@ URL: http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-
 Channel name: ERT WORLD BUP
 URL: http://stream.ssh101.com:1935/live/upgertworld/playlist.m3u8
 Channel name: MEGA COSMOS
-URL: http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
+URL: http://s2.greekelitetv.com:1935/mega_cosmos/mega_cosmos.stream/playlist.m3u8
 Channel name: ALPHA SAT
-URL: http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8
+URL: http://s2.greekelitetv.com:1935/alpha_sat/alpha_sat.stream/playlist.m3u8
 Channel name: RIK SAT CY
 URL: http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 Channel name: RIK SAT CY BUP
 URL: http://stream.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
 Channel name: MEGAONE CY
-URL: http://stream.greekelitetv.com:1935/mega_cyprus/mega_cyprus.stream/playlist.m3u8
+URL: http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8
 Channel name: ALPHA CY
 URL: http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
 Channel name: SIGMA CY
