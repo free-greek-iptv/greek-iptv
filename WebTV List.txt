@@ -162,6 +162,14 @@ Channel name: SUPER STAR
 URL: http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
 Channel name: TILEMOUSIKI
 URL: http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
+Channel name: ELL TV
+URL: http://94.23.218.186:1935/ellradiotv/ellradiotv/playlist.m3u8
+Channel name: XALASTRA TV
+URL: http://94.23.218.186:1935/xalastratv/xalastratv/playlist.m3u8
+Channel name: NG TV
+URL: http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
+Channel name: FOX TV
+URL: http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 Channel name: ELLINIKOS TV
 URL: http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 Channel name: TV CRETA
