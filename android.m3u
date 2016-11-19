@@ -40,10 +40,8 @@ http://137.74.171.115:1935/galanos/a1951live2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
-http://skyeg.dyndns.org:8000/live/soso/123456/848.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP
 http://s2.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 2
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 
 http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
