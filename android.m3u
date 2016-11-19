@@ -251,7 +251,7 @@ http://odiehls-i.akamaihd.net/hls/live/233406/odie/odie.m3u8
 http://stream.ssh101.com:1935/live/tinostileorasi/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZqmKsFT.png",ELA TV
 http://live.streams.ovh:1935/elawebtv/elawebtv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",ELL TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.ytimg.com/vi/IxHPVTo9_FY/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=30VBcwQ0U8RWY3njYj_nND-L1UY",ELL TV
 http://94.23.218.186:1935/ellradiotv/ellradiotv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/weH3RgH.png",CHIOS TV
 http://138.201.25.26:1935/AlphaTv2/AlphaTv2/playlist.m3u8
