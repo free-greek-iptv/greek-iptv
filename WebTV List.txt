@@ -142,7 +142,7 @@ Channel name: MPAXALO TV
 URL: http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 Channel name: RELOAD BIZZ
 URL: http://web.onair-radio.eu:1935/reloadbizz/reloadbizz/playlist.m3u8
-Channel name: ROCK TV
+Channel name: CINEMANIA
 URL: http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
 Channel name: JAYZEE 
 URL: http://77.92.76.135:1935/jayzee/livestream/master.m3u8
@@ -170,6 +170,8 @@ Channel name: NG TV
 URL: http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 Channel name: FOX TV
 URL: http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+Channel name: HEART BEAT
+URL: http://web.onair-radio.eu:1935/heart/heart/playlist.m3u8
 Channel name: ELLINIKOS TV
 URL: http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 Channel name: TV CRETA
