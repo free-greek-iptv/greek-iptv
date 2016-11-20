@@ -147,6 +147,8 @@ http://94.23.218.186:1935/xalastratv/xalastratv/playlist.m3u8
 http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/ozpJVQb.png",TILEMOUSIKI 2
 mmsh://wpso.com:200/music
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://heartbeatradio.eu/wp-content/uploads/2012/11/nikimage.php_1.png",HEART BEAT
+rtmp://web.onair-radio.eu:1935/heart/heart
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/pK2p5ey.png",NG TV
 http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/rff1DsY.gif",FOX TV
