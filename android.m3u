@@ -156,7 +156,7 @@ http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/rff1DsY.gif",FOX TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/0U3LPSQ.png",ROCK TV
-rtmp://91.201.78.3/live/rockhd
+mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://s1.dmcdn.net/Lpj8y/60x60-ioF.jpg",EXTRA KAVANTZA
 http://stream-13.vty.dailymotion.com/04/dm/1/x418tkw/live.isml/events(live-1479734907)/live-audio=64000-video=400000.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",WZRA KIDS
