@@ -212,8 +212,7 @@ http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ITV.png",ITV
 http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/QjZRNqO.png",ENA LAMIAS
-rtmp://204.77.214.16/mogulus-stream-edge/lamiaenatv/rtmp://212-91.livestream.com/affiliateStream/lamiaenatv/6c69766572657065617465723a72746d703a2f2f3230342e37372e3231322e39312f6d6f67756c75732f6c616d6961656e6174762f6c69766573747265616d
-app: mogulus-stream-edge/lamiaenatv
+rtmp://204.77.214.16/mogulus-stream-edge/lamiaenatv/rtmp://212-91.livestream.com/affiliateStream/lamiaenatv/6c69766572657065617465723a72746d703a2f2f3230342e37372e3231322e39312f6d6f67756c75732f6c616d6961656e6174762f6c69766573747265616dapp: mogulus-stream-edge/lamiaenatv
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52996478/ASTRA_TV.png",ASTRA TV
