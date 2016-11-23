@@ -281,6 +281,10 @@ http://iphone-streaming.ustream.tv/uhls/19761282/streams/live/iphone/playlist.m3
 http://stream.ssh101.com:1935/live/greektv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA 
 http://stream.ssh101.com:1935/live/greekvoice/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA 2
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",TV DIPSO
+http://94.23.218.186:1935/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/n907AGO.png",EBS PLUS
