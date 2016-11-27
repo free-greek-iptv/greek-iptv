@@ -97,6 +97,10 @@ http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
 rtmp://5.189.174.222:5119/live/high
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Kontra Channel" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/f/MAD.png",MAD TV
+http://ipsatpro.com:8000/live/to2/to2/857.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/107431668/RISE.png",RISE
+http://ipsatpro.com:8000/live/to2/to2/864.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/SBC.png",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="4E.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
