@@ -20,6 +20,8 @@ Channel name: ALPHA
 URL: http://193.92.37.235:1935/liveedge/live@720/master.m3u8
 Channel name: ALPHA BUP
 URL: http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8
+Channel name: ALPHA BUP 2
+URL: http://stream.ssh101.com:1935/live/upgalpha/playlist.m3u8
 Channel name: STAR 
 URL: http://137.74.171.115:1935/galanos/a1951live2/playlist.m3u8
 Channel name: STAR BUP
@@ -266,6 +268,8 @@ Channel name: HELLAS TV
 URL: http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 Channel name: LAMIA FM-1 TV
 URL: http://iphone-streaming.ustream.tv/uhls/19761282/streams/live/iphone/playlist.m3u8
+Channel name: TV DIPSO
+URL: http://94.23.218.186:1935/ekpdipso/ekpdipso/playlist.m3u8
 Channel name: MONTREAL TV
 URL: http://stream.ssh101.com:1935/live/greektv/playlist.m3u8
 Channel name: EBS
