@@ -289,3 +289,5 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/1471956_550130475076536_209129940_n.jpg?oh=e266fd41b65d32467d21285b53cb04c1&oe=588C05DE",RADIO EPISTROFI
 https://www.youtube.com/watch?v=JKcFboNJbIo
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/1471956_550130475076536_209129940_n.jpg?oh=e266fd41b65d32467d21285b53cb04c1&oe=588C05DE",RADIO EPISTROFI BUP
+https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ART.m3u8
