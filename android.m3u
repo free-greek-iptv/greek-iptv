@@ -47,8 +47,6 @@ http://stream.ssh101.com:1935/live/skaichannelyoutube/playlist.m3u8
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60021260/M.tv.png",M.TV
-https://github.com/free-greek-iptv/greek-iptv/raw/master/m3u8/makedonia.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://stream-04.vty.dailymotion.com/45/dm/1/x4x17tv/live.isml/events(live-1480499904)/live-audio=128000-video=700000.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
@@ -287,5 +285,3 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/1471956_550130475076536_209129940_n.jpg?oh=e266fd41b65d32467d21285b53cb04c1&oe=588C05DE",RADIO EPISTROFI
 https://www.youtube.com/watch?v=JKcFboNJbIo
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1_HD.png",ANT1 HD
-https://github.com/free-greek-iptv/greek-iptv/raw/master/m3u8/ant1hd.m3u8
