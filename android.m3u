@@ -25,8 +25,6 @@ http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8
 http://137.74.171.115:1935/galanos/a2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP
 https://www.youtube.com/watch?v=2Y8qsS_xH2Y
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1_HD.png",ANT1 HD
-https://github.com/free-greek-iptv/greek-iptv/raw/master/m3u8/ant1hd.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 BUP
@@ -291,3 +289,5 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/1471956_550130475076536_209129940_n.jpg?oh=e266fd41b65d32467d21285b53cb04c1&oe=588C05DE",RADIO EPISTROFI
 https://www.youtube.com/watch?v=JKcFboNJbIo
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1_HD.png",ANT1 HD
+https://github.com/free-greek-iptv/greek-iptv/raw/master/m3u8/ant1hd.m3u8
