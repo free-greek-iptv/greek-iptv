@@ -149,8 +149,6 @@ http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://img.discogs.com/ZDIN5Nh1w2TQCUxZHw0G818givU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/L-166359-1287664629.jpeg.jpg",ALPHA MUSIC
 http://138.201.25.26:1935/Alpha-Music/Alpha-Music/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/baRnZKA.png",SUPERSTAR
-http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://www.thestreamingadvisor.com/wp-content/uploads/2016/05/XTV-For-Roku.jpg",XALASTRA TV
@@ -241,8 +239,6 @@ https://www.youtube.com/watch?v=pxq146NMXmY
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/VOLCANO.png",VOLCANO
 rtmp://176.9.123.140:1935/santorini/santorini
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52577601/ALETHEIA_TV.png",ALITHEIA TV
-https://www.youtube.com/watch?v=Oyo3NlACpGY
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52572892/TVM.png",TV MYTILINI
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/tB0vfVT.png",HORSE RACES
@@ -259,6 +255,8 @@ http://94.23.218.186:1935/ellradiotv/ellradiotv/playlist.m3u8
 http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/baRnZKA.png",SUPERSTAR
+http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=11iacrhvtpje1uft0ut12v3lc1
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
