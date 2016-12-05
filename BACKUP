@@ -1,3 +1,9 @@
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
+http://stream.ssh101.com:1935/live/upgertworld/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
+http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 BUP 2
+http://stream.ssh101.com:1935/live/upgert/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL BUP
 http://stream.ssh101.com:1935/live/ionian/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B
