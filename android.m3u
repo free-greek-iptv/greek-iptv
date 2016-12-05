@@ -200,6 +200,8 @@ http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52996478/ASTRA_TV.png",ASTRA TV
 http://www.astratv.gr:8090/hls/livestream.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xAKXNn1.png",FLASH TV
+http://stream-03.vty.dailymotion.com/33/dm/1/x54fxkw/live.isml/events(live-1480958162)/live-audio=64000-video=400000.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/YvXSqqO.png",LEPANTO 
 http://stream-08.vty.dailymotion.com/48/dm/1/x4eyjfv/live.isml/events(live-1480936635)/live-audio=64000-video=400000.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254400/ACHAIA.PNG",ACHAIA CHANNEL
