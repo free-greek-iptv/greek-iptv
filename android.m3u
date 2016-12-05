@@ -209,6 +209,8 @@ http://138.201.57.212:1935/best/myStream/playlist.m3u8
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54759561/AIGAIO_TV.png",AIGAIO TV
 http://stream.ssh101.com:1935/live/aigaiotv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B
+https://www.youtube.com/watch?v=Vm1WZ9Nw1a4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54759558/OMEGA_TELEVISION.png",OMEGA TV
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png",SAMIAKI TV
