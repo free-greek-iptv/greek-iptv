@@ -152,6 +152,10 @@ http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/0U3LPSQ.png",ROCK TV
 mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",GREEK VOICE 1
+http://stream.ssh101.com:1935/live/greekvoice/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",GREEK VOICE 2
+http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",WZRA KIDS
 mmsh://wpso.com:200/kids
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
@@ -258,10 +262,6 @@ http://138.201.25.26:1935/AlphaTv2/AlphaTv2/playlist.m3u8
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL TV
 http://138.197.136.102:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",GREEK VOICE 1
-http://stream.ssh101.com:1935/live/greekvoice/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",GREEK VOICE 2
-http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://diktuoideon.files.wordpress.com/2013/05/alex_double-headed-eagle-600-300x295.jpg",TV DIPSO
 http://94.23.218.186:1935/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
