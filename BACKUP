@@ -1,3 +1,7 @@
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60551556/KOSMOS_TV.png",TV KOSMOS
+https://www.youtube.com/watch?v=9z9gB-TYsD0
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
+http://195.81.140.80:1935/live/tv_mall_cyprus/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
 http://stream.ssh101.com:1935/live/upgertworld/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
@@ -10,8 +14,6 @@ http://stream.ssh101.com:1935/live/ionian/playlist.m3u8
 https://www.youtube.com/watch?v=GE6wZ8ijnyk
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="MTV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/107431668/RISE.png",RISE
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rise.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
-http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
 https://github.com/free-greek-iptv/greek-iptv/raw/master/m3u8/alert.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9
