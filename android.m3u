@@ -110,10 +110,8 @@ http://138.201.25.26:1935/Alpha-Tv/Alpha-Tv/playlist.m3u8
 http://web.onair-radio.eu:1935/moviesgr/moviesgr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
 http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO CINEMA 1
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO CINEMA 
 http://46.4.122.162:1935/cb704/cb704/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/Q3Amlbd.png",APEIRO CINEMA 2
-http://live.streams.ovh:1935/apeiro1/apeiro1/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
