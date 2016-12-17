@@ -204,7 +204,7 @@ http://www.astratv.gr:8090/hls/livestream.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xAKXNn1.png",FLASH TV
 http://stream-03.vty.dailymotion.com/37/dm/1/x54fxkw/live.isml/events(live-1481985373)/live-audio=64000-video=400000.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/YvXSqqO.png",LEPANTO 
-http://stream-08.vty.dailymotion.com/46/dm/1/x4eyjfv/live.isml/events(live-1481981478)/live-audio=128000-video=1200000.m3u8
+http://stream-08.vty.dailymotion.com/44/dm/1/x4eyjfv/live.isml/events(live-1481991953)/live-audio=128000-video=1200000.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254400/ACHAIA.PNG",ACHAIA CHANNEL
 http://78.129.184.15:23319/streaming/stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG",BEST TV
