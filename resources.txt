@@ -1,5 +1,5 @@
 name="Install Snowball build"
-url="https://dl.dropboxusercontent.com/s/1i3bvku5cm2pght/snowball_build.zip"
+url="https://dl.dropboxusercontent.com/s/pcwq9j3quh06okl/snowball.zip"
 img="http://i.imgur.com/cGV8xDN.png"
 fanart="http://i.imgur.com/fOjHKZ8.jpg"
 description="Snowball build, the finest for Greek kodi users"
