@@ -29,6 +29,8 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 http://stream-02.vty.dailymotion.com/42/dm/1/x52s3ep/live.isml/events(live-1483156816)/live-audio=128000-video=700000.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
 http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON BUP
+http://46.4.122.162:1935/cb705/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE 
 http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV
