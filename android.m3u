@@ -184,7 +184,7 @@ http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54759561/AIGAIO_TV.png",AIGAIO TV
 http://stream.ssh101.com:1935/live/aigaiotvlive/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xAKXNn1.png",FLASH TV
-http://stream-11.vty.dailymotion.com/41/dm/1/x54fxkw/live.isml/events(live-1483711882)/live-audio=64000-video=400000.m3u8
+http://stream-09.vty.dailymotion.com/41/dm/1/x54fxkw/live.isml/events(live-1483711882)/live-audio=64000-video=400000.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B
 https://www.youtube.com/watch?v=nfMmWoXsnLw
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54759558/OMEGA_TELEVISION.png",OMEGA TV
