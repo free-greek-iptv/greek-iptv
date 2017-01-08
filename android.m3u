@@ -115,6 +115,8 @@ mms://tvgold.webcast.mediacdn.com/tvgold
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.livetvgr.com/wp-content/uploads/2014/08/mad-tv.jpg",MAD TV 
+rtmp://94.75.240.96:1935/mad/mad.sdp
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/f/MAD.png",MAD TV CY
 http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/QZQhg6C.png",MAGIC TV 
