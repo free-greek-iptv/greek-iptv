@@ -6,8 +6,8 @@ https://www.youtube.com/watch?v=AOVVjaLbGEk
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3
 https://www.youtube.com/watch?v=jSbNRrvwk4Q
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
-http://46.4.122.162:1935/10000/live/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP
+rtmp://94.75.240.96:1935/mega/mega.sdp
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 
 https://www.youtube.com/watch?v=2Y8qsS_xH2Y
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
@@ -16,13 +16,15 @@ http://46.4.122.162:1935/9500/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA 
 http://193.92.37.235:1935/LiveEdgeTV/live@720/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR
-http://46.4.122.162:1935/webtveu/live/playlist.m3u8
+rtmp://94.75.240.96:1935/star/star.sdp
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
 http://s2.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E BUP
+rtmp://94.75.240.96:1935/e/e.sdp
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
