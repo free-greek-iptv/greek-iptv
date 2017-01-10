@@ -1,3 +1,5 @@
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://vector.me/files/images/6/6/66449/tv_movie.png",MOVIES TV
+rtmp://live.streams.ovh/FunTv/FunTv
 #EXTINF:0, group-title="CINEMA" tvg-logo="https://s19.postimg.org/l6349rg9f/apeiro_tv.jpg",APEIRO CINEMA
 http://46.4.122.162:1935/cb704/cb704/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZqmKsFT.png",ELA TV
