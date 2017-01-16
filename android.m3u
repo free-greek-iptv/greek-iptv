@@ -49,12 +49,12 @@ http://stream.ssh101.com:1935/live/skaichannelyoutube/playlist.m3u8
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV BUP
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://188.165.119.235/channels/android/240/macedonia.png",M.TV BUP
 http://188.165.119.235:65109
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART 
 http://188.165.119.235:65107 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART BUP
-http://stream-13.vty.dailymotion.com/09/dm/1/x52s44e/live.isml/events(live-1484366418)/live-audio=128000-video=700000.m3u8
+http://stream-03.vty.dailymotion.com/42/dm/1/x52s44e/live.isml/events(live-1484586017)/live-audio=128000-video=700000.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
 http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE 
@@ -93,6 +93,8 @@ http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8
 http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP
+http://188.165.119.235:65115
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 CY
 http://l2.cloudskep.com/antl2/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAxNiAzOjQ5OjA1IFBNJmhhc2hfdmFsdWU9a05WYlJGV29EV2xZL29aemcydzJUUT09JnZhbGlkbWludXRlcz03MjA=
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",PLUS CY
