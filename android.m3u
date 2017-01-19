@@ -95,7 +95,7 @@ http://s2.greekelitetv.com:1935/extra/extra.stream/playlist.m3u8
 http://s2.greekelitetv.com:1935/hightv/hightv.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Kontra Channel" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:0, group-title=”ΠΕΡΙΦΕΡΕΙΑΚΑ” tvg-logo=”http://i.imgur.com/xTy0Qww.gif”,SBC
+#EXTINF:0, group-title=”ΠΕΡΙΦΕΡΕΙΑΚΑ” tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
 http://iphone-streaming.ustream.tv/uhls/22790939/streams/live/iphone/playlist.m3u8
@@ -201,7 +201,7 @@ http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52996478/ASTRA_TV.png",ASTRA TV
 http://www.astratv.gr:8090/hls/livestream.m3u8
-#EXTINF:0, group-title=”ΠΕΡΙΦΕΡΕΙΑΚΑ” tvg-logo=”http://i.imgur.com/nAzfWx5.png”,TRT TV
+#EXTINF:0, group-title=”ΠΕΡΙΦΕΡΕΙΑΚΑ” tvg-logo="http://i.imgur.com/nAzfWx5.png",TRT TV
 http://stream.ssh101.com:1935/live/TRTGREECE/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254400/ACHAIA.PNG",ACHAIA CHANNEL
 http://78.129.184.15:23319/streaming/stream/playlist.m3u8
