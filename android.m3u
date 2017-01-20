@@ -265,6 +265,8 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 http://94.23.218.186:1935/ellradiotv/ellradiotv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.orasi.tv/img/logo_GR.png",ORASI TV
 https://www.youtube.com/watch?v=WZ4jBLuHr-Q
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZTIWHBd.png",NEW TV
+http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
