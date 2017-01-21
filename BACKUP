@@ -1,3 +1,7 @@
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60551556/KOSMOS_TV.png",TV KOSMOS
+https://www.youtube.com/watch?v=XfCYPkVipRU
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/weH3RgH.png",CHIOS TV
+http://138.201.25.26:1935/AlphaTv2/AlphaTv2/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://vector.me/files/images/6/6/66449/tv_movie.png",MOVIES TV
@@ -8,8 +12,6 @@ http://46.4.122.162:1935/cb704/cb704/playlist.m3u8
 http://live.streams.ovh:1935/elawebtv/elawebtv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Extra" tvg-logo="http://greektv.pbworks.com/f/EXTRA.png",EXTRA CHANNEL
 http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZTIWHBd.png",NEW TV
-http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193861/BERGINA.png",BERGINA
 http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193853/SUPER.png",SUPER
@@ -18,43 +20,18 @@ http://iphone-streaming.ustream.tv/uhls/11946358/streams/live/iphone/playlist.m3
 https://www.youtube.com/watch?v=9z9gB-TYsD0
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 http://195.81.140.80:1935/live/tv_mall_cyprus/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
-http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B
-https://www.youtube.com/watch?v=GE6wZ8ijnyk
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="MTV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/107431668/RISE.png",RISE
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/rise.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
-https://github.com/free-greek-iptv/greek-iptv/raw/master/m3u8/alert.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9
 https://github.com/free-greek-iptv/greek-iptv/raw/master/m3u8/channel9.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/KnAWvtk.png",EXTRA CY
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/extracy.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/SBC.png",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 
-http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51985229/EUROPE_ONE.png",EUROPE ONE
 http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/n8042kB.png",LAMIA FM-1 TV
-http://iphone-streaming.ustream.tv/uhls/19761282/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/YvXSqqO.png",LEPANTO 
 http://stream-06.vty.dailymotion.com/37/dm/1/x4eyjfv/live.isml/events(live-1479821722)/live-audio=64000-video=400000.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52475109/STAR_B.ELLADAS.png",STAR B.E.
 rtmp://78.129.184.15:13097/streaming/stream pageUrl=http://startvfm.listen2myradio.com live=1 timeout=10
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52997867/TRT.png",TRT
-http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/kvjeCxR.png",FUN TV
 http://stream.ssh101.com:1935/live/FunTv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="",MAD CYPRUS
-rtmp://144.76.2.213/live/livestream
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="",MAD CYPRUS 
-rtmp://144.76.2.213:1935/live/livestream
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="",MAD CYPRUS 
-http://144.76.2.213:1935/live/livestream/playlist.m3u8
-#EXTINF:0, group-title="web tv" tvg-logo="",GREEK CINEMA
-http://wpc.68FC.edgecastcdn.net/8068FC/INFINITY/m3u8/cinema.m3u8
-#EXTINF:0, group-title="web tv" tvg-logo="",ELLADA TV
-rtmp://fml.68FC.edgecastcdn.net/2068FC/elladatv
+
