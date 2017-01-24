@@ -157,6 +157,8 @@ http://web.onair-radio.eu:1935/reloadbizz/reloadbizz/playlist.m3u8
 http://web.onair-radio.eu:8002/stream
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/6xRxPun.png",TV GOLD
 mms://tvgold.webcast.mediacdn.com/tvgold
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="",DELUXE MUSIC
+http://hls1.livestreamingcdn.com/livecdn847/livecdn847/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://greektv.pbworks.com/f/MAD.png",MAD TV CY
