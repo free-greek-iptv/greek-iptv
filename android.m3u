@@ -143,7 +143,7 @@ http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/0U3LPSQ.png",ROCK TV
 mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://chanel.reloadplay.com/img/reloadradio.png",RELOAD RADIO
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fwPUazv.jpg",RELOAD RADIO
 http://stream.ssh101.com:1935/live/reloadradio/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
 http://stream-04.vty.dailymotion.com/37/dm/1/xqjey2/live.isml/events(live-1485827292)/live-audio=128000-video=1200000.m3u8
