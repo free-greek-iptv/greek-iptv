@@ -1,3 +1,9 @@
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/baRnZKA.png",SUPERSTAR
+http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://www.qubo.gr/uploads/companies/77804/caramela_live_slider_gold.jpg",KARAMELA TV
+http://138.201.25.26:1935/karamela-tv/karamela-tv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://img.discogs.com/ZDIN5Nh1w2TQCUxZHw0G818givU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/L-166359-1287664629.jpeg.jpg",ALPHA MUSIC
+http://138.201.25.26:1935/Alpha-Music/Alpha-Music/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.ytimg.com/vi/IxHPVTo9_FY/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=30VBcwQ0U8RWY3njYj_nND-L1UY",ELL TV
 http://94.23.218.186:1935/ellradiotv/ellradiotv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
