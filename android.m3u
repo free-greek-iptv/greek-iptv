@@ -127,6 +127,8 @@ http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
 http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://img.discogs.com/ZDIN5Nh1w2TQCUxZHw0G818givU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/L-166359-1287664629.jpeg.jpg",ALPHA MUSIC
 http://138.201.25.26:1935/Alpha-Music/Alpha-Music/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://lh3.googleusercontent.com/BJu5wxZiRsPp0norNNGkg_qFTRcB7CXrNPQmc3uhEfzCbwGyQD7EsMKksWXO8u_01IA=w300",PLAY TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
