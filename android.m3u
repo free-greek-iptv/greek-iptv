@@ -59,6 +59,8 @@ http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
 http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",KIDS TV
 mmsh://wpso.com:200/kids
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",KIDS TV2
+http://iphone-streaming.ustream.tv/uhls/22988956/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://secure.static.tumblr.com/06d19be7181e4b3207dad76306c5fa60/sacvork/ueBnrj0tf/tumblr_static_tumblr_static_ai1dhctwpe880sc4ko4wkwoco_640.jpg",JUNIOR TV
 mmsh://38.103.153.242:80/kids?MSWMExt=.asf
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/DPBjWOJ.png",RELOAD TV
@@ -81,7 +83,7 @@ http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
 http://web.onair-radio.eu:1935/moviesgr/moviesgr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/UbLlB0R.png",MAX GREEK CINEMA
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/UbLlB0R.png",MAX GREEK CINEMA
 mmsh://38.103.153.242:80/maxtv?MSWMExt=.asf
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
@@ -101,6 +103,8 @@ rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI BUP 
 mms://media19.internet.gr/ParliamentTV-HQ
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 2
+http://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=942oejp0aab18editv470uao46
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD BUP 
