@@ -61,7 +61,7 @@ http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 mmsh://wpso.com:200/kids
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",KIDS TV2
 http://iphone-streaming.ustream.tv/uhls/22988956/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://secure.static.tumblr.com/06d19be7181e4b3207dad76306c5fa60/sacvork/ueBnrj0tf/tumblr_static_tumblr_static_ai1dhctwpe880sc4ko4wkwoco_640.jpg",JUNIOR TV
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://logowow.net/logos/thumb-4u6L39HNP.png",JUNIOR TV
 mmsh://38.103.153.242:80/kids?MSWMExt=.asf
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/DPBjWOJ.png",RELOAD TV
 http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8
