@@ -1,5 +1,11 @@
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/baRnZKA.png",SUPERSTAR
-http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 
+http://178.202.147.209:8000/play/a002
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2 
+http://178.202.147.209:8000/play/a003
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 
+http://178.202.147.209:8000/play/a004
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT_HD.png",ERT HD
+http://178.202.147.209:8000/play/a005
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://www.qubo.gr/uploads/companies/77804/caramela_live_slider_gold.jpg",KARAMELA TV
 http://138.201.25.26:1935/karamela-tv/karamela-tv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.ytimg.com/vi/IxHPVTo9_FY/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=30VBcwQ0U8RWY3njYj_nND-L1UY",ELL TV
@@ -8,8 +14,6 @@ http://94.23.218.186:1935/ellradiotv/ellradiotv/playlist.m3u8
 https://www.youtube.com/watch?v=WZ4jBLuHr-Q
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60551556/KOSMOS_TV.png",TV KOSMOS
 https://www.youtube.com/watch?v=XfCYPkVipRU
-#EXTINF:1, group-title=”ΠΕΡΙΦΕΡΕΙΑΚΑ” tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
-http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/weH3RgH.png",CHIOS TV
 http://138.201.25.26:1935/AlphaTv2/AlphaTv2/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
@@ -28,8 +32,6 @@ http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/11946358/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 http://195.81.140.80:1935/live/tv_mall_cyprus/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/SBC.png",SBC
-http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51985229/EUROPE_ONE.png",EUROPE ONE
 http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52475109/STAR_B.ELLADAS.png",STAR B.E.
