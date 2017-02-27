@@ -125,7 +125,7 @@ http://81.21.47.74/hls/live.m3u8
 http://stream-12.vty.dailymotion.com/14/dm/1/x2p626q/live.isml/live.m3u8?e=1488270641&st=zdC5jIP4QJ0JDV1t4cPgpg#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Kontra Channel" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy0Qww.gif",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY
 http://136.243.200.184:1935/live/tvlive/playlist.m3u8
@@ -215,7 +215,7 @@ http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/3us2U1i.png",ART TV 
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/3us2U1i.png",ART TV 
 http://iphone-streaming.ustream.tv/uhls/6875027/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193853/SUPER.png",SUPER
 http://iphone-streaming.ustream.tv/uhls/11946358/streams/live/iphone/playlist.m3u8
@@ -229,7 +229,7 @@ https://stream-06.vty.dailymotion.com/35/dm/1/x57l5fs/live.isml/live.m3u8?e=1488
 http://stream-05.vty.dailymotion.com/40/dm/1/x5a26ae/live.isml/live.m3u8?e=1488392595&st=lXXJeuzOXcCvLekTKbrTqA#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254400/ACHAIA.PNG",ACHAIA CHANNEL
 http://78.129.184.15:23319/streaming/stream/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/QjZRNqO.png",ENA LAMIAS
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/QjZRNqO.png",ENA LAMIAS
 rtmp://204.77.214.14/mogulus-stream-edge/lamiaenatv/rtmp://212-169.livestream.com/affiliateStream/lamiaenatv/6c69766572657065617465723a72746d703a2f2f3231322d3136392e6c69766573747265616d2e636f6d2f6d6f67756c75732f6c616d6961656e6174762f6c69766573747265616d
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG",BEST TV
 http://138.201.57.212:1935/best/myStream/playlist.m3u8
