@@ -79,7 +79,7 @@ http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/6i8Q7U2.png",RELOAD BIZZ
 http://web.onair-radio.eu:1935/reloadbizz/reloadbizz/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",THINKG GREEN
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",THINGS GREEN
 http://web.onair-radio.eu:1935/thing-green/thing-green/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
 http://s2.greekelitetv.com:1935/mega_cosmos/mega_cosmos.stream/playlist.m3u8
