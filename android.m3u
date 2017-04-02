@@ -77,6 +77,10 @@ http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/2/6/1/22611911/22611911,192x192,r:3.jpg",34100 TV
+http://iphone-streaming.ustream.tv/uhls/22611911/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
+http://138.201.25.26:1935/spirtv/spirtv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/6i8Q7U2.png",RELOAD BIZZ
 http://web.onair-radio.eu:1935/reloadbizz/reloadbizz/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",THINGS GREEN
@@ -157,6 +161,8 @@ http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/rff1DsY.gif",FOX TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://www.techspot.com/images2/downloads/topdownload/2014/05/LinuxLive.png",YOLO TV
+http://live.cast-control.eu:1935/yolotelevision/yolotelevision/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/0U3LPSQ.png",ROCK TV
 mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
