@@ -166,6 +166,8 @@ http://live.cast-control.eu:1935/yolotelevision/yolotelevision/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/0U3LPSQ.png",ROCK TV
 mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
+http://4.31.30.145:9080
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E. BUP
 http://stream-02.vty.dailymotion.com/33/dm/1/xqjey2/live.isml/live.m3u8?e=1491289233&st=6eOMCUTHxlK_x9pzleHyMg#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
@@ -281,12 +283,8 @@ http://web.onair-radio.eu:1935/ena/ena/playlist.m3u8
 http://cystreams.com:8081/RadioEpistrofi/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS FM
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.klikfm.com.cy/wp-content/themes/klikfm/images/kliklogo.png",KLIK FM
-https://www.youtube.com/watch?v=R-Cnr1cm6E4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://psaxno.eu/sites/psaxno.eu/files/SUPERFMLOGO%20NEO.jpg",SUPER FM
-http://stream-10.vty.dailymotion.com/33/dm/1/x1xhin2/live.isml/events(live-1490770145)/live-audio=128000-video=735000.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://yt3.ggpht.com/-G51-5kpcNmY/AAAAAAAAAAI/AAAAAAAAAAA/VqUs6_8Sfqs/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",ATHENS 9.84
-https://www.youtube.com/watch?v=JDsgztfWPio
+http://stream-07.vty.dailymotion.com/18/dm/1/x1xhin2/live.isml/events(live-1491029108)/live-audio=128000-video=735000.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/n907AGO.png",EBS PLUS
