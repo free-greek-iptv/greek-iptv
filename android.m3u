@@ -287,6 +287,10 @@ http://cystreams.com:8081/RadioEpistrofi/index.m3u8
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://psaxno.eu/sites/psaxno.eu/files/SUPERFMLOGO%20NEO.jpg",SUPER FM
 http://stream-07.vty.dailymotion.com/18/dm/1/x1xhin2/live.isml/events(live-1491029108)/live-audio=128000-video=735000.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://cdn-radiotime-logos.tunein.com/s227580q.png",GREEK RADIO TV
+http://str103.setplex.net:1935/228/greeradio/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://207.36.91.70/images/2015/ellastv-logo-2015-main.png",ELLAS TV
+http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/promo/video/video.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/n907AGO.png",EBS PLUS
