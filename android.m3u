@@ -113,6 +113,8 @@ http://stream-09.vty.dailymotion.com/14/dm/1/x2p626q/live.isml/events(live-14885
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY
 http://136.243.200.184:1935/live/tvlive/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY BUP
+https://www.youtube.com/watch?v=BQEgopNTX-8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020440/ATTICA.png",ATTICA TV
 http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9
