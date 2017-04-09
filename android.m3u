@@ -75,13 +75,15 @@ http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/2/6/1/22611911/22611911,192x192,r:3.jpg",34100 TV
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/nKq6UeG.jpg",34100 TV
 http://iphone-streaming.ustream.tv/uhls/22611911/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
 http://138.201.25.26:1935/spirtv/spirtv/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/6i8Q7U2.png",RELOAD BIZZ
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/6SMTwlb.png",ΗUNTER & FISHER TV
+http://web.onair-radio.eu:1935/HunterTv/HunterTv/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/6i8Q7U2.png",RELOAD BIZZ
 http://web.onair-radio.eu:1935/reloadbizz/reloadbizz/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",THINGS GREEN
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jOgysNe.png",THINGS GREEN
 http://web.onair-radio.eu:1935/thing-green/thing-green/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="euronews.nws" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
@@ -247,7 +249,7 @@ https://hls.ssh101.com/live/tinostv2/playlist.m3u8
 mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.ytimg.com/vi/IxHPVTo9_FY/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=30VBcwQ0U8RWY3njYj_nND-L1UY",ELL TV
 http://94.23.218.186:1935/ellradiotv/ellradiotv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/UWkVZWi.png",RU24
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/sTee6Yx.jpg",RU24
 http://web.onair-radio.eu:1935/reboot/reboot/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=942oejp0aab18editv470uao46
