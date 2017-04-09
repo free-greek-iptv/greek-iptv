@@ -41,6 +41,8 @@ https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
 http://stream-03.vty.dailymotion.com/43/dm/1/x52s44e/live.isml/live.m3u8?e=1491895730&st=u2EBd3qVX0Why4U_yvPNfg#cell=lvty&hls_liveSyncDuration=24
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Nickelodeon" tvg-logo="http://greektv.pbworks.com/f/NICKELODEON.png",NICKELODEON
+http://bit.ly/2lLgg6P
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV
 http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://yt3.ggpht.com/-QHPC9emY_8c/AAAAAAAAAAI/AAAAAAAAAAA/03fPGkHcBbk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",LIFE 
