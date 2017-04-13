@@ -185,6 +185,8 @@ http://4.31.30.145:9080
 http://stream-02.vty.dailymotion.com/02/dm/1/xqjey2/live.isml/live.m3u8?e=1492184074&st=6YnStk4QAGtMrj2FqVicBg#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/nAzfWx5.png",TRT TV
+http://hls.ssh101.com/live/TRTGREECE/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100
 http://178.62.176.153/hls/tv100/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="KritiTV.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png",KPHTH TV
