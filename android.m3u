@@ -293,6 +293,8 @@ http://138.197.136.102:8081/live/greektv/playlist.m3u8
 http://94.23.218.186:1935/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/BfXL16K.jpg",ESTIA TV
+https://www.youtube.com/watch?v=KrgSgMCdSLU
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/AZteACJ.jpgE",RADIO EPISTROFI
 http://cystreams.com:8081/RadioEpistrofi/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS FM
