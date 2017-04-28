@@ -81,7 +81,7 @@ http://web.onair-radio.eu:1935/moviesgr/moviesgr/playlist.m3u8
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/nKq6UeG.jpg",34100 TV
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/m4gfa88.jpg",34100 TV
 http://stream-01.vty.dailymotion.com/40/dm/1/x5jj8ja/live.isml/live.m3u8?e=1493566641&st=LqQXLIhaVxtBk5cksWqG5w#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV
 http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
