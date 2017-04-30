@@ -63,6 +63,8 @@ http://s2.greekelitetv.com:1935/epsilon-10/epsilon-10.stream/playlist.m3u8
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
 http://stream-03.vty.dailymotion.com/13/dm/1/x52s44e/live.isml/live.m3u8?e=1493708729&st=ztu1iwbhh0x8Xk2lARzvmA#cell=lvty&hls_liveSyncDuration=24
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/upqLdQd.jpg",SUPER CHANNEL
+http://bit.ly/2pxsPIB
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/DPBjWOJ.png",RELOAD TV
 http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/Qq0ZXCu.png",SPICY
