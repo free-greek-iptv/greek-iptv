@@ -82,7 +82,7 @@ http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/m4gfa88.jpg",34100 TV
-http://stream-09.vty.dailymotion.com/36/dm/1/x5jj8ja/live.isml/live.m3u8?e=1493708783&st=qlA-neTnX2Jm31z3sAkDsg#cell=lvty&hls_liveSyncDuration=24
+http://stream-07.vty.dailymotion.com/50/dm/1/x5jj8ja/live.isml/live.m3u8?e=1493718885&st=qzsUn1PvFd59DM4xEbg7dg#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV
 http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/wcodbFA.png",LIFE 
