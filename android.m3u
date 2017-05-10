@@ -124,6 +124,8 @@ http://stream-12.vty.dailymotion.com/43/dm/1/x5b9h6c/live.isml/live.m3u8?e=14946
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 BUP
 https://www.youtube.com/watch?v=HQef4gwTyBU
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Extra" tvg-logo="http://greektv.pbworks.com/f/EXTRA.png",EXTRA CHANNEL
+http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Extra" tvg-logo="http://greektv.pbworks.com/f/EXTRA.png",EXTRA CHANNEL BUP
 http://s2.greekelitetv.com:1935/extra/extra.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/pTOaqhX.png",AB CHANNEL
 http://s2.greekelitetv.com:1935/abchannel/abchannel.stream/playlist.m3u8
