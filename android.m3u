@@ -85,6 +85,8 @@ http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 mmsh://wpso.com:200/kids
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/h4wW2Tp.png",KIDS TV2
 http://wpso.com:1939/hls/kids1.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/g6odIuj.jpg",TOM AND JERRY
+http://bit.ly/2raLo2N
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
 rtmp://stream2.svbllc.com:1935/mega/mega.stream
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/Lx5DfSN.png",ALPHA SAT
@@ -185,6 +187,8 @@ http://178.62.176.153/hls/tv100/index.m3u8
 http://stream-10.vty.dailymotion.com/46/dm/1/x5d9lwu/live.isml/live.m3u8?e=1494783596&st=k54WPgCNaUbw6Qr0JAKhqQ#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/YvXSqqO.png",LEPANTO 
 http://stream-01.vty.dailymotion.com/43/dm/1/x5hk7bg/live.isml/live.m3u8?e=1494783565&st=FIEH5601qcT_Y7pSRYWukw#cell=lvty&hls_liveSyncDuration=24
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/103873215/ATLAS.png",ATLAS TV
+http://stream-06.vty.dailymotion.com/04/dm/1/x5hvmpy/live.isml/live.m3u8?e=1494830299&st=il03uEZVErW3U4rlONJ_Cw#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="KritiTV.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png",KPHTH TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png",NEA TV
