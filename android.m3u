@@ -67,6 +67,8 @@ http://stream-10.vty.dailymotion.com/31/dm/1/x52s49n/live.isml/live.m3u8?e=14947
 http://live.cast-control.eu:1935/MoviesTv_1//MoviesTv_1/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
 http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/m4gfa88.jpg",34100 TV
+http://stream-13.vty.dailymotion.com/07/dm/1/x5jj8ja/live.isml/live.m3u8?e=1494857857&st=7iPKoAlcL2_44x5Mx4b-XQ#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
