@@ -281,6 +281,8 @@ http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/Ellin
 http://stream-07.vty.dailymotion.com/40/dm/1/x1xhin2/live.isml/live.m3u8?e=1494783771&st=TI0GJDW6j49FZtL2O9MOOg#cell=lvty&hls_liveSyncDuration=24&comment=QOEP2PLIVE5
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://cdn-radiotime-logos.tunein.com/s227580q.png",GREEK RADIO TV
 http://str103.setplex.net:1935/228/greeradio/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/YDV1yYg.png",SFINAKIA FM
+http://stream-13.vty.dailymotion.com/43/dm/1/x55qjgl/live.isml/live.m3u8?e=1494831014&st=jw-0wk5z0SDoVebVxTAGhQ#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/BfXL16K.jpg",ESTIA TV
 https://www.youtube.com/watch?v=Qj1TFfN4MDM
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/8WPWCi1.png",RYTHMOS RADIO TV
