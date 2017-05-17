@@ -81,6 +81,8 @@ http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jOgysNe.png",THINGS GREEN
 http://bit.ly/2qdaBMj
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/eWjOYtW.jpg",4 WHEELS
+http://bit.ly/2qsbeSp
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/6i8Q7U2.png",RELOAD BIZZ
 http://bit.ly/2pI4k89
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/wcodbFA.png",LIFE 
