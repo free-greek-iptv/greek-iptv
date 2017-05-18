@@ -85,6 +85,8 @@ http://bit.ly/2qdaBMj
 http://bit.ly/2qsbeSp
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/6i8Q7U2.png",RELOAD BIZZ
 http://bit.ly/2pI4k89
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV
+http://bit.ly/2rvaV7Q
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/wcodbFA.png",LIFE 
 rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/rGzK4Hz.jpg",SQUEL TV
@@ -157,6 +159,8 @@ http://144.76.2.213:1935/live/livestream/playlist.m3u8
 http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fwPUazv.jpg",RELOAD RADIO
+http://bit.ly/2qVSex3
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/100uuWA.png",PLAY TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
