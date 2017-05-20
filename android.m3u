@@ -27,6 +27,8 @@ https://www.youtube.com/watch?v=ECbJrjrcCUE
 http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
 https://www.youtube.com/watch?v=uaek_z4Y38g
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP
+http://bit.ly/2qFCRrD
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 2
 http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA -7HRS
@@ -38,7 +40,7 @@ http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR 
 http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 
-http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/10000/t/ZA8fcNZ-c0boV5jwPLnSfg/index-s32.m3u8
+http://bit.ly/2q7b8wb
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR -7HRS
 http://s2.greekelitetv.com:1935/star-7/star-7.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR -10HRS
@@ -53,6 +55,8 @@ http://s2.greekelitetv.com:1935/alpha-7/alpha-7.stream/playlist.m3u8
 http://s2.greekelitetv.com:1935/alpha-10/alpha-10.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
 https://www.youtube.com/watch?v=NotHAiBAgcQ
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 
+http://bit.ly/2roVnFu
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 
 http://s2.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI -7HRS
