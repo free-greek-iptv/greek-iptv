@@ -284,7 +284,7 @@ http://str103.setplex.net:1935/228/greeradio/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/YDV1yYg.png",SFINAKIA FM
 http://stream-03.dc3.dailymotion.com/38/dm/1/x55qjgl/live.isml/live.m3u8?e=1495816936&st=GD9haLLCuZ2h-oUMKpKtkA#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/BfXL16K.jpg",ESTIA TV
-https://www.youtube.com/watch?v=6jqkSZRUMW8
+https://www.youtube.com/watch?v=2KQDDpNKZJs
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/8WPWCi1.png",RYTHMOS RADIO TV
 rtmp://rythmoscam.dyndns.org:1935/live/myStream
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://207.36.91.70/images/2015/ellastv-logo-2015-main.png",ELLAS TV
