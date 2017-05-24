@@ -63,8 +63,8 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 http://stream-14.dc3.dailymotion.com/49/dm/1/x52s49n/live.isml/live.m3u8?e=1495816179&st=C_Aj3FHl4p_26EybFFgJCA#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/W9AKuFg.png",CINEMANIA
 http://bit.ly/2rp95bt
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://vector.me/files/images/6/6/66449/tv_movie.png",MOVIES TV
-https://www.youtube.com/watch?v=7icU07b0BHg
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://vector.me/files/images/6/6/66449/tv_movie.png",MOVIES 
+https://www.youtube.com/channel/UCq7-F3AYq-m8GZIfVlKoE8A/live
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
 http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/m4gfa88.jpg",34100 TV
