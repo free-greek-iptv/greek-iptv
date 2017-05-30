@@ -90,7 +90,7 @@ http://wpso.com:1939/hls/kids1.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/MvMLxy0.png",DONALD DUCK
 https://www.youtube.com/watch?v=Kv9dgIXB_kI
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/WdxeriR.png",LOONEY TUNES
-https://www.youtube.com/watch?v=Awgrv33Bpig
+https://www.youtube.com/watch?v=bxiw_LLQ2qs
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/ioFUOYb.jpg",TOM
 https://www.youtube.com/watch?v=kNq8KWsEu3s
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
@@ -297,5 +297,9 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=
 http://ott.ec.streamcloud.be/live/di
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",ERT PLAY
 https://www.youtube.com/watch?v=_vZpqEqerPk
-
-
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",1
+https://www.youtube.com/watch?v=iMGRZlFatEE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",2
+https://www.youtube.com/watch?v=E-0axq9lgPg
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",3
+https://www.youtube.com/watch?v=aZq_QzWvQso
