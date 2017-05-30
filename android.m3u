@@ -89,6 +89,8 @@ mmsh://wpso.com:200/kids
 http://wpso.com:1939/hls/kids1.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/MvMLxy0.png",DONALD DUCK
 https://www.youtube.com/watch?v=Kv9dgIXB_kI
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/MvMLxy0.png",DONALD DUCK 2
+https://www.youtube.com/watch?v=E-0axq9lgPg
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/WdxeriR.png",LOONEY TUNES
 https://www.youtube.com/watch?v=bxiw_LLQ2qs
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/ioFUOYb.jpg",TOM
@@ -286,7 +288,7 @@ http://str103.setplex.net:1935/228/greeradio/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/YDV1yYg.png",SFINAKIA FM
 http://stream-02.dc3.dailymotion.com/38/dm/1/x55qjgl/live.isml/live.m3u8?e=1496249164&st=1TgZnd8gABBu2s6i7ro-bA#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/BfXL16K.jpg",ESTIA TV
-https://www.youtube.com/watch?v=brb-U5RAdRU
+https://www.youtube.com/watch?v=QInBf8kGpoU
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/8WPWCi1.png",RYTHMOS RADIO TV
 rtmp://rythmoscam.dyndns.org:1935/live/myStream
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://207.36.91.70/images/2015/ellastv-logo-2015-main.png",ELLAS TV
@@ -297,9 +299,4 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=
 http://ott.ec.streamcloud.be/live/di
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",ERT PLAY
 https://www.youtube.com/watch?v=_vZpqEqerPk
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",1
-https://www.youtube.com/watch?v=iMGRZlFatEE
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",2
-https://www.youtube.com/watch?v=E-0axq9lgPg
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",3
-https://www.youtube.com/watch?v=aZq_QzWvQso
+
