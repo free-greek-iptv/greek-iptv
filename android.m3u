@@ -30,7 +30,7 @@ http://stream-02.dc3.dailymotion.com/33/dm/1/x52s49n/live.isml/live.m3u8?e=14963
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/W9AKuFg.png",CINEMANIA
 http://bit.ly/2rp95bt
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://vector.me/files/images/6/6/66449/tv_movie.png",MOVIES TV
-http://stream-05.dc3.dailymotion.com/46/dm/1/x5okv8e/live.isml/live.m3u8?e=1496512891&st=A1zVyms-TulIFc2gCW8Qag#cell=lvty&hls_liveSyncDuration=24
+http://stream-14.dc3.dailymotion.com/19/dm/1/x5okv8e/live.isml/events(live-1496509631)/live-audio=128000-video=735000.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
 http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/m4gfa88.jpg",34100 TV
