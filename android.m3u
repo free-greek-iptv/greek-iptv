@@ -11,12 +11,16 @@ https://www.youtube.com/watch?v=qBxbnSwOrxE
 https://www.youtube.com/watch?v=sq2Jm2EKKOk
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 WORLDWIDE
 https://www.youtube.com/watch?v=ECbJrjrcCUE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
+http://bit.ly/2r7ELPb
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR 
+http://bit.ly/2rOxNBn
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
-https://www.youtube.com/watch?v=yCbo0RmIjeA
+http://bit.ly/2sgUJKT
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
@@ -26,7 +30,7 @@ http://stream-06.dc3.dailymotion.com/17/dm/1/x5m3s5o/live.isml/live.m3u8?e=14971
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/W9AKuFg.png",CINEMANIA
 http://bit.ly/2rp95bt
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://vector.me/files/images/6/6/66449/tv_movie.png",MOVIES TV
-http://stream-05.dc3.dailymotion.com/34/dm/1/x5okv8e/live.isml/live.m3u8?e=1497163485&st=ZpzeBZFedjwO3b4qzcBrmg#cell=lvty&hls_liveSyncDuration=24
+http://stream-04.dc3.dailymotion.com/50/dm/1/x5okv8e/live.isml/events(live-1497118092)/live-audio=128000-video=1260000.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/upqLdQd.jpg",SUPER CHANNEL
 http://bit.ly/2saoayq
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
@@ -34,7 +38,7 @@ http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA
 http://bit.ly/2r8oSfy
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/m4gfa88.jpg",34100 TV
-http://stream-09.dc3.dailymotion.com/44/dm/1/x5jj8ja/live.isml/live.m3u8?e=1497163520&st=oQh0dT7d49IKe5pPmJDRpQ#cell=lvty&hls_liveSyncDuration=24
+http://stream-03.dc3.dailymotion.com/44/dm/1/x5jj8ja/live.isml/events(live-1497118165)/live-audio=128000-video=1260000.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
