@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://thgiliwt.offshorepastebin.com/rytecxmltv-Greece.gz"
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="",Lina Tandalis EISAI BLIMA 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
 https://www.youtube.com/watch?v=GAser_IkADU
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 WORLDWIDE
@@ -219,3 +220,4 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=
 http://ott.ec.streamcloud.be/live/di
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",ERT PLAY
 https://www.youtube.com/watch?v=_vZpqEqerPk
+
