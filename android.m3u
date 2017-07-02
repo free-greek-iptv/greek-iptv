@@ -53,6 +53,8 @@ https://www.youtube.com/watch?v=kNq8KWsEu3s
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="euronews.nws" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
 https://www.youtube.com/watch?v=iVp0HDyFlVo
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="euronews.nws" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS BUP
+http://euronews-el-p2-cdn.hexaglobe.net/fc54fe5eaefb3ae3ebcd5b5f03e8caa3/5958b33e/euronews/euronews-euronews-website-web-responsive-2/ewnsabrelpri_gre.smil/ewnsabrelpri_gre_720p.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
@@ -64,7 +66,7 @@ http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY 
-http://62.138.7.113/hlive/abr/l1/m1/chunks.m3u8?nimblesessionid=161747&wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDE3IDY6NTk6MzkgUE0maGFzaF92YWx1ZT1lV2RkaEJqbDZ5UllXYmxBWHFOcldRPT0mdmFsaWRtaW51dGVzPTY2MA==
+http://81.171.14.113/hlive/abr/l1/m1/chunks.m3u8?nimblesessionid=72147&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTcgOToxOTowNSBBTSZoYXNoX3ZhbHVlPXM4aGh5N0p6RlRZWWtQTEtEd0NnaWc9PSZ2YWxpZG1pbnV0ZXM9NjYw
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
 http://stream-15.dc3.dailymotion.com/34/dm/1/x5j0ses/live.isml/events(live-1498732839)/live-audio=128000-video=1260000.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Kontra Channel" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
