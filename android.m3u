@@ -153,6 +153,12 @@ http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52572892/TVM.png",TV MYTILINI
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B
+https://www.youtube.com/watch?v=pGCUb7uAMg4
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/br722T6.jpg",ORASI TV
+https://www.youtube.com/watch?v=hRdKXm-1aVY
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/BfXL16K.jpg",ESTIA TV
+https://www.youtube.com/watch?v=YjLVtVUK5kk
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/tB0vfVT.png",HORSE RACES
 http://odiehls-i.akamaihd.net/hls/live/233406/odie/odie.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",GREEK VOICE 
