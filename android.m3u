@@ -18,7 +18,9 @@ http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
-https://www.youtube.com/watch?v=ANBdFeu3HZA
+https://www.youtube.com/watch?v=BlTfcsJJqhc
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI ΒUP
+http://bit.ly/2s4dHUK
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
@@ -31,8 +33,6 @@ http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/VnrR3mN.png",ALPHA CINEMA
-http://web.alphastream.eu:1935/neakrith/neakrith/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jOgysNe.png",THINGS GREEN
 http://bit.ly/2qdaBMj
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/eWjOYtW.jpg",4 WHEELS
@@ -66,7 +66,7 @@ http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY 
-http://138.201.124.161/hlive/abr/l1/m1/chunks.m3u8?nimblesessionid=757173&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDE3IDc6MjY6NTIgQU0maGFzaF92YWx1ZT15UWQ4SVlVSDRpb2FmdU5DeTEzc1ZnPT0mdmFsaWRtaW51dGVzPTY2MA==
+http://50.7.124.18/hlive/abr/l1/m1/chunks.m3u8?nimblesessionid=603151&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDE3IDk6MDk6MzQgQU0maGFzaF92YWx1ZT1EZ0d3M3UzRkpUUXB4ZmVsV3FYZUR3PT0mdmFsaWRtaW51dGVzPTY2MA==
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
 http://stream-12.dc3.dailymotion.com/07/dm/1/x5j0ses/live.isml/live.m3u8?e=1500274730&st=OOCiQvR1bIC8xg8C9ccQGA#cell=lvty&hls_liveSyncDuration=24
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Kontra Channel" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
