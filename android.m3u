@@ -133,6 +133,8 @@ http://s.bizr.gr:8080/hls/best.m3u8
 http://stream-12.dc3.dailymotion.com/30/dm/3/x5u7gj4/live-2.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png",R CHANNEL
 https://www.youtube.com/watch?v=T3j3-dORI7g
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028326/DELTA_TV.png",DELTA TV
+https://www.youtube.com/watch?v=YOvO7dHCpQY
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254400/ACHAIA.PNG",ACHAIA CHANNEL
