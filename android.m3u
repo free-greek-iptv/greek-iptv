@@ -205,4 +205,14 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=
 http://ott.ec.streamcloud.be/live/di
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",ERT PLAY
 https://www.youtube.com/watch?v=_vZpqEqerPk
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",1
+https://www.youtube.com/watch?v=1-BKq4JoFR8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",2
+https://www.youtube.com/watch?v=HkERuL7G_PI
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",3
+https://www.youtube.com/watch?v=6iBVEkoiniA
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",4
+https://www.youtube.com/watch?v=u5f_tpVVnbM
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://img.youtube.com/vi/4mnPC8BCbq8/0.jpg",5
+https://www.youtube.com/watch?v=h1XXiqjkbKk
 
