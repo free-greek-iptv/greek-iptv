@@ -1,0 +1,280 @@
+Channel name: ERT1
+URL: http://s2.greekelitetv.com:1935/ert1/ert1.stream/playlist.m3u8
+Channel name: ERT1 BUP
+URL: http://stream.ssh101.com:1935/live/upgert/playlist.m3u8
+Channel name: ERT2
+URL: http://s2.greekelitetv.com:1935/ert2/ert2.stream/playlist.m3u8
+Channel name: ERT3
+URL: http://s2.greekelitetv.com:1935/ert3/ert3.stream/playlist.m3u8
+Channel name: ERT HD
+URL: http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8
+Channel name: MEGA
+URL: http://137.74.171.115:1935/galanos/a1951live1/playlist.m3u8
+Channel name: MEGA BUP
+URL: http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8
+Channel name: ANT1
+URL: http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
+Channel name: ANT1 BUP
+URL: http://137.74.171.115:1935/galanos/a1951live/playlist.m3u8
+Channel name: ALPHA 
+URL: http://193.92.37.235:1935/liveedge/live@720/master.m3u8
+Channel name: ALPHA BUP
+URL: http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8
+Channel name: ALPHA BUP 2
+URL: http://stream.ssh101.com:1935/live/upgalpha/playlist.m3u8
+Channel name: STAR 
+URL: http://137.74.171.115:1935/galanos/a1951live2/playlist.m3u8
+Channel name: STAR BUP
+URL: http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+Channel name: STAR BUP 2
+URL: http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8
+Channel name: SKAI
+URL: http://s2.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8
+Channel name: SKAI BUP 
+URL: http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
+Channel name: E
+URL: http://s2.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8
+Channel name: M.TV HD
+URL: http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
+Channel name: VOULI
+URL: http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+Channel name: VOULI BUP
+URL: http://s2.greekelitetv.com:1935/vouli/vouli.stream/playlist.m3u8
+Channel name: SMILE
+URL: http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
+Channel name: NICKELODEON
+URL: http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
+Channel name: CARTOON TV
+URL: http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
+Channel name: RELOAD TV
+URL: http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8
+Channel name: EURONEWS
+URL: http://s2.greekelitetv.com:1935/euronews/euronews.stream/playlist.m3u8
+Channel name: ERT1 7H DELAY
+URL: http://s2.greekelitetv.com:1935/ert1-7/ert1-7.stream/playlist.m3u8
+Channel name: ERT1 10H DELAY
+URL: http://s2.greekelitetv.com:1935/ert1-10/ert1-10.stream/playlist.m3u8
+Channel name: MEGA 7H DELAY
+URL: http://s2.greekelitetv.com:1935/mega-7/mega-7.stream/playlist.m3u8
+Channel name: MEGA 10H DELAY
+URL: http://s2.greekelitetv.com:1935/mega-10/mega-10.stream/playlist.m3u8
+Channel name: ALPHA 7H DELAY
+URL: http://s2.greekelitetv.com:1935/alpha-7/alpha-7.stream/playlist.m3u8
+Channel name: ALPHA 10H DELAY
+URL: http://s2.greekelitetv.com:1935/alpha-10/alpha-10.stream/playlist.m3u8
+Channel name: STAR 7H DELAY
+URL: http://s2.greekelitetv.com:1935/star-7/star-7.stream/playlist.m3u8
+Channel name: STAR 10H DELAY
+URL: http://s2.greekelitetv.com:1935/star-10/star-10.stream/playlist.m3u8
+Channel name: SKAI 7H DELAY
+URL: http://s2.greekelitetv.com:1935/skai-7/skai-7.stream/playlist.m3u8
+Channel name: SKAI 10H DELAY
+URL: http://s2.greekelitetv.com:1935/skai-10/skai-10.stream/playlist.m3u8
+Channel name: E 7H DELAY
+URL: http://s2.greekelitetv.com:1935/epsilon-7/epsilon-7.stream/playlist.m3u8
+Channel name: E 10H DELAY
+URL: http://s2.greekelitetv.com:1935/epsilon-10/epsilon-10.stream/playlist.m3u8
+Channel name: IONIAN CHANNEL
+URL: http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+Channel name: IONIAN CHANNEL BUP
+URL: http://stream.ssh101.com:1935/live/ionian/playlist.m3u8
+Channel name: ERT WORLD
+URL: http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+Channel name: ERT WORLD BUP
+URL: http://stream.ssh101.com:1935/live/upgertworld/playlist.m3u8
+Channel name: MEGA COSMOS
+URL: http://s2.greekelitetv.com:1935/mega_cosmos/mega_cosmos.stream/playlist.m3u8
+Channel name: ALPHA SAT
+URL: http://s2.greekelitetv.com:1935/alpha_sat/alpha_sat.stream/playlist.m3u8
+Channel name: RIK SAT CY
+URL: http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+Channel name: RIK SAT CY BUP
+URL: http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
+Channel name: MEGAONE CY
+URL: http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8
+Channel name: ALPHA CY
+URL: http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
+Channel name: SIGMA CY
+URL: http://81.21.47.74/hls/live.m3u8
+Channel name: CBC TV MALL CY
+URL: http://195.81.140.80:1935/live/tv_mall_cyprus/playlist.m3u8
+Channel name: AB CHANNEL
+URL: http://s2.greekelitetv.com:1935/abchannel/abchannel.stream/playlist.m3u8
+Channel name: ACTION24
+URL: http://s2.greekelitetv.com:1935/action24/action24.stream/playlist.m3u8
+Channel name: ATTICA TV
+URL: http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8
+Channel name: BLUE SKY
+URL: http://136.243.200.184:1935/live/tvlive/playlist.m3u8
+Channel name: BLUE SKY BUP
+URL: http://s2.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8
+Channel name: EXTRA CHANNEL
+URL: http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
+Channel name: EXTRA CHANNEL BUP
+URL: http://s2.greekelitetv.com:1935/extra/extra.stream/playlist.m3u8
+Channel name: HIGH TV
+URL: http://s2.greekelitetv.com:1935/hightv/hightv.stream/playlist.m3u8
+Channel name: KONTRA
+URL: http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+Channel name: KONTRA BUP
+URL: http://s2.greekelitetv.com:1935/kontra/kontra.stream/playlist.m3u8
+Channel name: SBC
+URL: http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+Channel name: 4E
+URL: http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+Channel name: 4E BUP
+URL: http://s2.greekelitetv.com:1935/4e/4e.stream/playlist.m3u8
+Channel name: CINEFIL GR
+URL: http://web.onair-radio.eu:1935/moviesgr/moviesgr/playlist.m3u8
+Channel name: ALPHA CINEMA
+URL: http://138.201.25.26:1935/Alpha-Tv/Alpha-Tv/playlist.m3u8
+Channel name: SPICY TV
+URL: http://178.33.196.122:1935/ReloadtvGreek/ReloadtvGreek/playlist.m3u8
+Channel name: PALMOS TV
+URL: http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
+Channel name: GREEK CINEMA 
+URL: http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
+Channel name: LAMPSI TV
+URL: http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
+Channel name: APEIRO CINEMA
+URL: http://137.74.171.115:1935/galanos/elinikeslive/playlist.m3u8
+Channel name: NETV TORONTO
+URL: http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+Channel name: MPAXALO TV
+URL: http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
+Channel name: RELOAD BIZZ
+URL: http://web.onair-radio.eu:1935/reloadbizz/reloadbizz/playlist.m3u8
+Channel name: CINEMANIA
+URL: http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
+Channel name: JAYZEE 
+URL: http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+Channel name: DNA TV
+URL: http://178.33.196.122:1935/greekvideo/greekvideo/playlist.m3u8
+Channel name: MAD TV CY
+URL: http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
+Channel name: ZOUGLA TV
+URL: http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+Channel name: CANNALI
+URL: http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+Channel name: MAGIC TV 
+URL: http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
+Channel name: ALPHA MUSIC
+URL: http://138.201.25.26:1935/Alpha-Music/Alpha-Music/playlist.m3u8
+Channel name: SUPER STAR
+URL: http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
+Channel name: TILEMOUSIKI
+URL: http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
+Channel name: ELL TV
+URL: http://94.23.218.186:1935/ellradiotv/ellradiotv/playlist.m3u8
+Channel name: XALASTRA TV
+URL: http://94.23.218.186:1935/xalastratv/xalastratv/playlist.m3u8
+Channel name: NG TV
+URL: http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
+Channel name: FOX TV
+URL: http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+Channel name: HEART BEAT
+URL: http://web.onair-radio.eu:1935/heart/heart/playlist.m3u8
+Channel name: ELLINIKOS TV
+URL: http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
+Channel name: TV CRETA
+URL: http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
+Channel name: KPHTH TV
+URL: http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+Channel name: NEA TV
+URL: http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+Channel name: DELTA TV
+URL: http://stream.ssh101.com:1935/live/8082/playlist.m3u8
+Channel name: DIKTYO TV
+URL: http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
+Channel name: ENA CHANNEL
+URL: http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
+Channel name: KANALI 6
+URL: http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
+Channel name: TV EPILOGES
+URL: http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
+Channel name: BERGINA
+URL: http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
+Channel name: EUROPE ONE
+URL: http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
+Channel name: SUPER
+URL: http://iphone-streaming.ustream.tv/uhls/11946358/streams/live/iphone/playlist.m3u8
+Channel name: TV 100 
+URL: http://178.62.176.153:1935/TV100/myStream/master.m3u8
+Channel name: TOP CHANNEL
+URL: http://stream.ssh101.com:1935/live/topkozani/playlist.m3u8
+Channel name: WEST CHANNEL
+URL: http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
+Channel name: AXELWOS TV
+URL: http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+Channel name: BHMA TV
+URL: http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
+Channel name: CORFU TV
+URL: http://iphone-streaming.ustream.tv/uhls/22608117/streams/live/iphone/playlist.m3u8
+Channel name: EPIRUS TV1
+URL: http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
+Channel name: ITV
+URL: http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
+Channel name: START TV
+URL: http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
+Channel name: ASTRA TV
+URL: http://www.astratv.gr:8090/hls/livestream.m3u8
+Channel name: TRT
+URL: http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
+Channel name: E TV
+URL: http://176.9.30.75:1935/live/epsilon/playlist.m3u8
+Channel name: ACHAIA CHANNEL
+URL: http://78.129.184.15:23319/streaming/stream/playlist.m3u8
+Channel name: BEST TV
+URL: http://138.201.57.212:1935/best/myStream/playlist.m3u8
+Channel name: LYCHNOS
+URL: http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+Channel name: AIGAIO TV
+http://stream.ssh101.com:1935/live/aigaiotv/playlist.m3u8
+Channel name: OMEGA TV
+URL: http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
+Channel name: SAMIAKI TV
+URL: http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
+Channel name: SYROS TV1
+URL: http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+Channel name: VOLCANO
+URL: http://176.9.123.140:1935/santorini/santorini/playlist.m3u8
+Channel name: HORSE RACES
+URL: http://odiehls-i.akamaihd.net/hls/live/233406/odie/odie.m3u8
+Channel name: TINOS TV
+URL: http://stream.ssh101.com:1935/live/tinostileorasi/playlist.m3u8
+Channel name: ELA TV
+URL: http://live.streams.ovh:1935/elawebtv/elawebtv/playlist.m3u8
+Channel name: CHIOS TV
+URL: http://138.201.25.26:1935/AlphaTv2/AlphaTv2/playlist.m3u8
+Channel name: HELLENIC TV
+URL: http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+Channel name: TV FILOPOLI
+URL: http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+Channel name: NEW TV
+URL: http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
+Channel name: MANA ELLADA TV
+URL: http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphon/playlist.m3u8
+Channel name: MESSINIA WEB TV
+URL: http://176.9.123.140:1935/messinia/messinia/master.m3u8
+Channel name: TILESPORT
+URL: http://78.47.151.114:1935/tilesport/movie1/playlist.m3u8
+Channel name: CRETA TV
+URL: http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
+Channel name: FAROS ON AIR TV
+URL: http://smooth2.istoikona.net:1935/farosonair/farosonair/playlist.m3u8
+Channel name: GREEK VOICE 1
+URL: http://stream.ssh101.com:1935/live/greekvoice/playlist.m3u8
+Channel name: GREEK VOICE 2
+URL: http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+Channel name: HELLAS TV
+URL: http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
+Channel name: LAMIA FM-1 TV
+URL: http://iphone-streaming.ustream.tv/uhls/19761282/streams/live/iphone/playlist.m3u8
+Channel name: TV DIPSO
+URL: http://94.23.218.186:1935/ekpdipso/ekpdipso/playlist.m3u8
+Channel name: MONTREAL TV
+URL: http://stream.ssh101.com:1935/live/greektv/playlist.m3u8
+Channel name: EBS
+URL: http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
+Channel name: EBS PLUS
+URL: http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
