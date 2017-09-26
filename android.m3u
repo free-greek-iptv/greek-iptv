@@ -89,6 +89,8 @@ http://bit.ly/2xmdpID
 http://144.76.2.213:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fwPUazv.jpg",RELOAD RADIO
 http://bit.ly/2qVSex3
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/drMQrVH.jpg",SEVEN TV
+http://stream-01.dc3.dailymotion.com/54/dm/3/x2uqglz/live-2.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/QZQhg6C.png",MAGIC TV
 http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/njCyV7W.jpg",JAYZEE 
