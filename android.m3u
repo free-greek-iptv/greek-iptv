@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=dINMwxqMEtM
 https://s5.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/DPBjWOJ.png",RELOAD TV
+http://bit.ly/2j0A76h
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/Qq0ZXCu.png",SPICY
 http://bit.ly/2v4atPt
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/W9AKuFg.png",CINEMANIA
