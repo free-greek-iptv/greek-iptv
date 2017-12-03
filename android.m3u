@@ -69,6 +69,14 @@ https://www.youtube.com/watch?v=qRY56sJJ2to
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY 
+https://hls.welltot.xyz/s/mega987/1feee21d5dc72f95f61d123d4.m3u8?h=GyHe0nvHufU9nECe7y1Iyg
+#EXTINF:1, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/fa5e6iw7n/capital.png",CAPITAL CY
+https://hls.welltot.xyz/s/capf888/1feee21d5dc72f95f61d123d4.m3u8?h=HBsVaG-QmBCuOmENs2UqxA
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://primetel.com.cy/wp-content/uploads/2016/11/PLUS-NEW-LOGO_80x80.png",PLUS CY
+https://hls.welltot.xyz/s/plusj843/1feee21d5dc72f95f61d123d4.m3u8?h=TyzmGPih2hEuh04Vi9Il2A
+#EXTINF:1, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://s19.postimg.org/6r1jedatv/extra_tv.png",EXTRA CY
+https://hls.welltot.xyz/s/extraj500/1feee21d5dc72f95f61d123d4.m3u8?h=5_ntYq2gB7KWT2jl7fT6aQ
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 http://194.30.140.202/tvmcy/tvmcy/l8/tvm1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/Vq4YBIA.png",ALFA SPORT
