@@ -199,6 +199,8 @@ http://wpc.68fc.edgecastcdn.net/2468FC/promo/video.m3u8
 http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2hU849d.jpg",TV DIPSO
 http://94.23.218.186:1935/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/7mqsggt.jpg",HLEIA TV
+http://v6.ciclano.io:1935/amaliadatv/amaliadatv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/0Ovqq2f.png",TILESPORT
