@@ -43,6 +43,8 @@ http://bit.ly/2rp95bt
 https://59252df7bc61b.streamlock.net/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI TV
 http://bit.ly/2C2fFHB
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/VnrR3mN.png",ALPHA CINEMA
+http://v2.ciclano.io:1935/alphacinema/alphacinema/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA
 mmsh://38.103.153.242:80/maxtv?sid=D4D41F34-AC79-3D9K-8F66-AA57EA0CB364&MSWMExt=.asf
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
