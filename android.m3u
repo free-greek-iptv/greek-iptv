@@ -95,6 +95,8 @@ http://master.cystreams.com:25461/live/greek/donald/15.ts
 http://bit.ly/2kZVvWP
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/Vq4YBIA.png",ALFA SPORT
 http://l9.cloudskep.com/alsports/al24/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/fKdmC7I.png",7 SPORTS TV
+http://hls.istoikona.net:1935/7sports/7sports/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
 http://hls.istoikona.net:1935/CYSPORTS/CYSPORTS/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
@@ -206,7 +208,7 @@ http://v6.ciclano.io:1935/amaliadatv/amaliadatv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/0Ovqq2f.png",TILESPORT
-http://78.47.151.114:1935/tilesport/movie1/playlist.m3u8
+rtmp://tv3.streampulse.eu:1935/tilesport/movie1
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jdMlstR.jpg",FAROS TV
 http://master.cystreams.com:25461/live/faros/farostv/154.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL TV
