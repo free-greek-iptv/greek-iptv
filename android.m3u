@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://sgcpm.com/epg/devilcosta.gz"
 
 https://www.youtube.com/watch?v=8Y3IgfMDZ4w
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://orig00.deviantart.net/22a1/f/2014/026/b/f/macedonia_makedonia_makedonien_macedoine_by_hellenicfighter-d73t21u.jpg",MACEDONIA IS GREEK
-https://www.youtube.com/watch?v=0XYWTzFlEyo
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 WORLDWIDE
 https://www.youtube.com/watch?v=Zx98moCvkpU
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2
