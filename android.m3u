@@ -26,31 +26,29 @@ http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR 
 http://master.cystreams.com:25461/live/greek/athienitis/40.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
-http://bestbuyiptv.link:6969/live/di.enfa9@gmail.com/cBn5GXA77e/3338.ts
+https://www.youtube.com/watch?v=bt4n7FKiwS4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP
 http://master.cystreams.com:25461/live/greek/athienitis/42.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",E
 https://s1.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Macedonia TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/Qq0ZXCu.png",SPICY
-http://bit.ly/2v4atPt
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/W9AKuFg.png",CINEMANIA
 http://bit.ly/2rp95bt
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/DPBjWOJ.png",RELOAD TV
-http://bit.ly/2j0A76h
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/VnrR3mN.png",ALPHA CINEMA
+http://v2.ciclano.io:1935/alphacinema/alphacinema/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
 https://59252df7bc61b.streamlock.net/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI TV
 http://bit.ly/2C2fFHB
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/VnrR3mN.png",ALPHA CINEMA
-http://v2.ciclano.io:1935/alphacinema/alphacinema/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/bh1iOFz.png",CINEFIL GR
 http://bit.ly/2De9S5T
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 1
-http://bestbuyiptv.link:6969/live/di.enfa9@gmail.com/cBn5GXA77e/12714.ts
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA
-http://bestbuyiptv.link:6969/live/di.enfa9@gmail.com/cBn5GXA77e/12713.ts
+http://bestbuyiptv.link:6969/live/d.rea.menil@gmail.com/EkRJcItycZ/12719.ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 2
+http://bestbuyiptv.link:6969/live/d.rea.menil@gmail.com/EkRJcItycZ/12720.ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 3
+http://bestbuyiptv.link:6969/live/d.rea.menil@gmail.com/EkRJcItycZ/12710.ts
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
@@ -75,8 +73,6 @@ http://bit.ly/2ziNRiv
 rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",KIDS TV
 mmsh://wpso.com:200/kids
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",KIDS TV 2
-http://bestbuyiptv.link:6969/live/di.enfa9@gmail.com/cBn5GXA77e/12705.ts
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/ioFUOYb.jpg",TOM
 https://www.youtube.com/watch?v=66K0g6W4JU4
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
