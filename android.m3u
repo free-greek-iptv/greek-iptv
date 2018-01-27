@@ -35,6 +35,8 @@ https://s1.streamings.gr/epsilontv/epsilontv.m3u8
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/W9AKuFg.png",CINEMANIA
 http://bit.ly/2rp95bt
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/VSMbX07.jpg",GALAXY TV
+ http://130.43.125.10:86/playlist.m3u8?camera=1&quality=High
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/Qq0ZXCu.png",SPICY
 http://bit.ly/2v4atPt
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/VnrR3mN.png",ALPHA CINEMA
