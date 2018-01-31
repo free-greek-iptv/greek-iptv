@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://sgcpm.com/epg/devilcosta.gz"
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ET1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
+#EXTM3U url-tvg="http://tvguide.uk.to/epg/gr.xml"
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
 https://www.youtube.com/watch?v=0XYWTzFlEyo
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 WORLDWIDE
 https://www.youtube.com/watch?v=Zx98moCvkpU
