@@ -61,8 +61,6 @@ http://bit.ly/2rvaV7Q
 http://master.cystreams.com:25461/live/greek/athienitis/119.ts
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/rGzK4Hz.jpg",SQUEL TV
 http://bit.ly/2ziNRiv
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/wcodbFA.png",LIFE 
-rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XALAq9I.png",KIDS TV
 mmsh://wpso.com:200/kids
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/ioFUOYb.jpg",TOM
