@@ -35,6 +35,8 @@ https://www.youtube.com/watch?v=O1j-MnLQtfc
 http://master.cystreams.com:25461/live/greek/rockstar/42.ts
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/VnrR3mN.png",ALPHA CINEMA
 http://v2.ciclano.io:1935/alphacinema/alphacinema/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/VSMbX07.jpg",GALAXY TV
+http://galaxytv.srfms.com:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
 https://59252df7bc61b.streamlock.net/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI TV
