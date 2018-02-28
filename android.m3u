@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
+#EXTM3U url-tvg="tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
 https://www.youtube.com/watch?v=0XYWTzFlEyo
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 WORLDWIDE
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=ECbJrjrcCUE
 https://www.youtube.com/watch?v=bVREmAZt6i0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/9AmRrmF.jpg",ERT PLAY 2
 https://www.youtube.com/watch?v=-OSoL74Gi0U
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA 
 https://www.youtube.com/watch?v=uA7ezW6N47o
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ant1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
@@ -67,6 +67,10 @@ https://www.youtube.com/watch?v=qRY56sJJ2to
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Sigma" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY
 http://81.21.47.74/hls/live.m3u8
+#EXTINF:1, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Capital Tv" tvg-logo="https://s19.postimg.org/fa5e6iw7n/capital.png",CAPITAL CY
+http://master.cystreams.com:25461/live/greek/qwerty/14.ts
+#EXTINF:1, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Extra" tvg-logo="https://s19.postimg.org/6r1jedatv/extra_tv.png",EXTRA CY
+http://master.cystreams.com:25461/live/greek/qwerty/15.ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 http://bit.ly/2kZVvWP
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/Vq4YBIA.png",ALFA SPORT
