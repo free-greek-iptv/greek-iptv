@@ -21,17 +21,11 @@ https://www.youtube.com/watch?v=uA7ezW6N47o
 http://master.cystreams.com:25461/live/greek/qwerty/43.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 
-http://ip.cs4ip.com:8000/live/7200842031912182/7200842031912182/13306.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA BUP
-http://ip.cs4ip.com:8000/live/7200842031912182/7200842031912182/13307.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP
-http://ip.cs4ip.com:8000/live/7200842031912182/7200842031912182/13283.ts
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 2
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 
 http://master.cystreams.com:25461/live/greek/qwerty/40.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="https://i.imgur.com/TEc8hmy.jpg",EPSILON TV
 https://s1.streamings.gr/epsilontv/epsilontv.m3u8
@@ -41,8 +35,6 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 https://www.youtube.com/watch?v=7G-VXMyVf3I
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP
 http://master.cystreams.com:25461/live/greek/qwerty/42.ts
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 2
-http://ip.cs4ip.com:8000/live/7200842031912182/7200842031912182/13285.ts
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/VnrR3mN.png",ALPHA CINEMA
