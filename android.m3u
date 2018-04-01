@@ -79,10 +79,6 @@ http://81.21.47.74/hls/live.m3u8
 http://master.cystreams.com:25461/live/greek/qwerty/14.ts
 #EXTINF:1, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Extra" tvg-logo="https://s19.postimg.org/6r1jedatv/extra_tv.png",EXTRA CY
 http://master.cystreams.com:25461/live/greek/qwerty/15.ts
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://primetel.com.cy/wp-content/uploads/2016/11/PLUS-NEW-LOGO_80x80.png",PLUS CY
-http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/52.ts
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/BsmtRQQ.png",MEGAONE CY 
-http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/48.ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 http://bit.ly/2kZVvWP
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/Vq4YBIA.png",ALFA SPORT
