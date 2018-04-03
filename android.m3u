@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=NlDWmhOq2B0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP
 http://master.cystreams.com:25461/live/greek/qwerty/43.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
-https://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/index_1500_av-b.m3u8?sd=10&rebase=on
+https://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
