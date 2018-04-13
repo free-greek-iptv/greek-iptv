@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=-OSoL74Gi0U
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA 
 http://78.128.63.6:8009/play/a00e/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP
-http://master.cystreams.com:25461/live/greek/qwerty/43.ts
+http://master.cystreams.com:25461/live/greek/zagori/43.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 BUP
@@ -32,7 +32,7 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1w
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 
 http://78.128.63.6:8009/play/a00g/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 2
-http://master.cystreams.com:25461/live/greek/qwerty/40.ts
+http://master.cystreams.com:25461/live/greek/zagori/40.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="https://i.imgur.com/TEc8hmy.jpg",EPSILON TV
 https://s1.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Μακεδονία TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
@@ -40,7 +40,7 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
 http://78.128.63.6:8009/play/a00f/index.m3u8 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP
-http://master.cystreams.com:25461/live/greek/qwerty/42.ts
+http://master.cystreams.com:25461/live/greek/zagori/42.ts
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/VnrR3mN.png",ALPHA CINEMA
