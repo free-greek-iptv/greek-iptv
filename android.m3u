@@ -55,6 +55,8 @@ http://master.cystreams.com:25461/live/greek/zagori/42.ts
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/VnrR3mN.png",ALPHA CINEMA
 http://v2.ciclano.io:1935/alphacinema/alphacinema/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/VSMbX07.jpg",GALAXY TV
+http://galaxytv.srfms.com:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hpepWSg.png",ARENA
 http://web.onair-radio.eu:1935/Arenachannel/Arenachannel/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",LAMPSI TV
