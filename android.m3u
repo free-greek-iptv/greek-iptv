@@ -103,6 +103,8 @@ http://bit.ly/2Hi50i0
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-htvcapital-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Capital Tv" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY BUP
 http://master.cystreams.com:25461/live/greek/zagori/14.ts
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Plus Tv" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",PLUS TV CY
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-plus_tv-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Extra" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY
 http://master.cystreams.com:25461/live/greek/zagori/15.ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
