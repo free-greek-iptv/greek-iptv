@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=-OSoL74Gi0U
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA 
 https://www.youtube.com/watch?v=obtX0BY1Mew
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 
-http://master.cystreams.com:25461/live/greek/zagori/43.ts
+http://master.cystreams.com:25461/live/greek/zagoria/43.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
 https://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA
@@ -28,7 +28,7 @@ http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 
-http://master.cystreams.com:25461/live/greek/zagori/40.ts
+http://master.cystreams.com:25461/live/greek/zagoria/40.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="https://i.imgur.com/TEc8hmy.jpg",EPSILON TV
 https://s1.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Μακεδονία TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
@@ -36,7 +36,7 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
 https://www.youtube.com/watch?v=e9JEk6hyZUw
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 
-http://master.cystreams.com:25461/live/greek/zagori/42.ts
+http://master.cystreams.com:25461/live/greek/zagoria/42.ts
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/VnrR3mN.png",ALPHA CINEMA
@@ -64,7 +64,7 @@ http://173.212.243.134:8000/live/greektv/FZlHCCdBHL/18377.ts
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV
 http://bit.ly/2rvaV7Q
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE 
-http://master.cystreams.com:25461/live/greek/zagori/119.ts
+http://master.cystreams.com:25461/live/greek/zagoria/119.ts
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/rGzK4Hz.jpg",SQUEL TV 3D
 http://173.212.243.134:8000/live/greektv/FZlHCCdBHL/12919.ts
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
@@ -94,11 +94,11 @@ https://ssh101.com/m3u8/dyn/m1gacytv54201/index.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Capital Tv" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-htvcapital-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Capital Tv" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY BUP
-http://master.cystreams.com:25461/live/greek/zagori/14.ts
+http://master.cystreams.com:25461/live/greek/zagoria/14.ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Plus Tv" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",PLUS TV CY
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-plus_tv-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Extra" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY
-http://master.cystreams.com:25461/live/greek/zagori/15.ts
+http://master.cystreams.com:25461/live/greek/zagoria/15.ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 http://bit.ly/2kZVvWP
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/Vq4YBIA.png",ALFA SPORT
