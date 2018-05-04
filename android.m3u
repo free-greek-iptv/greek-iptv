@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=bVREmAZt6i0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/9AmRrmF.jpg",ERT PLAY 2
 https://www.youtube.com/watch?v=-OSoL74Gi0U
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA 
-https://www.youtube.com/watch?v=obtX0BY1Mew
+https://www.youtube.com/watch?v=u_0moIU4DWE
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA BUP 
 http://master.cystreams.com:25461/live/greek/zagoria/43.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
@@ -34,7 +34,7 @@ https://s1.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Μακεδονία TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI
-https://www.youtube.com/watch?v=e9JEk6hyZUw
+https://www.youtube.com/watch?v=h9cGz3gpyqc
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP 
 http://master.cystreams.com:25461/live/greek/zagoria/42.ts
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
@@ -174,7 +174,7 @@ http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52996478/ASTRA_TV.png",ASTRA TV
-http://live.astratv.gr:8090/hls/livestream.m3u8
+https://www.youtube.com/watch?v=ASABTTKdFdE
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B
 https://59252df7bc61b.streamlock.net/Superb/Superb/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
