@@ -44,8 +44,6 @@ https://59252df7bc61b.streamlock.net/LampsiTV/LampsiTV/playlist.m3u8
 http://portal2.iptv4younow.com:8000/live/greektv/FZlHCCdBHL/23257.ts
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 
 http://portal2.iptv4younow.com:8000/live/greektv/FZlHCCdBHL/23304.ts
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/nlGZ1Ef.png",MOVIES TV
-https://cdn.tzampa.tv/live/TzampaCinema-15.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
