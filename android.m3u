@@ -26,8 +26,12 @@ http://master.cystreams.com:25461/live/greek/zagoria/43.ts
 https://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/prog_index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA BUP
+http://5.135.92.130:36523/out/u/552_1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 
+http://5.135.92.130:36523/out/u/575_1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="STAR" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 
 http://master.cystreams.com:25461/live/greek/zagoria/40.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="https://i.imgur.com/TEc8hmy.jpg",EPSILON TV HD
@@ -36,6 +40,8 @@ https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/res0/playlist_res0
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI 
 http://master.cystreams.com:25461/live/greek/zagoria/42.ts
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://greektv.pbworks.com/f/SKAI.png",SKAI BUP
+http://5.135.92.130:36523/out/u/573_1.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/VSMbX07.jpg",GALAXY TV
