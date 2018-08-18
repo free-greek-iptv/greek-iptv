@@ -65,9 +65,11 @@ http://bit.ly/2rvaV7Q
 http://176.9.126.181:1006
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV3
 http://176.9.126.181:1010
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV1
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/kEPDPWX.jpg",JUNIOR TV
 http://176.9.126.181:1024 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV2
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/kEPDPWX.jpg",JUNIOR TV 2
 http://176.9.126.181:1022 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE TV CY
 http://master.cystreams.com:25461/live/greek/omiros/119.ts
