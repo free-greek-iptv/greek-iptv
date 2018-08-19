@@ -43,6 +43,8 @@ http://master.cystreams.com:25461/live/GalaxyTV/GalaxyTV/184.m3u8
 https://59252df7bc61b.streamlock.net/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI TV
 http://portal2.iptv4younow.com:8000/live/greektv/FZlHCCdBHL/23257.ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/bh1iOFz.png",CINEFIL GR
+http://bit.ly/2De9S5T
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 
 http://bit.ly/2KjHEtK
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
@@ -99,10 +101,12 @@ http://81.21.47.74/hls/live.m3u8
 http://bit.ly/2Hi50i0
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Capital Tv" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-htvcapital-hsslive-25f-4x3-SDh/chunklist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Capital Tv" tvg-logo="https://i.imgur.com/bWASeDm.jpg",CAPITAL CY BUP
+http://master.cystreams.com:25461/live/greek/omiros/14.ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Plus Tv" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",PLUS TV CY
 http://bit.ly/2KoO5vy
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Extra" tvg-logo="https://i.imgur.com/WjKQj8F.jpg",EXTRA CY
-http://master.cystreams.com:25461/live/greek/zagoria/15.ts
+http://master.cystreams.com:25461/live/greek/omiros/15.ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Extra" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CYPRUS CINEMA
 http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
