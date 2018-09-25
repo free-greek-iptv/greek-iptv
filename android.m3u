@@ -1,21 +1,15 @@
 #EXTM3U url-tvg="http://raw.githubusercontent.com/Twilight0/repo-guide/master/guide-el.xml.gz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
-http://87.229.71.54:8081/1/E-ert1/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 BUP
 https://www.youtube.com/watch?v=WY_Zhh9-bI8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 WORLDWIDE
 https://www.youtube.com/watch?v=Zx98moCvkpU
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2
-http://87.229.71.54:8081/1/E-ert2/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2 BUP
 https://www.youtube.com/watch?v=AOVVjaLbGEk
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2 BUP 2 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2 BUP
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-nrg-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2 WORLDWIDE
 https://www.youtube.com/watch?v=qBxbnSwOrxE
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3
-http://87.229.71.54:8081/1/E-ert3/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 BUP
 https://www.youtube.com/watch?v=ELB7cKTx5ig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 WORLDWIDE
 https://www.youtube.com/watch?v=ECbJrjrcCUE
