@@ -31,11 +31,11 @@ http://master.cystreams.com:25461/live/greek/prestigio/40.ts
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Μακεδονία TV" tvg-logo="http://greektv.pbworks.com/f/M.tv_HD.png",M.TV 
 http://5.135.92.138:31783/out/u/577_1.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://www.ishow.gr/images/channelIcons/mini/9.png",SKAI HD
 https://www.youtube.com/watch?v=sMYwWQHesuc
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI SD 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://www.ishow.gr/images/channelIcons/mini/9.png",SKAI SD 
 http://master.cystreams.com:25461/live/greek/prestigio/42.ts
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI SD 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="http://www.ishow.gr/images/channelIcons/mini/9.png",SKAI SD 
 http://5.135.92.138:31783/out/u/573_1.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
