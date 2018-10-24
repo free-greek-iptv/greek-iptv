@@ -30,7 +30,7 @@ http://master.cystreams.com:25461/live/greek/microwave/40.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD
-https://www.youtube.com/watch?v=sMYwWQHesuc
+https://www.youtube.com/watch?v=sIAJKrBa5pU
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI SD 
 http://master.cystreams.com:25461/live/greek/microwave/42.ts
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
@@ -107,10 +107,6 @@ http://master.cystreams.com:25461/live/greek/microwave/15.ts
 http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 http://bit.ly/2kZVvWP
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/Vq4YBIA.png",ALFA SPORTS 1
-http://l9.cloudskep.com/alsports/al24/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/Vq4YBIA.png",ALFA SPORTS 2
-http://l9.cloudskep.com/alsports/al2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
 https://cdn.istoikona.com/cysports/cysports/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/B7JyJso.png",NEΟ TV
