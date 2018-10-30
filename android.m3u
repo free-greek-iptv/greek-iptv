@@ -32,7 +32,7 @@ http://master.cystreams.com:25461/live/greek/otinane/43.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Epsilon TV" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD
-https://www.youtube.com/watch?v=XhRU5ksmhM8
+https://www.youtube.com/watch?v=Va1Zu7yBvAM
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΣΚΑΪ" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI SD 
 http://master.cystreams.com:25461/live/greek/otinane/42.ts
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
