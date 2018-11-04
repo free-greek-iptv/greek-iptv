@@ -59,6 +59,8 @@ http://web.onair-radio.eu:1935/Arenachannel/Arenachannel/playlist.m3u8
 http://web.onair-radio.eu:1935/Bananatv/Bananatv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SjoxYxX.png",PLUTON TV
 http://web.onair-radio.eu:1935/plutonchannel/plutonchannel/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/uwJtIP1.png",MOJO TV
+http://web.onair-radio.eu:1935/Mojochannel/Mojochannel/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/k1UqVUA.png",WEDDING TV
 http://web.onair-radio.eu:1935/weddingtv/weddingtv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/rGzK4Hz.jpg",SQUEL TV
