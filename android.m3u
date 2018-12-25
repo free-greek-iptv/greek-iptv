@@ -187,7 +187,6 @@ http://video.onestreaming.com:8081/deltatv/live/playlist.m3u8
 http://video.onestreaming.com:8081/thraki/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/OnB6n3C.jpg",MESOGEIOS TV
 https://server.tvdj.info:8222/mesogeiostv/stream/playlist.m3u8
-https://server.tvdj.info:8222/mesogeiostv/stream/chunklist_w640089181.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png",R CHANNEL
 http://tvrodopi.srfms.com:1935/tvrodopi/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png",AXELWOS TV
