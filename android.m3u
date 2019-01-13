@@ -111,6 +111,8 @@ http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",EPSILON TV
 https://neotv.streamings.gr/live/tv/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
+https://stream-12.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybHOylYsUMNGrW8J0qJxeqS0)/dm/3/x61fbhs/live.m3u8#cell=lcore&qos_vpart=1&qos_stail=1&qos_core=2
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Kontra Channel" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
