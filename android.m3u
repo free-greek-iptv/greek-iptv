@@ -145,6 +145,8 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/36.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png",ENA CHANNEL
 https://server.tvdj.info:8222/1c/stream/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
+https://stream-09.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvDpx9Ib8LfNqUv8MXSPpvPo)/dm/3/xqjey2/live-2.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG",BEST TV
 https://best-tv.gr/HLS/hls/best/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV
@@ -183,6 +185,8 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV
 https://server.tvdj.info:8222/arttv/arttv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/SGEjKug.jpg",DION TV
+http://bit.ly/2FwvSsk
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://imgur.com/AVtxq56.png",PELLA TV
 https://www.youtube.com/watch?v=4V6U0ODnPeo
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ITV.png",ITV
