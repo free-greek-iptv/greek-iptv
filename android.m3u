@@ -129,30 +129,6 @@ https://server.tvdj.info:8222/channel9/channel9/playlist.m3u8
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="4Ε" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E BUP
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-hellenice4-hsslive-25f-4x3-SDh/chunklist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fwPUazv.jpg",RELOAD RADIO
-http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
-http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI MUSIC
-http://channels.squel.media/maroussimusic
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI KARAOKE
-http://channels.squel.media/maroussikaraoke 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/uhl4629.png",ENERGY TV
-rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
-https://zglive1-mdc-secure.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/100uuWA.png",PLAY TV
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/pK2p5ey.png",NG TV
-https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/LgQBtTh.jpg",XALASTRA TV
-https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/rff1DsY.gif",FOX TV
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
-http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΙΟΝΙΑΝ TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TV100" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100
@@ -205,30 +181,64 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV
 https://server.tvdj.info:8222/arttv/arttv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://imgur.com/AVtxq56.png",PELLA TV
+https://www.youtube.com/watch?v=4V6U0ODnPeo
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/ITV.png",ITV
 https://www.youtube.com/watch?v=YaKNhpxPlNE
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BHMA_TV.png",BHMA TV
+https://www.youtube.com/watch?v=O8gzgpJOahI
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52184565/DIKTYO_TV.png",DIKTYO TV
+https://www.youtube.com/watch?v=DJM93mQOkvM
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/0bBKyHd.png", TINOS NOW TV
 http://master.cystreams.com:25461/live/tinosnow/tinosnowtv/2274.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/AIPYTd0.png",EOE TV
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",GREEK VOICE 
-http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/br722T6.jpg",ORASI TV
+https://ssh101.com/m3u8/dyn/orasitv/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fwPUazv.jpg",RELOAD RADIO
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/7TFlXBi.png",CANNALI
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI MUSIC
+http://channels.squel.media/maroussimusic
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI KARAOKE
+http://channels.squel.media/maroussikaraoke 
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/uhl4629.png",ENERGY TV
+rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
+https://zglive1-mdc-secure.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/100uuWA.png",PLAY TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/pK2p5ey.png",NG TV
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/LgQBtTh.jpg",XALASTRA TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://imgur.com/KTDgvBR.png",MUSIX CHANNEL
+https://sea1a-edge.stream.me/p/sea1a-1/hls/live/02b50d4e-831b-4677-9fff-986f13808a17_1300_852x480_120/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/rff1DsY.gif",FOX TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
+http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA WEB TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://207.36.91.70/images/2015/ellastv-logo-2015-main.png",ELLAS TV
-http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",GREEK VOICE 
+http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL TV
+http://138.197.136.102:8081/live/greektv/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jdMlstR.jpg",FAROS TV
+http://master.cystreams.com:25461/live/faros/farostv/154.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jdMlstR.jpg",FAROS TV2
+http://master.cystreams.com:25461/live/faros/farostv/1866.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cHkxImh.png",TELE PROPERTY
 http://web.onair-radio.eu:1935/teleproperty/teleproperty/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/0Ovqq2f.png",TILESPORT
 rtmp://tv3.streampulse.eu:1935/tilesport/movie1
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jdMlstR.jpg",FAROS TV
-http://master.cystreams.com:25461/live/faros/farostv/154.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jdMlstR.jpg",FAROS TV2
-http://master.cystreams.com:25461/live/faros/farostv/1866.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL TV
-http://138.197.136.102:8081/live/greektv/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://207.36.91.70/images/2015/ellastv-logo-2015-main.png",ELLAS TV
+http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/AZteACJ.jpgE",RADIO EPISTROFI
 http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS FM
