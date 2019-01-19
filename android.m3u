@@ -63,6 +63,8 @@ http://web.onair-radio.eu:1935/plutonchannel/plutonchannel/playlist.m3u8
 http://web.onair-radio.eu:1935/Mojochannel/Mojochannel/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/k1UqVUA.png",WEDDING TV
 http://web.onair-radio.eu:1935/weddingtv/weddingtv/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/9YajV4V.jpg",MR BEAN TV
+https://www.youtube.com/watch?v=ovmSF0RIwTQ
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/rGzK4Hz.jpg",SQUEL TV
 http://channels.squel.media/squel
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/XNB4qGR.png",CARTOON TV
@@ -184,7 +186,7 @@ https://www.youtube.com/watch?v=iol6suCZlMA
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/BHMA_TV.png",BHMA TV
 https://www.youtube.com/watch?v=O8gzgpJOahI
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52184565/DIKTYO_TV.png",DIKTYO TV
-https://www.youtube.com/watch?v=EFd2K8G7fT0
+https://www.youtube.com/watch?v=htJyzw6ubpU
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/0bBKyHd.png", TINOS NOW TV
 http://master.cystreams.com:25461/live/tinosnow/tinosnowtv/2274.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/AIPYTd0.png",EOE TV
