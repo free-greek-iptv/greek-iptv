@@ -1,184 +1,292 @@
 #EXTM3U
-#EXTINF:0,PROTO PROGRAMMA 91.6
-http://nerit1radio-lh.akamaihd.net/i/proto_1@123327/master.m3u8
-#EXTINF:0,DEUTERO PROGRAMMA 102.9
-http://nerit2radio-lh.akamaihd.net/i/deftero_1@123328/master.m3u8
-#EXTINF:0,TRITO PROGRAMMA 90.9
-http://nerit3radio-lh.akamaihd.net/i/trito_1@123329/master.m3u8
-#EXTINF:0,ERA SPORT 101.8
-http://erasport-lh.akamaihd.net/i/live_1@326375/master.m3u8
-#EXTINF:0,KOSMOS 93.6
-http://nerit4radio-lh.akamaihd.net/i/kosmos_1@123354/master.m3u8
-#EXTINF:0,I FONI TIS ELLADAS 7475
-http://voiceofgreece-lh.akamaihd.net/i/live_1@326376/master.m3u8
-#EXTINF:0,ERT3 958 95.8
-http://958fm-lh.akamaihd.net/i/live_1@359477/master.m3u8
-#EXTINF:0,ERT3 A PROGRAMMA 102
-http://neritmakedonia-lh.akamaihd.net/i/radiomakedonia_1@125579/master.m3u8
-#EXTINF:0,ERTOPEN 106.7
-http://radio.ertopen.com/erasport
-#EXTINF:0,ERA AIGAIOY
-http://ert_aigaio-lh.akamaihd.net/i/ert_aigaio_1@334602/master.m3u8
-#EXTINF:0,ERA BOLOY
-http://ert_volos-lh.akamaihd.net/i/ert_volos_1@334604/master.m3u8
-#EXTINF:0,ERA ZAKYNTHOY
-http://ert_zakinthos-lh.akamaihd.net/i/ert_zakynthos_1@334607/master.m3u8
-#EXTINF:0,ERA HRAKLEIOY
-http://ert_heraklio-lh.akamaihd.net/i/ert_heraklio_1@334609/master.m3u8
-#EXTINF:0,ERA IWANNINWN
-http://ert_ioannina-lh.akamaihd.net/i/ert_ioannina_1@334610/master.m3u8
-#EXTINF:0,ERA KABALAS
-http://ert_kavala-lh.akamaihd.net/i/ert_kavala_1@334611/master.m3u8
-#EXTINF:0,ERA KALAMATAS
-http://ert_kalamata-lh.akamaihd.net/i/ert_kalamata_1@334612/master.m3u8
-#EXTINF:0,ERA KERKYRAS
-http://ert_kerkyra-lh.akamaihd.net/i/ert_kerkyra_1@334614/master.m3u8
-#EXTINF:0,ERA KOZANHS
-http://ert_kozani-lh.akamaihd.net/i/ert_kozani_1@334619/master.m3u8
-#EXTINF:0,ERA KOMOTHNHS
-http://ert_komotini-lh.akamaihd.net/i/ert_komotini_1@334621/master.m3u8
-#EXTINF:0,ERA LARISAS
-http://ert_larisa-lh.akamaihd.net/i/ert_larisa_1@334622/master.m3u8
-#EXTINF:0,ERA ORESTIADAS
-http://ert_orestiada-lh.akamaihd.net/i/ert_orestiada_1@334623/master.m3u8
-#EXTINF:0,ERA PATRAS
-http://ert_patra-lh.akamaihd.net/i/ert_patra_1@334652/master.m3u8
-#EXTINF:0,ERA PYRGOY
-http://ert_pyrgos-lh.akamaihd.net/i/ert_pyrgos_1@334654/master.m3u8
-#EXTINF:0,ERA RODOY
-http://ert_rodos-lh.akamaihd.net/i/ert_rodos_1@334655/master.m3u8
-#EXTINF:0,ERA SERRWN
-http://ert_serres-lh.akamaihd.net/i/ert_serres_1@334656/master.m3u8
-#EXTINF:0,ERA TRIPOLHS
-http://ert_tripoli-lh.akamaihd.net/i/ert_tripoli_1@334658/master.m3u8
-#EXTINF:0,ERA FLWRINAS
-http://ert_florina-lh.akamaihd.net/i/ert_florina_1@334659/master.m3u8
-#EXTINF:0,ERA XANIWN
-http://ert_chania-lh.akamaihd.net/i/ert_chania_1@334660/master.m3u8
+#EXTINF:0,Era | 1, Prwto Programma (News) - Era 1
+http://radiostreaming.ert.gr/ert-proto
+#EXTINF:0,Era | 2, Deutero Programma (Art Music) - Era 2
+http://radiostreaming.ert.gr/ert-deftero
+#EXTINF:0,Era | 3, Trito Programma (Classic Music) - Era 3
+http://radiostreaming.ert.gr/ert-trito
+#EXTINF:0,Era | 4, Sport (Sports News) - Era Sport
+http://radiostreaming.ert.gr/ert-erasport
+#EXTINF:0,Era | Kosmos (Jazz, Ethnic) - Kosmos
+http://radiostreaming.ert.gr/ert-kosmos
+#EXTINF:0,Era | Voice Of Greece (News, World) - Voice of Greece
+http://radiostreaming.ert.gr/ert-voiceofgreece
+#EXTINF:0,095.20 | Athens Deejay FM, Athens (Mainstream Pop, Top Hits) - 95.2 Athens DeeJay
+http://94.23.0.114:41972
+#EXTINF:0,089.20 | Music, Athens (Mainstream Pop, Top Hits) - Music 89.2
+http://ample-02.radiojar.com/k0hua7u1yk5tv
+#EXTINF:0,104.60 | Hot FM, Athens (Mainstream Pop, Top Hits) - Hot 104.6
+http://hotfm.live24.gr:80/hotfm
+#EXTINF:0,101.60 | Radio Paradise, Poros (Mainstream Pop, Top Hits) - Netcast
+http://213.239.206.179:8850
+#EXTINF:0,088.90 | Hit, Athens (Pop, Top Hits) - HIT 889 radio
+http://64.150.176.42:8146/;stream
+#EXTINF:0,106.20 | Mad, Athens (Mainstream House, Pop) - MAD RADIO
+http://mediaserver.mad.tv:8000/stream
+#EXTINF:0,092.60 | Best, Athens (Electronic House) - DB90-TX
+http://best.live24.gr/best1222
+#EXTINF:0,102.50 | Nitro, Athens (Electronic House) - Nitro 102.5 
+http://nitro.live24.gr/nitro4555
+#EXTINF:0,094.30 | Xenios, Athens (Dance, Other) - XENIOS 943
+http://147.135.252.4:10198
+#EXTINF:0,087.70 | En Lefko, Athens (Electronic House) - En Lefko 877 radio
+http://stream.radiojar.com:80/enlefko877
+#EXTINF:0,096.60 | Pepper, Athens (Easy Listening) - /pepperorigin
+http://pepper966.live24.gr/pepperorigin
+#EXTINF:0,096.60 | Pepper (Alt), Athens (Easy Listening) - pepper
+http://stream.radiojar.com/pepper.m4a
+#EXTINF:0,092.90 | Kiss FM, Athens (Adult Contemponary) - Kiss Fm 92.9
+http://kissfm.live24.gr/kiss2111
+#EXTINF:0,097.20 | Easy, Athens (Easy Listening) - Easy 97.2
+http://ample-02.radiojar.com/cthtwxk5yvduv
+#EXTINF:0,092.20 | Galaxy, Athens (Easy Listening) - Galaxy 92
+http://galaxy.live24.gr/galaxy9292
+#EXTINF:0,096.30 | Red, Athens (Rock) - RED 96.3 
+https://ample-06.radiojar.com/redfm963
+#EXTINF:0,096.90 | Rock FM, Athens (Rock) - Rock FM 96.9
+http://rockfmlive.mdc.akamaized.net/strmRCFm/userRCFm/playlist.m3u8
+#EXTINF:0,105.20 | Atlantis, Athens (Greek Rock) - Atlantis 105,2 FM
+http://144.76.140.103:8308
+#EXTINF:0,089.80 | Dromos, Athens (Greek Mainstream) - DROMOS FM
+http://dromos898.live24.gr/dromos898
+#EXTINF:0,102.20 | Sfera, Athens (Greek Mainstream) - www.sfera.gr
+http://sfera.live24.gr/sfera4132
+#EXTINF:0,092.30 | Lampsi, Athens (Greek Mainstream) - Lampsi 92.3
+http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
+#EXTINF:0,094.90 | Rythmos, Athens (Greek Mainstream) - Rythmos 94.9
+http://ample-05.radiojar.com/g4tyehk5yvduv
+#EXTINF:0,104.00 | Party, Athens (Mainstream Pop, Top Hits) - This is my server name
+http://178.21.169.118:8006/stream
+#EXTINF:0,098.60 | Derti, Athens (Greek, Folk) - www.derti.gr
+http://derti.live24.gr/derty1000
+#EXTINF:0,102.70 | Palmos, Poros (Greek, Folk) - Palmos Radio 102.7 Fm  * http://www.palmosradio.gr * Sms: Palmos Sto 19599 (Greece - Greek - Athens)
+http://s6.onweb.gr:8010
+#EXTINF:0,101.30 | Diesi, Athens (Art Music, Folk, Greek) - DIESI FM
+http://diesi.live24.gr/diesi1013
+#EXTINF:0,099.20 | Melodia, Athens (Art Music, Greek) - Melodia
+http://netradio.live24.gr:80/melodia
+#EXTINF:0,088.00 | Menta, Athens (Art Music, Greek) - menta
+http://stream.radiojar.com/menta.aac?1457987195
+#EXTINF:0,097.50 | Love, Athens (Easy Listening, Greek) - My Station name
+http://loveradio.live24.gr/loveradio-1000
+#EXTINF:0,108.00 | Hxorama, Athens (Greek, Other) - RADIO HXORAMA ATHENS
+http://cast.streams.ovh:9069/live
+#EXTINF:0,106.40 | Radio Argosaronikos, Nauplio (Greek Mainstream, Folk) - RADIO ARGOSARONIKOS 106,4FM
+http://s3.onweb.gr:8536
+#EXTINF:0,104.30 | Minore, Athens (Greek, Folk, Other) - MINORE FM - streaming by 24SERVER
+http://minorefm.live24.gr/minorefm
+#EXTINF:0,104.80 | Styl FM, Athens (Greek Folk, Other) - STYL FM
+http://s3.onweb.gr:8530
+#EXTINF:0,107.40 | Mythos, Athens (Greek Folk, Other) - A100 NetRadio Greece
+http://bestgreek.info:8104
+#EXTINF:0,099.80 | Astro, Athens (Folk, Old Greek) - This is my server name
+http://realserver.info:8040
+#EXTINF:0,088.30 | Penies, Athens (Folk, Old Greek) - PENIES
+http://s2.onweb.gr:8632
+#EXTINF:0,091.40 | LyraFM, Athens (Tranditional, Greek) - LyraFM
+http://78.47.56.126:9244/live
+#EXTINF:0,087.50 | Kriti FM, Athens (Tranditional, Greek) - KPHTH FM
+http://s3.onweb.gr:8878
+#EXTINF:0,088.60 | NEWS247, Athens (News) - NEWS247
+http://ample-03.radiojar.com/gphtvb4env5tv
+#EXTINF:0,105.50 | Sto Kokkino, Athens (News) - StoKokkino
+http://stream.radiojar.com/kokkino-ath.mp3
+#EXTINF:0,098.90 | Alpha, Athens (News) - Alpha 989
+https://streamingv2.shoutcast.com/Alpha989
+#EXTINF:0,097.80 | Real, Athens (News) - real-otenet
+http://realfm2.live24.gr:80/realfm
+#EXTINF:0,090.10 | Parapolitika, Athens (News) - no name
+http://netradio.live24.gr/athinaradio
+#EXTINF:0,098.30 | Athina 984, Athens (News) - Athina 984
+http://athina984.live24.gr/athina984
+#EXTINF:0,096.00 | Flash, Athens (News) - Flash
+#http://flash.live24.gr/flash96
+#EXTINF:0,090.60 | Art, Athens (News) - Art 90,6
+http://live.webhosting4u.gr:8023/stream
+#EXTINF:0,094.60 | Sport FM, Athens (Sports News) - Nova Sports
+http://sportfm.live24.gr/sportfm7712
+#EXTINF:0,103.30 | Sport 24, Athens (Sports News) - 24 Radio
+http://sport24radio.live24.gr/sport24radio
+#EXTINF:0,089.50 | Ekklhsia Ellados, Athens (Religion) - Ekklisia Ellados 
+http://85.10.206.222:8002
+#EXTINF:0,Derti FM 104.9
+http://live3.istoikona.com:8017
+#EXTINF:0,Best FM 103.1
+http://netradio.live24.gr:80/bestradiorho2
+#EXTINF:0,Melody FM 104.5
+http://cast.radiohost.ovh:9080
+#EXTINF:0,Nitro 102
+http://46.4.75.197:11036/stream
+#EXTINF:0,Notos News 97.8
+http://37.187.136.85:9331/stream
+#EXTINF:0,Radio 1 Ρόδος 88
+http://www.111.gr:8000
+#EXTINF:0,Radio Galaxy 99
+http://solid1.streamupsolutions.com:11074/stream
+#EXTINF:0,Radio Nikita 98.6
+http://radionikita.novahost.bg:8000/;stream.mp3
+#EXTINF:0,Sky Ρόδος 100.0
+http://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048
+#EXTINF:0,Top FM Δωδεκανήσου 102.4
+http://live3.istoikona.com:8376/
+#EXTINF:0,ΕΡΤ Ν. Αιγαίου 93.1
+http://radiostreaming.ert.gr:80/ert-rodos
+#EXTINF:0,Κλικ FM 106.2
+http://www.111.gr:8042
+#EXTINF:0,Παλμός 99.5
+http://netradio.live24.gr:80/palmos995-rho
+#EXTINF:0,Ράδιο Αρχάγγελος 94.1
+http://eco.onestreaming.com:8536/;listen.pls
+#EXTINF:0,Ράδιο Λυχνάρι 91.4
+http://eco.onestreaming.com:8037
+#EXTINF:0,Ρόδος FM 90.7
+http://37.187.136.85:9327/stream
+#EXTINF:0,Στο Κόκκινο 103.7
+http://stream.radiojar.com:80/a1n0yftmb.mp3
+#EXTINF:0,099.40 | Greca, Pyrgos (Greek Mainstream, Folk) - Greca 99,4
+http://eco.onestreaming.com:8109
+#EXTINF:0,096.60 | Sfera, Patra (Greek Mainstream) - Sfera, Patra 
+http://netradio.live24.gr/sfera96-6-patra
+#EXTINF:0,107.40 | Aria, Agrinio (Greek Mainstream, Folk) - Aria FM 107.4
+http://cast4.magicstreams.gr:10131
+#EXTINF:0,099.70 | Fasma, Patra (Greek Mainstream) - Fasma FM 99.7
+http://67.212.165.106:8104
+#EXTINF:0,092.80 | Dytika FM, Agrinio (Greek Mainstream) - Dytika
+http://213.239.206.179:9280
+#EXTINF:0,105.50 | Aquarius, Koroivos (Greek Mainstream, Folk) - AQUARIUS FM 105.5
+http://s1.onweb.gr:8008
+#EXTINF:0,095.10 | Music Life, Agrinio (Greek, Folk) - Musiclife 95.1
+http://213.239.206.179:9501
+#EXTINF:0,097.80 | Live, Agrinio (Greek Mainstream, Folk) - LIVE FM 97.8
+http://s2.e-resellers.gr:9966
+#EXTINF:0,089.30 | Rythmos, Leukada (Greek, Mainstream) - RYTHMOS 89,3
+http://162.244.80.139:8048
+#EXTINF:0,094.30 | Rythmos, Zakinthos (Greek Mainstream) - Rythmos 94.3
+http://eco.onestreaming.com:8217
+#EXTINF:0,105.70 | Derti, Patra (Greek, Folk) - DERTI FM
+http://5.9.17.142:8016
+#EXTINF:0,098.30 | Palmos, Kefalonia (Greek, Folk) - Palmos
+http://ice.streamcloud.mediacdn.com/palmos983
+#EXTINF:0,092.30 | Ort, Pyrgos (News, Easy Listening) - ORT fm 92.3
+http://s7.onweb.gr:8546
+#EXTINF:0,095.50 | Ionion FM, Pyrgos (News, Art Music) - IONION FM
+http://chris.dna.gr:8004/ionionfmf
+#EXTINF:0,088.20 | Aroma, Tripoli (Art Music, Greek) - Like 88.2
+http://streams.onairsolution.gr:48500/like.mp3
+#EXTINF:0,091.10 | Ilida, Amaliada (Art Music, Greek) - Ilida 91,1
+http://eco.onestreaming.com:8532
+#EXTINF:0,100.40 | Mellodia, Patra (Greek, Art Music) - melodia patras 100.4
+http://176.9.39.43:7006
+#EXTINF:0,091.20 | Yes, Patra (Mainstream House, Pop) - Yes! 91,2 - www.yesradio.gr
+http://5.9.17.142:8024
+#EXTINF:0,101.10 | Free, Patra (Pop, Top Hits) - Free 101.1
+#http://playstathmos-lh.akamaihd.net/i/event_1@119298/master.m3u8
+#EXTINF:0,100.10 | You, Patra (Mainstream House, Pop) - YouFM 100.1
+http://www.youfmradio.gr:8880/stream
+#EXTINF:0,105.10 | Venus, Amaliada (Mainstream House) - Venus FM 105,1 Greece - www.venusfm.gr
+http://eco.onestreaming.com:8171
+#EXTINF:0,105.10 | Venus, Amaliada Alt. (Mainstream House) - Venus FM 105,1 Greece - www.venusfm.gr
+http://s3.onweb.gr:8808
+#EXTINF:0,107.00 | Mad, Agrinio (Mainstream House, Pop) - Mad Radio 107 Agrinio
+http://37.59.14.77:7038
+#EXTINF:0,100.60 | Kiss FM, Kefalonia (Adult Contemponary) - Kiss Fm 100.6 Kefalonia
+http://live.radiokiss.gr/kissfm1006hq.mp3
+#EXTINF:0,092.20 | Kiss Extra FM, Patra (Adult Contemponary) - KIIS EXTRA 92.2
+http://stream.kiisextra.gr:48500/kiis.mp3
+#EXTINF:0,105.30 | Antenna (Easy FM), Patra (Greek, Soft Music) - Antenna Patras
+http://antennaradio.streamhost.gr:1053
+#EXTINF:0,106.10 | Galaxy, Patra (Easy Listening) - GALAXY FM 106.1 PATRA
+http://5.9.17.142:8032/;stream.mp3
+#EXTINF:0,103.30 | Vox, Pyrgos (Easy Listening) - Vox Fm 103.3
+http://37.59.14.77:8202
+#EXTINF:0,090.80 | Ionian Galaxy, Kefalonia (News, Soft Music) - The Ionian Galaxy 90.8...to the world
+http://s4.onweb.gr:8018
+#EXTINF:0,097.60 | Stigma, Zakinthos (Electronic House) - Stigma Fm
+http://144.76.101.249:9300
+#EXTINF:0,088.60 | Island, Zakinthos (Pop, Top Hits) - Island Radio
+http://144.76.101.249:9302
+#EXTINF:0,090.40 | Up, Patra (Pop, Top Hits) - UPfm - University of Patras radio
+http://150.140.147.131:8000
+#EXTINF:0,102.70 | Lux, Patra (Pop, Top Hits, 80's) - Lux
+http://netradio.live24.gr/lux102-7-patra
+#EXTINF:0,091.60 | Life, Pyrgos (Easy Listening, Electronic) - Life Radio Greece
+http://78.129.234.163:32912
+#EXTINF:0,099.50 | Aeras, Agrinio (Greek, Soft Music) - www.aerasnews.gr
+http://ice.streamcloud.mediacdn.com/aerasfm995
+#EXTINF:0,093.70 | Agrinio 93.7, Agrinio (News) - agrinio
+http://netradio.live24.gr/agrinio937
+#EXTINF:0,093.00 | Top, Patra (Art Music, Greek) - Top 93,0
+http://netradio.live24.gr/topfm93patra
+#EXTINF:0,088.80 | Melody, Patra (Easy Listening) - Melody FM
+http://stream.melody888.gr:48500/melody.mp3
+#EXTINF:0,091.80 | Ermis, Zakinthos (Art Music, Greek) - Ermis FM
+http://s6.myradiostream.com/36662/listen.mp3
+#EXTINF:0,097.40 | Wave, Patra (Rock) - wave 97.4 patra. greece
+http://live.webhosting4u.gr:8007
+#EXTINF:0,107.10 | Mini, Krestena (Rock) - MINI FM 107.1
+http://eco.onestreaming.com:8142
+#EXTINF:0,096.50 | Cosmos, Kefalonia (Greek, Rock) - cosmos965
+http://ample-06.radiojar.com/0m398p0r36duv
+#EXTINF:0,094.00 | Radio Gamma, Patra (News) - Radio Gamma
+http://radiogamma.live24.gr/radiogamma
+#EXTINF:0,104.50 | Radio Amfiloxia, Agrinio (Greek, Folk) - radio amfilochia 104.5
+http://s1.magicstreams.gr:9964/;stream.mp3
+#EXTINF:0,093.60 | Radio Kuparisia, Kuparisia (Greek, Folk) - RADIO KYPARISSIA 936
+https://radio936.radioca.st/stream/
+#EXTINF:0,089.60 | Bravo, Zakinthos (Greek Mainstream, Folk) - Bravo FM
+http://144.76.101.249:9304
+#EXTINF:0,094.20 | Energy, Agrinio (Greek, Folk) - Energy 942
+http://netradio.live24.gr/energy942art
+#EXTINF:0,100.70 | Smart, Patra (Art Music, Greek) - SMART FM 100,7 
+http://46.4.75.197:36713/stream
+#EXTINF:0,106.50 | Radio Patras, Patra (Greek, Folk) - Radio Patra 106.5
+http://94.23.218.186:9102/;
+#EXTINF:0,092.00 | Mesologgi, Mesologgi (Folk, Old Greek) - Messologhi Radio 92FM
+http://eco.onestreaming.com:8021
+#EXTINF:0,090.50 | Studio Leukata, Leukada (Greek, Folk) - Studio Leukata
+http://eco.onestreaming.com:8091
+#EXTINF:0,101.30 | Kefi, Pyrgos (Greek, Folk) - Kefi
+http://live.kefiradio.gr:9988
+#EXTINF:0,099.20 | Aigio Radio, Aigio (Greek, Folk) - Radio Aigio 99,2
+http://eu7.fastcast4u.com:6130/stream/?1483558434074
+#EXTINF:0,098.00 | Messatida, Messatida Achaias (Tranditional, Greek) - Radio Messatida 98 fm 
+#http://147.135.252.4:10115
+#EXTINF:0,088.30 | Ksiromero, Agrinio (Greek, Folk) - raxfm
+http://alfahost.no-ip.biz:8895/;stream.nsv
+#EXTINF:0,102.10 | Xrwma, Patra (Greek, Folk) - XRWMA FM
+http://streams.onairsolution.gr:48500/xroma.mp3
+#EXTINF:0,089.20 | Glenti, Agrinio (Tranditional, Greek) - GLENTI 89.2 FM
+http://s2.e-resellers.gr:8076
+#EXTINF:0,104.80 | Mythos, Patra (Greek, Folk) - RADIO MYTHOS
+http://148.251.148.59:8020
+#EXTINF:0,093.40 | Max FM, Patra (News, Easy Listening) - MAX FM
+http://netradio.live24.gr/maxfm93-4-patra
+#EXTINF:0,098.70 | Flash, Patra (Greek, News) - Flash FM
+#http://144.76.84.8:8294
+#EXTINF:0,090.00 | Parapolitika, Patra (Greek, Folk) - Parapolitika
+http://netradio.live24.gr/parapolitikapatra
+#EXTINF:0,101.40 | Lepanto, Naupaktos (Greek, News) - Lepanto
+http://s26.myradiostream.com/8574/listen.mp3
+#EXTINF:0,089.40 | Skai, Patra (Greek, News) - skai patras 89.4
+http://r4.webradiostreams.com:7002/;
+#EXTINF:0,107.70 | Sto Kokkino, Patra (News) - StoKokkino - stokokkino
+http://ample-05.radiojar.com/kokkino-ath
+#EXTINF:0,096.30 | Sport FM, Patra (Greek, News) - SPORT FM
+http://sportfm.live24.gr/sportfm7712
+#EXTINF:0,088.50 | Apostoliki Ekklhsia Patrwn, Patra (Religion) - I.M. Patron
+http://eco.onestreaming.com:8468
+#EXTINF:0,106.30 | Mhtropoli Aitwlias Akarnanias, Agrinio (Religion) - RSIMAA
+http://144.76.140.103:8048
+#EXTINF:0,107.60 | Mhtropoli Wlenis Ileias, Ileia (Religion) - Netcast
+http://s6.onweb.gr:8094
+#EXTINF:0,Era | Patra (Local News) - Era Patrwn
+http://radiostreaming.ert.gr/ert-patra
+#EXTINF:0,Era | Pyrgos (Local News) - Era Pyrgou
+http://radiostreaming.ert.gr/ert-pyrgos
+#EXTINF:0,Era | Zakinthos (Local News) - Era Zakinthou
+http://radiostreaming.ert.gr/ert-zakynthos
 #EXTINF:0,KPHTH FM 87.5
 http://s3.onweb.gr:8878/
-#EXTINF:0,EN LEFKO 87.7
-http://stream02.iphost.gr:8000/stream
-#EXTINF:0,MENTA 88
-http://95.211.207.93/listen/menta
-#EXTINF:0,UP RADIO 88.6
-http://netradio.live24.gr/886radio
-#EXTINF:0,HIT FM 88.9
-http://hit889.live24.gr/hit889
-#EXTINF:0,MUSIC 89.2
-http://mousikokanali1-f.akamaihd.net/i/live_1@73264/master.m3u8
-#EXTINF:0,ECCLESIA 89.5
-http://85.10.206.222:8002/
-#EXTINF:0,DROMOS FM 89.8
-http://dromos898.live24.gr/dromos898
-#EXTINF:0,PARAPOLITIKA FM 90.1
-http://netradio.live24.gr/athinaradio
-#EXTINF:0,PEIRAIKI EKKLHSIA 91.2
-http://148.251.182.223:8310/;listen.pls
-#EXTINF:0,KPHTIKH PADIOFWNIA 91.4
-http://46.227.60.32:8072/;
-#EXTINF:0,GALAXY FM 92
-http://galaxy.live24.gr/galaxy9292
-#EXTINF:0,LAMPSI FM 92.3
-http://lampsi2-lh.akamaihd.net/i/live_1@324565/master.m3u8
-#EXTINF:0,BEST RADIO 92.6
-http://best.live24.gr/best1222
-#EXTINF:0,KISS FM 92.9
-http://kissfm.live24.gr/kiss2111
-#EXTINF:0,ELLHINIKOS 93.2
-http://orange.live24.gr/orange9320
-#EXTINF:0,RADIO 98 93.8
-http://147.102.82.129:8000/medium
-#EXTINF:0,NTIRLA 94.3
-http://144.76.84.8:8262/;stream/1
-#EXTINF:0,OTE SPORT FM 94.6
-http://sportfm.live24.gr/sportfm7712
-#EXTINF:0,RYTHMOS FM 94.9
-http://rythmos1-lh.akamaihd.net/i/live_1@334542/master.m3u8
-#EXTINF:0,ATHENS DJ 95.2
-http://rdj-lh.akamaihd.net/i/live_1@324558/master.m3u8
-#EXTINF:0,PANIKOS FM 95.4
-http://78.47.96.202:8092/;
-#EXTINF:0,FLASH FM 96
-http://flash.live24.gr/flash96
-#EXTINF:0,RED FM 96.3
-http://s7.streammonster.com:8376/;stream.mp3
-#EXTINF:0,PEPPER FM 96.6
-http://85.17.81.152/listen/pepper
-#EXTINF:0,ROCK FM 96.9
-http://rockfm-lh.akamaihd.net/i/live_1@324559/master.m3u8
-#EXTINF:0,EASY FM 97.2
-http://easyhd1-lh.akamaihd.net/i/live_1@363719/master.m3u8
-#EXTINF:0,LOVE RADIO 97.5
-http://loveradio.live24.gr/loveradio-1000
-#EXTINF:0,REAL FM 97.8
-http://netradio.live24.gr/realfm
-#EXTINF:0,ATHINA 984 98.4
-http://athenshdlive-lh.akamaihd.net/i/athina984fmlive_2@88331/master.m3u8
-#EXTINF:0,DERTI FM 98.6
-http://derti.live24.gr/derty1000
-#EXTINF:0,ALPHA 98.9
-http://194.219.46.2:8080/live
-#EXTINF:0,MELODIA FM 99.2
-http://netradio.live24.gr/melodia
-#EXTINF:0,BHMA FM 99.5
-http://streaming.dol.gr/vimafm
-#EXTINF:0,SKAI FM 100.3
-http://netradio.live24.gr/skai1003
-#EXTINF:0,DIESI 101.3
-http://diesi.live24.gr/diesi1013
-#EXTINF:0,PARADISE RADIO 101.6
-http://213.239.206.179:8850/;stream.mp3
-#EXTINF:0,SFERA FM 102.2
-http://netradio.live24.gr/sfera4132
-#EXTINF:0,NITRO RADIO 102.5
-http://nitro.live24.gr/nitro4555
-#EXTINF:0,RADIO BLACKMAN 103.1
-http://213.239.206.179:8184/;.mp3
-#EXTINF:0,SPORT24 103.3
-http://sport24radio.live24.gr/sport24radio
-#EXTINF:0,PAREA FM 104
-http://parea104.live24.gr/parea104
-#EXTINF:0,MINORE FM 104.3
-http://24streams.me:8077/minorefm
-#EXTINF:0,HOT FM 104.6
-http://hotfm.live24.gr/hotfm
-#EXTINF:0,STYL FM 104.9
-http://85.17.122.39:8530/;stream.mp3
-#EXTINF:0,ATLANTIS FM 105.2
-http://144.76.84.8:8308/;*.mp3
-#EXTINF:0,PALMOS FM 105.4
-http://s6.onweb.gr:8010/;
-#EXTINF:0,STO KOKKINO 105.5
-http://83.149.126.10/listen/kokkino-ath
-#EXTINF:0,PIQERAS DEEJAY 105.6
-http://37.48.67.169:8000/stream
-#EXTINF:0,MAD FM 106.2
-http://mediaserver.mad.tv:8000/stream
-#EXTINF:0,RIZES 106.5
-http://213.239.206.179:9670/;listen.pls
-#EXTINF:0,A100 FM 107.4
-http://bestgreek.info:8104/;
-#EXTINF:0,STAR ATHENS 107.7
-http://shaincast.caster.fm:24106/listen.mp3?authn6775082a4bdb82d04dee69601f8c6a54
-#EXTINF:0,RADIO HXORAMA 108
-http://78.47.56.126:9217/stream
-#EXTINF:0,RADIO APOLLWN 1242
-http://live.radioapollon.gr:7026/;stream.mp3
-#EXTINF:0,LAIKOS FM 87.6
-http://ice.streamcloud.mediacdn.com/laikos876
-#EXTINF:0,SOHOS FM 88.7
-http://s5.onweb.gr:8418/;
-#EXTINF:0,RAINBOW 89
-http://80.86.85.86:8006/;
-#EXTINF:0,ARENA SPORTS 89.4
-http://arenafm.gr:45054/;.mp3
-#EXTINF:0,IMAGINE 89.7
-http://imagine.1stepstream.com:8000/live
-#EXTINF:0,904 ARISTERA STA FM 90.4
-http://icecast.902.gr:8000/904
-#EXTINF:0,ZOO RADIO 90.8
-http://s10.voscast.com:9940/;
 #EXTINF:0,V FM 91.1
 http://stream.myip.gr:8054/;
 #EXTINF:0,OLA FM 91.4
@@ -549,8 +657,6 @@ http://178.63.16.92:8026/;listen.pls
 http://5.172.194.206:9982/;
 #EXTINF:0,NOVEL RADIO 91.8
 http://192.99.0.170:5770/;
-#EXTINF:0,KISS FM PATRAS 92.9
-http://stream.kiss922.gr:59922/;
 #EXTINF:0,STAR FM - PADIOFWNIA ARGOLIDOS 92.9
 http://46.4.65.194:8025/;
 #EXTINF:0,MAX FM 93.4
@@ -669,12 +775,6 @@ http://s6.onweb.gr:8010/;
 http://s1.onweb.gr:8008/;
 #EXTINF:0,TSIPIGO FM 105.6
 http://s2.onweb.gr:8622/;
-#EXTINF:0,DERTI FM PATPAS 105.7
-http://46.4.65.194:8033/;
-#EXTINF:0,GALAXY PATPAS 106.1
-http://46.4.65.194:8015/;listen.pls
-#EXTINF:0,DIVA FM 106.1
-http://62.75.145.148:9996/;listen.pls
 #EXTINF:0,RADIO ENEPGEIA 106.4
 http://s1.onweb.gr:8828/;
 #EXTINF:0,PADIO APGOSAPONIKOS 106.4
@@ -963,42 +1063,4 @@ http://69.175.13.130:8060/;
 http://s4.onweb.gr:8406/;
 MAD RADIO KSANTHI 107
 http://46.227.60.32:8052/;
-----RODOS----
-Derti FM 104.9
-http://live3.istoikona.com:8017
-Best FM 103.1
-http://netradio.live24.gr:80/bestradiorho2
-Melody FM 104.5
-http://cast.radiohost.ovh:9080
-Nitro 102
-http://46.4.75.197:11036/stream
-Notos News 97.8
-http://37.187.136.85:9331/stream
-Radio 1 Ρόδος 88
-http://www.111.gr:8000
-Radio Galaxy 99
-http://solid1.streamupsolutions.com:11074/stream
-Radio Nikita 98.6
-http://radionikita.novahost.bg:8000/;stream.mp3
-Sky Ρόδος 100.0
-http://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048
-Top FM Δωδεκανήσου 102.4
-http://live3.istoikona.com:8376/
-ΕΡΤ Ν. Αιγαίου 93.1
-http://radiostreaming.ert.gr:80/ert-rodos
-Κλικ FM 106.2
-http://www.111.gr:8042
-Παλμός 99.5
-http://netradio.live24.gr:80/palmos995-rho
-Ράδιο Αρχάγγελος 94.1
-http://eco.onestreaming.com:8536/;listen.pls
-Ράδιο Λυχνάρι 91.4
-http://eco.onestreaming.com:8037
-Ρόδος FM 90.7
-http://37.187.136.85:9327/stream
-Στο Κόκκινο 103.7
-http://stream.radiojar.com:80/a1n0yftmb.mp3
-
-
-
 
