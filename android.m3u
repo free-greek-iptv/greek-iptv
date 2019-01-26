@@ -189,7 +189,7 @@ https://server.tvdj.info:8222/arttv/arttv/playlist.m3u8
 https://www.youtube.com/watch?v=FbbjldILDec
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52184565/DIKTYO_TV.png",DIKTYO TV
 https://www.youtube.com/watch?v=NlXbOszB0OU
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/0bBKyHd.png", TINOS NOW TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/0bBKyHd.png",TINOS NOW TV
 http://master.cystreams.com:25461/live/tinosnow/tinosnowtv/2274.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/AIPYTd0.png",EOE TV
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
