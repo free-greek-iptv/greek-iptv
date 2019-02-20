@@ -47,8 +47,6 @@ https://www.youtube.com/watch?v=4U8YMAfDFGg
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hfia0wN.png",WIXLAR
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://vector.me/files/images/6/6/66449/tv_movie.png",MOVIES TV
-rtmp://eco.streams.ovh/MoviesTv/MoviesTv
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI CINEMA
 http://channels.squel.media/maroussisubs
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI TV
