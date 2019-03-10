@@ -55,6 +55,8 @@ http://channels.squel.media/maroussitv
 http://bit.ly/2Dn2Yty
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 
 http://channels.squel.media/maroussi80s
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/q5aMobw.jpg",DIAVATA TV
+https://eco.streams.ovh/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
