@@ -169,6 +169,8 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV
 http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/wtlOC10.png",TV SUPER
+http://149.11.73.72/plus/plus.sdp/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52184565/DIKTYO_TV.png",DIKTYO TV
 https://www.youtube.com/watch?v=PMPQr08eRTE
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/0bBKyHd.png",TINOS NOW TV
