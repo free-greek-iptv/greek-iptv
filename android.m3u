@@ -47,6 +47,10 @@ https://www.youtube.com/watch?v=4U8YMAfDFGg
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hfia0wN.png",WIXLAR
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI CINEMA
+http://channels.squel.media/maroussisubs
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI TV
+http://channels.squel.media/maroussitv
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/bh1iOFz.png",CINEFIL GR
 http://bit.ly/2Dn2Yty
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/gCki3IN.png",GREEK CINEMA 
@@ -185,6 +189,10 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/uhl4629.png",ENERGY TV
 rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI MUSIC
+http://channels.squel.media/maroussimusic
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI KARAOKE
+http://channels.squel.media/maroussikaraoke 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/dW08jNe.png",ZOUGLA TV
 https://zglive1-mdc-secure.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/pK2p5ey.png",NG TV
