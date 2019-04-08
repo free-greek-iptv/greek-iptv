@@ -187,6 +187,8 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI
 http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI KARAOKE
+http://channels.squel.media/maroussikaraoke
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA WEB TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL TV
@@ -209,9 +211,5 @@ http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.m3u8
 https://itv.streams.ovh/ellinikosfm/ellinikosfm/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI TV
-http://channels.squel.media/maroussitv
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI MUSIC
-http://channels.squel.media/maroussimusic
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/I1OPF07.png",MAROUSSI KARAOKE
-http://channels.squel.media/maroussikaraoke
+
+
