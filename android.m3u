@@ -56,9 +56,9 @@ http://bit.ly/2P6Gu4h
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Mega Channel" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
 https://www.youtube.com/watch?v=4U8YMAfDFGg
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/upqLdQd.jpg",SUPER CHANNEL
-http://bit.ly/2Ub3rEk
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/upqLdQd.jpg",CINEMA TV 
-http://bit.ly/2UJKbSC
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/135882.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/HyLmSPx.png",CINEMA TV 
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/95266.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hfia0wN.png",WIXLAR
