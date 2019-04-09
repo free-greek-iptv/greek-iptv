@@ -4,19 +4,19 @@ https://www.youtube.com/watch?v=SbZQY3UYw_Y
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 WORLDWIDE
 https://www.youtube.com/watch?v=Zx98moCvkpU
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 BUP
-http://bit.ly/2uWijMx
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/95340.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2
 https://www.youtube.com/watch?v=AOVVjaLbGEk
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2 WORLDWIDE
 https://www.youtube.com/watch?v=qBxbnSwOrxE
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="http://greektv.pbworks.com/f/1433976520/ERT2.png",ERT2 BUP
-http://bit.ly/2WPFN1M
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198137.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3
 https://www.youtube.com/watch?v=x3IIDO6C-kc
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 WORLDWIDE
 https://www.youtube.com/watch?v=5r5iftFbASw
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 BUP
-http://bit.ly/2G6D3Xc
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/95276.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/mZKxIBA.jpg",ERT SPORTS HD
 https://www.youtube.com/watch?v=MP8Htwny-T4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/mZKxIBA.jpg",ERT SPORTS WORLDWIDE
@@ -40,7 +40,7 @@ http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/95339.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha Greece" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha Greece" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD BUP
-http://bit.ly/2WTY3qH
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/95255.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR SD BUP 
