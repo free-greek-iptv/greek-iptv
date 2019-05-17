@@ -31,9 +31,11 @@ https://www.youtube.com/watch?v=MRDeOhioF3g
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha Greece" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR
 https://starlivegr-a.akamaized.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/t3YaLZhXAS25NBYJNUtjpQ/index-s36.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR SD BUP 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP
+https://www.youtube.com/watch?v=L4tD9P-ZHIs
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR BUP 2
 http://master.cystreams.com:25461/live/greek/asshole/40.ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
