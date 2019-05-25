@@ -163,6 +163,8 @@ rtmp://eco.streams.ovh:1935/ioanninatv/live
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/0klufvz.jpg",DIKTYO 1
 http://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV
+http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60551556/KOSMOS_TV.png",TV KOSMOS
 https://5948d12b760bb.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png",SAMIAKI TV
