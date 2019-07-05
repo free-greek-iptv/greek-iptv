@@ -45,10 +45,6 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hfia0wN.png",WIXLAR
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CINEMA 1
-http://78.31.67.124/Cinema1/mpegts 
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CINEMA 2
-http://78.31.67.124/Cinema2/mpegts 
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/bh1iOFz.png",CINEFIL GR
 http://bit.ly/2Dn2Yty
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
