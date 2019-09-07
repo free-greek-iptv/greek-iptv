@@ -11,10 +11,6 @@ https://www.youtube.com/watch?v=qBxbnSwOrxE
 https://www.youtube.com/watch?v=x3IIDO6C-kc
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="http://greektv.pbworks.com/f/ERT3.png",ERT3 WORLDWIDE
 https://www.youtube.com/watch?v=5r5iftFbASw
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/mZKxIBA.jpg",ERT SPORTS HD
-https://ertsports.secure.footprint.net/token=nva=1568286274~dirs=4~hash=0cb1ac832b65eeea3fa91/egress/chandler/streamroot/ert_sports/ert_sportshigh.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/mZKxIBA.jpg",ERT SPORTS WORLDWIDE
-https://www.youtube.com/watch?v=M0InlvUsshM
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/KAvruUQ.jpg",ERT PLAY 1
 https://www.youtube.com/watch?v=8hPJexRiYWU
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/GJmKqyS.jpg",ERT PLAY 2
