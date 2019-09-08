@@ -187,8 +187,14 @@ https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 http://master.cystreams.com:25461/live/faros/farostv/154.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jdMlstR.jpg",FAROS TV2
 http://master.cystreams.com:25461/live/faros/farostv/1866.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ZZCDm3R.jpg",AVANTI TV
+https://www.youtube.com/watch?v=-HXyc9TP7Oo&feature=youtu.be
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/0Ovqq2f.png",TILESPORT
 rtmp://tv3.streampulse.eu:1935/tilesport/movie1
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/AZteACJ.jpgE",RADIO EPISTROFI
