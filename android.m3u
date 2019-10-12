@@ -75,6 +75,8 @@ https://l11.cloudskep.com/cityc/cctv/playlist.m3u8
 https://l7.cloudskep.com/alsports/alsports/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CYPRUS CINEMA
 http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/tJ7hLlt.png",VOULI TV CY
+https://l8.cloudskep.com/voulitv/vtv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",EPSILON TV
