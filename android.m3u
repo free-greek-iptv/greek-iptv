@@ -39,6 +39,8 @@ https://vermantia.secure2.footprint.net/egress/bhandler/telmacortmp/vermantia/ma
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DrXkKRp.png",WORLD Z
+https://web.onair-radio.eu:443/Worldz/Worldz/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hfia0wN.png",WIXLAR
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/bh1iOFz.png",CINEFIL GR
