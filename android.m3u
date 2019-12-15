@@ -181,6 +181,8 @@ http://wpso.com:1936/hls/music1.m3u8
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/LgQBtTh.jpg",XALASTRA TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/nMMo1sT.jpg",GOLD TV
+http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA WEB TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2tB3wqn.png",MONTREAL GREEK TV
