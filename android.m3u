@@ -151,7 +151,7 @@ https://59583158c050f.streamlock.net/7322/7322/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/AIPYTd0.png",EOE TV
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
-EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SjoxYxX.png",PLUTON TV
 http://web.onair-radio.eu:1935/plutonchannel/plutonchannel/playlist.m3u8
