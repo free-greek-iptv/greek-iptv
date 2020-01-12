@@ -52,7 +52,7 @@ http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ERT World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
 https://www.youtube.com/watch?v=9ZUfOVfcE0M
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
-https://www.youtube.com/watch?v=5PjLmgrBXtI
+https://www.youtube.com/watch?v=8oykQSY9MxA
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
@@ -185,8 +185,6 @@ https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2.m3u8
 https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/U9hxRNa.jpg",ERT PLAY 4
 https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/OfloTTH.jpg",ERT PLAY 5
-https://ert-live.siliconweb.com/media/ert_play_5/ert_play_5.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/nMMo1sT.jpg",GOLD TV
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA WEB TV
