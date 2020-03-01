@@ -31,8 +31,6 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 https://liveopen.siliconweb.com/openTvLive/opennews/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/W9AKuFg.png",CINEMANIA
 http://bit.ly/2rp95bt
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/C4Yrm2d.jpg",REBOOT
-http://web.onair-radio.eu:1935/reboot/reboot/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hfia0wN.png",WIXLAR
