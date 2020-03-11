@@ -155,6 +155,10 @@ https://59583158c050f.streamlock.net/7322/7322/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60551556/KOSMOS_TV.png",TV KOSMOS
 https://5948d12b760bb.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
+https://stream-04.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybCPkDz6qbeqGEqBdizxrSC0)/dm/3/x61fbhs/s/live-1.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
+https://stream-07.dc3.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvK46IOxM6E57__lMn4oWAU8)/dm/3/xqjey2/d/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/YvXSqqO.png",LEPANTO 
 https://video1.getstreamhosting.com:1936/8078/8078/chunklist_w612252547.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/AIPYTd0.png",EOE TV
@@ -235,5 +239,4 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
-
 
