@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://alivegr.net/raw/guide-el.xml.gz"
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/157cfed6c5b2fb6aeb5fff6d48c3c34b_XL.jpg",Ολυμπιακός-Γουλβς
+https://www.youtube.com/watch?v=xUjrq_wppIk
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1
 https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png",ERT1 WORLDWIDE
