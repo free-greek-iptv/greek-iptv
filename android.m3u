@@ -25,6 +25,8 @@ https://cdnapisec.kaltura.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/form
 https://livestreaming.skai.gr/hls/live/1009402/15a83ddd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopen.siliconweb.com/openTvLive/stream2a/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/NDitJPT.jpg",COSMOTE HISTORY
+https://www.youtube.com/watch?v=9FC3OUc_G74
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/wnNDiwy.jpg",ETHNOS TV
