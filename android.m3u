@@ -26,7 +26,7 @@ https://usb.bozztv.com/ssh101/tfgstar/tfgstar/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
 https://livestreaming.skai.gr/hls/live/1009402/15a83ddd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
-https://liveopen.siliconweb.com/openTvLive/stream2a/playlist.m3u8
+https://liveopencloud.siliconweb.com/1/RnNyN1ZZdUhqUURT/cm5TOVdl/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/NDitJPT.jpg",COSMOTE HISTORY
 https://www.youtube.com/watch?v=9FC3OUc_G74
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
@@ -213,6 +213,8 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",GREEK VOICE 
 http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/A8uvnPi.png",EKKLHSIA TV HD
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/2hU849d.jpg",TV DIPSO 
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
