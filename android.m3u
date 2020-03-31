@@ -37,6 +37,8 @@ https://opentv-livehybrid.siliconweb.com/openTvLive/opennews/playlist.m3u8
 http://bit.ly/2rp95bt
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kCgRJUR.jpg",LAMPSI TV HD
+https://live.streams.ovh:443/lampsitv/lampsitv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/bh1iOFz.png",CINEFIL GR
 http://bit.ly/2Dn2Yty
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/uhYtvsJ.png",GALAXY GR
@@ -76,7 +78,7 @@ https://s1.cystream.net/live/cycinema/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 https://s1.cystream.net/live/tvmall/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
-https://stream-04.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybB7iotDDkF4SEUVQQH3L8b8)/dm/3/x61fbhs/s/live-0.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+https://stream-05.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybB7iotDDkF4SEUVQQH3L8b8)/dm/3/x61fbhs/s/live-1.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",EPSILON TV
 https://epsilontv.mystream.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
@@ -108,7 +110,7 @@ https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png",TV CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
-https://stream-15.dc3.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvOfUZMTtTpZedgJaF3dhgv0)/dm/3/xqjey2/d/live-0.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+https://stream-04.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvOfUZMTtTpZedgJaF3dhgv0)/dm/3/xqjey2/d/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BestTV.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG",BEST TV
 https://best-tv.gr/HLS/hls/best/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV
