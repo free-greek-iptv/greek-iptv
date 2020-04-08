@@ -35,6 +35,8 @@ https://opentv-livehybrid.siliconweb.com/openTvLive/opennews/playlist.m3u8
 http://bit.ly/2rp95bt
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg",34100 TV
+https://usb.bozztv.com/ssh101/TV34100/TV34100/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kCgRJUR.jpg",LAMPSI TV HD
 https://live.streams.ovh:443/lampsitv/lampsitv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/q8prcgh.jpg",MINNESOTA GR
