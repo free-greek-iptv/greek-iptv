@@ -61,9 +61,9 @@ https://www.youtube.com/watch?v=_SQSL8wfrYw
 https://www.youtube.com/watch?v=suH97b2RssU
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ERT World" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54768932/ERT_WORLD.png",ERT WORLD 
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ERT World" tvg-logo="https://i.imgur.com/JIlB5rW.png",ERT WORLD 
 https://ert-live.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020521/EURONEWS.png",EURONEWS 
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
 https://www.youtube.com/watch?v=Ivws1JKM6ho
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
