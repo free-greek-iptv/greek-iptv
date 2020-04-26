@@ -249,7 +249,7 @@ https://www.youtube.com/watch?v=WEsJ0un-AME
 https://eco.streams.ovh/exelen/exelen/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/wtW3zkz.png",TV NOTOS
 https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/FgBW0NV.png",ANEVA RADIO
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/FgBW0NV.png",AVENA RADIO
 https://eco.streams.ovh/AVENAFM977/AVENAFM977/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
