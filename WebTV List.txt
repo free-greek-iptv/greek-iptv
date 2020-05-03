@@ -135,7 +135,7 @@ URL: http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 Channel name: GREEK CINEMA 
 URL: http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
 Channel name: LAMPSI TV
-URL: http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
+URL: http://live.streams.ovh:1935/lampsitv/lampsitv/playlist.m3u8
 Channel name: APEIRO CINEMA
 URL: http://137.74.171.115:1935/galanos/elinikeslive/playlist.m3u8
 Channel name: NETV TORONTO
