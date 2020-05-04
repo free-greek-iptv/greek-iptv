@@ -79,6 +79,8 @@ https://stream-03.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybOI_60J-_vMk4f_vXr
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Extra Greece" tvg-logo="https://i.imgur.com/v9tPr4k.jpg",EXTRA CHANNEL
+https://extratv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ALERT.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
@@ -235,6 +237,14 @@ https://eco.streams.ovh/exelen/exelen/playlist.m3u8
 https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/FgBW0NV.png",AVENA RADIO
 https://eco.streams.ovh/AVENAFM977/AVENAFM977/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/KAvruUQ.jpg",ERT PLAY 1
+https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/GJmKqyS.jpg",ERT PLAY 2
+https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/fKuzNRN.jpg",ERT PLAY 3
+https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/U9hxRNa.jpg",ERT PLAY 4
+https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/tB0vfVT.png",HORSE RACES
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV2
