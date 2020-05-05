@@ -221,6 +221,8 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/jdMlstR.jpg",FAROS TV2
 https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cSQ2Kec.png",PYLOS CITY
+https://usb.bozztv.com/ssh101/pyloscity/pyloscity/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ZZCDm3R.jpg",AVANTI TV
 https://www.youtube.com/watch?v=-HXyc9TP7Oo&feature=youtu.be
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
