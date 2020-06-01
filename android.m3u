@@ -25,8 +25,6 @@ https://cdnapisec.kaltura.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/form
 https://www.youtube.com/watch?v=CmqbY_Gzsdo&feature=emb_title
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/NDitJPT.jpg",COSMOTE HISTORY
-https://www.youtube.com/watch?v=9FC3OUc_G74
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/wnNDiwy.jpg",ETHNOS TV
 https://opentv-livehybrid.siliconweb.com/openTvLive/opennews/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
