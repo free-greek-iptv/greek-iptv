@@ -142,7 +142,7 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54780449/TV1_SYROS.png",SYROS TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="AigaioTV.gr"tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV
-https://usb1.ninacdn.com/ssh101/aigaiotvonline/aigaiotvonline/playlist.m3u8
+https://usb.bozztv.com/ssh101/aigaiotv1/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="DiktyoTV.gr" tvg-logo="https://i.imgur.com/IH0xIoZ.png",DIKTYO TV
 https://59583158c050f.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TV EPILOGES
