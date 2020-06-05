@@ -34,7 +34,7 @@ https://usb.bozztv.com/ssh101/TV34100/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kCgRJUR.jpg",LAMPSI TV HD
 https://live.streams.ovh:443/lampsitv/lampsitv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/q8prcgh.jpg",MINNESOTA GR
-https://usb.bozztv.com/ssh101/mngr/mngr/playlist.m3u8
+https://usb.bozztv.com/ssh101/mngr/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/uhYtvsJ.png",GALAXY GR
 https://usb.bozztv.com/ssh101/Galaxygrtv/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO HD
