@@ -54,7 +54,7 @@ http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ERT World" tvg-logo="https://i.imgur.com/JIlB5rW.png",ERT WORLD 
 https://ert-live.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
-https://stream-07.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa8Y2QSzq9RzFZHiYMzUlF5k)/dm/3/x2j7kha/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+https://stream-07.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa_qTAehkQvMbQ7akiLjH7JE)/dm/3/x2j7kha/s/live-2.m3u8#cell=lcore&qos_vpart=1
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
@@ -66,7 +66,7 @@ https://s1.cystream.net/live/tvmall/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
-https://stream-02.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybKPbxVWUmDCBX2NAPNZlDrc)/dm/3/x61fbhs/s/live-1.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+https://stream-04.dc3.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvD_VJ22tGFLw6zahvzkxYac)/dm/3/xqjey2/d/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
@@ -84,7 +84,7 @@ https://neotv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Channel9.gr" tvg-logo="http://i.imgur.com/24uaLwh.png",CHANNEL 9 
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BlueSky.gr" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
-https://www.youtube.com/watch?v=5T1oshBsrf0
+https://www.youtube.com/watch?v=X7Nn-yIw6e0&feature=emb_title
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="4Ε" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΙΟΝΙΑΝ TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
@@ -115,7 +115,7 @@ http://176.9.30.75:1935/live/epsilon/playlist.m3u8
 https://cdn.onestreaming.com/deltatv/deltatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png",THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png",R CHANNEL
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png",TV RODOPI
 https://video.connect4.gr/live/tvrodopi/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
@@ -235,14 +235,6 @@ https://s1.cystream.net/live/epistrofi/playlist.m3u8
 https://itv.streams.ovh/ellinikosfm/ellinikosfm/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/KAvruUQ.jpg",ERT PLAY 1
-https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1high.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/GJmKqyS.jpg",ERT PLAY 2
-https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/fKuzNRN.jpg",ERT PLAY 3
-https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/U9hxRNa.jpg",ERT PLAY 4
-https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Q8BS310.png",MAD RADIO
 https://www.youtube.com/watch?v=WEsJ0un-AME
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/wtW3zkz.png",TV NOTOS
