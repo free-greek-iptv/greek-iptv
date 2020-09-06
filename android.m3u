@@ -23,8 +23,6 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD 
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Star" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR 
-http://tv.tvsatmedia.itv.world:8080/CANCOU/FKL209/7591
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Skai" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
 https://skai-live.siliconweb.com/media/cambria2/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
@@ -33,24 +31,10 @@ https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8
 https://opentv-livehybrid.siliconweb.com/openTvLive/opennews/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Wad6CD4.png",NETMAX TV
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/q8prcgh.jpg",MINNESOTA GR
-https://tna5.bozztv.com/mngr/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg",34100 TV
-https://tna5.bozztv.com/TV34100/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kCgRJUR.jpg",LAMPSI TV HD
-https://eco.streams.ovh:443/lampsitv/lampsitv/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/uhYtvsJ.png",GALAXY GR
-https://tna5.bozztv.com/Galaxygrtv/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO HD
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/B7YOyLN.jpg",MPAXALO TV
 https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="http://i.imgur.com/fExrqlx.png",SMILE TV CY
-https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/g6odIuj.jpg",TOM & JERRY
-https://www.youtube.com/watch?v=BRkQ-ZGiNbc
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/xHdfbl6.jpg",BOOBA
 https://www.youtube.com/watch?v=XK8METRgK_U
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
