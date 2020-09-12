@@ -225,4 +225,13 @@ https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
-
+#EXTINF:-1  tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png" ,ΡΙΚ1
+http://www.fireshow.xyz/rik1.html|webdown$$start=src: \"http://$$end=.m3u8$$replace1=src: \"$$add=.m3u8
+#EXTINF:-1  tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,ΡΙΚ2
+http://www.fireshow.xyz/rik2.html|webdown$$start=src: \"http://$$end=.m3u8$$replace1=src: \"$$add=.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,OMEGA
+http://www.fireshow.xyz/megacym.html|webdown$$start=src: \"http://$$end=.m3u8$$replace1=src: \"$$add=.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR 
+http://www.anacon.org/app/chans/gr/star.php|webepg zoom=100 scroll=0,400
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BERGINA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" ,ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ
+https://www.verginanews.gr/web-tv-2/|webdig
