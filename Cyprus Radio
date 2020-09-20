@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/high/kiss.png" ,Kiss 89.0
+http://r1.phileradio.com:8193/89FM
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://new.kanali7.com/wp-content/uploads/2016/03/kanali-7-logo-low-1.png" ,ΚANALI7 91.8
+http://live.kanali7.com:4012/;stream.nsv
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/big/astracy.png" ,RADIO ASTRA 92.8
+http://radio.dialogos.com.cy:8000/stream
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/big/deejaycyprus.png" ,DEEJAY  93.5
+http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/pafosfm.png" ,RADIO PAFOS 93.7
+http://live.iteam4media.com:1818/.mp3/;stream.mp3
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/big/starfmcy.png" ,STAR FM 93.7
+http://eco.onestreaming.com:8538/;stream.nsv
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/high/capital961cy.png" ,CAPITAL 96.1
+http://81.4.144.146:8000/live
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/zenith.png" ,ZENITH 96.4
+http://eco.onestreaming.com:8023/;
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/big/sfera.png" ,SFERA 96.8
+http://phileradio.com:8193/sfera
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/sports1.png" ,Sports1 97.3
+http://eco.onestreaming.com:8486/;
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/rockfmcy.png" ,ROCK FM 98.5
+http://live3.istoikona.net:8278/;stream.nsv
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/proto.png" ,RADIO PROTO 99.3
+http://eco.onestreaming.com:8191/;
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/gr/promo/rusradiocy.png" ,Russian Radio 100.1
+http://eco.onestreaming.com:8634/;
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/love.png" ,LOVE FM 100.7
+http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="https://cdn.e-radio.gr/logos/cy/big/diesi-cyprus.png" ,DIESI 101.1
+http://r1.cloudskep.com/radio/diesi/icecast.audio
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/mixfmcyprus.png" ,MIX FM 102.3
+http://eco.onestreaming.com:8127/;stream.nsv
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/ant1cy.png" ,ΑΝΤΕΝΝΑ FM 102.7
+http://r1.cloudskep.com/radio2/ant1fm/icecast.audio
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/melody1031.png" ,MELODY RADIO 103.1
+https://www.twitch.tv/melodyradio1031
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/high/sportfm.png" ,SUPER SPORT FM 104
+http://sportfm-cyprus.live24.gr/sportfm-cyprus
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/choice.png" ,Choice 104.3
+http://eco.onestreaming.com:8364/;
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/super.png" ,SUPER FM 104.8
+http://eco.onestreaming.com:8175/;
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/klik.png" ,KLIK FM 105.5
+http://eco.onestreaming.com:8310/;
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/gr/promo/rusradiocy.png" ,Russian Wave 105.6
+http://shout.kalsedia.com:1057/ruwave1057_64
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/kanali6.png" ,KANALI 6 106
+http://stream.dnsgb.net:8012/;stream.nsv
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/high/dromosfmcy.png" ,DROMOS FM 106.7
+http://dromoscyprus.live24.gr/dromoscyprus
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/politis1076.png" ,POLITIS 107.6
+http://live3.istoikona.com:8199/;stream.nsv
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/rikproto.png" ,RIK1 97.2
+http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/rik2.png" ,RIK2 91.2
+http://r1.cloudskep.com/cybcr/cybc2/icecast.audio
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/riktrito.png" ,RIK3 (ΤΡΙΤΟ) 94.8
+http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/rik4.png" ,RIK4 88.2
+http://r1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="https://activeradio.com.cy/wp-content/uploads/2020/06/newlogo@2-1.png",ACTIVE RADIO 107.4
+https://securestreams3.autopo.st:1417/active
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://resources.live24.gr/resources/images/stations/92fb3246-10ef-4476-b3b9-cdd16ca190ce.jpg",CUT RADIO 95.2
+http://stream.radiojar.com/cut-radio.mp3
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="http://resources.live24.gr/resources/images/stations/2e5e3870-cf92-42cd-b8ae-cf9df3925002.png",RADIO COSMOS  
+http://i.streams.ovh:9249/stream
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2020/03/radio-99-fm.jpg",RADIO 99 FM
+https://live3.istoikona.net:9104/stream
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/mixgreek.png" ,Mix Greek
+http://eco.onestreaming.com:8644/;
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/ojoradio.png" ,OJO Radio
+http://eco.onestreaming.com:8642/;
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/noisecy.png" ,Noise Radio
+http://198.178.121.76:8359/stream
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="" ,REBE RADIO
+https://securestreams3.autopo.st:1417/reberadio
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.radioepistrofi.com/templates/olympus/images/logo.jpg" ,ΡΑΔΙΟ ΕΠΙΣΤΡΟΦΗ
+https://s1.cystream.net/live/epistrofi/playlist.m3u8
