@@ -164,7 +164,7 @@ https://www.youtube.com/watch?v=dC3-ISvqnJI
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Greek hits
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Gold hits
-http://deep.flashmediacast.com:1935/deep/livestream/playlist.m3u8
+http://greatesthits.flashmediacast.com:1935/greatesthits/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Music Dance hits 
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
