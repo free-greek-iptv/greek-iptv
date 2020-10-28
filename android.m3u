@@ -71,7 +71,7 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/uAIsqsP.png",SIGMA CY
 https://sl2.sigmatv.com/hls/live.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/sEi6Ohw.png",DIGITAL TV CY
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/ZCEPdfM.jpg",DIGITAL TV CY
 https://l8.cloudskep.com/digital/dtv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/W2wNukK.png",CBC TV MALL CY
 https://s1.cystream.net/live/tvmall/playlist.m3u8
