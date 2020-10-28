@@ -29,12 +29,16 @@ https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg",34100 TV
-https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/FKJ6N9p.png",GREEK CINEMA
+https://bit.ly/3ownRrv
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/RwETfPc.jpg",BANANA TV
 https://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg",34100 TV
+https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/MaAys0D.png",DIAVATA TV HD
+https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/B7YOyLN.jpg",MPAXALO TV
 https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV CY
@@ -207,8 +211,6 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.
 https://opentv-livehybrid.siliconweb.com/openTvLive/opennews/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/nMMo1sT.jpg",GOLD TV
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/MaAys0D.png",DIAVATA TV HD
-https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/aYgRkkB.jpg",AKRITAS TV HD
 http://akritastv.flashmediacast.com:1935/akritastv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/TabBmOc.png",MARON TV
