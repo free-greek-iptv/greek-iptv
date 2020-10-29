@@ -29,6 +29,8 @@ https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5HV5pLu.jpg",SUPER CHANNEL
+https://bit.ly/35EmGO5
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/FKJ6N9p.png",GREEK CINEMA
 https://bit.ly/3ownRrv
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/RwETfPc.jpg",BANANA TV
