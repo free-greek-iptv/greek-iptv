@@ -36,7 +36,7 @@ https://bit.ly/3ownRrv
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/RwETfPc.jpg",BANANA TV
 https://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png",GALAXY GR
-https://channel.streams.ovh:1936/galaxygr/galaxygr/playlist.m3u8
+https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/MaAys0D.png",DIAVATA TV HD
