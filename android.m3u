@@ -181,6 +181,8 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 http://topmusic.flashmediacast.com:1935/topmusic/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Music Dance hits 
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8 
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Love Music & Christmas
+http://barazatv.srfms.com:1935/barazatv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
 https://w1.viastreaming.net/onweb/live/chunklist_w382012737.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hzaXhNV.png",NG TV
