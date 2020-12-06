@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://sgcpm.com/epg/greekstreamtvepg.gz"
+#EXTM3U url-tvg="http://www.xmltvepg.nl/rytecGR_Basic.xz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 WORLDWIDE
@@ -263,5 +263,4 @@ https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
-#EXTINF:-1  tvg-logo="http://primetel.com.cy/tvg/logos/201.png" ,PLUS
-http://www.anacon.org/app/chans/cy/pluscy.html|webdown$$start=src:\"http://$$end=.m3u8$$replace1=src:\"$$add=.m3u8
+
