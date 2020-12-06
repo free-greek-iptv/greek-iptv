@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="http://www.xmltvepg.nl/rytecGR_Basic.xz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 WORLDWIDE
@@ -11,7 +11,7 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
 https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 WORLDWIDE
 https://www.youtube.com/watch?v=TNVdb0tT0PM
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ SPORTS HD" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤSports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="EPT Sports" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS  WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
