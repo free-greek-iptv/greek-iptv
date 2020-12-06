@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Greece/digea.E.gr.channels.xml.gz"
+#EXTM3U url-tvg="http://www.xmltvepg.nl/rytecGR_Basic.xz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="EPT1.gr" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 WORLDWIDE
