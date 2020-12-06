@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://www.xmltvepg.nl/rytecGR_Basic.xz"
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="EPT1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="EPT1.gr" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 WORLDWIDE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="EPT1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="EPT2.gr" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="EPT2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="EPT3.gr" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="EPT3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
 https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 WORLDWIDE
 https://www.youtube.com/watch?v=TNVdb0tT0PM
