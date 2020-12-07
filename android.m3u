@@ -13,7 +13,7 @@ https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8
 https://www.youtube.com/watch?v=TNVdb0tT0PM
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤSports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ HD" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS  WORLDWIDE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="EPT-HD.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS  WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
