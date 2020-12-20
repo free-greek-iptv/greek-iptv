@@ -261,4 +261,8 @@ https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",TEST
+http://127.0.0.1:8088/https://www.twitch.tv/mxrotera
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",TEST
+http://127.0.0.1:8088/https://www.dailymotion.com/embed/video/x61fbhs#tab_embed
 
