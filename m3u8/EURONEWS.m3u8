@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1,EURONEWS
-http://gr.euronews.com/live|webdown$$start=http://euronews-$$end=playlist.m3u8$$replace1=href=\"$$add=playlist.m3u8
