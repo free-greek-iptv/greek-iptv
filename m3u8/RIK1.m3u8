@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,RIK 1
-http://www.fireshow.xyz/rik1.html|webdown$$start=src: \"http://$$end=.m3u8$$replace1=src: \"$$add=.m3u8
+http://www.anacon.org/app/chans/gr/open.php|webdown$$start=src: \"http://$$end=.m3u8$$replace1=src: \"$$add=.m3u8
