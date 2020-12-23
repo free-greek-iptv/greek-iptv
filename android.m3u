@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Twilight0/repo-guide/HEAD/guide-el.xml.gz"
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 WORLDWIDE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 WORLDWIDE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
 https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8
