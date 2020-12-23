@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD 
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 WORLDWIDE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 WORLDWIDE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
 https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8
@@ -27,7 +27,7 @@ https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5HV5pLu.jpg",SUPER CHANNEL
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5HV5pLu.jpg",SUPER CHANNEL HD
 https://bit.ly/35EmGO5
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Wad6CD4.png",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
