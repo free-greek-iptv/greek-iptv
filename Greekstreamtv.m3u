@@ -92,7 +92,7 @@ https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ATTICA TV" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BlueSky.gr" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
-https://www.youtube.com/watch?v=H2OhVt4wnU8
+https://www.youtube.com/watch?v=TLIeM3_xh7g
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="4E.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΙΟΝΙΑΝ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
@@ -114,7 +114,7 @@ https://best-tv.gr/HLS/hls/best/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="START TV" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TRT.gr" tvg-logo="https://i.imgur.com/HwC31wH.png",TRT TV
-https://www.hellasnet.tv/rest.live.hn/ws.trt/playlist.m3u8
+https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ENA Channel" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png",ENA CHANNEL
 http://176.9.123.140:1935/1c/stream/master.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",CENTER TV
