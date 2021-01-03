@@ -207,11 +207,11 @@ http://wpso.com:1936/hls/wzra.m3u8
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/iL2o7Og.png",TV DIPSO 
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/H3xtBV3.jpg",ALITHEIA 
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/H3xtBV3.jpg",ALITHIA TV
 https://vdo.alphaserver.gr:3989/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/aZpv6l9.png",BCI 24 NEWS
 https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SWPpbJd.jpg",ALPHA TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SWPpbJd.jpg",A CHANNEL
 https://bit.ly/2J8Fw8p
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
