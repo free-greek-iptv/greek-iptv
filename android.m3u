@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Twilight0/repo-guide/HEAD/guide-el.xml.gz"
+#EXTM3U url-tvg="http://sgcpm.com/epg/greekstreamtvepg.gz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD WORLDWIDE
@@ -111,7 +111,7 @@ https://cdn.onestreaming.com/deltatv/deltatv/playlist.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="5760##E-Macedonia-Thrace-R-Z-1" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png",TV RODOPI
 https://video.connect4.gr/live/tvrodopi/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="AXELWOS TV" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png",AXELWOS TV
+#EXTINF:7005 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="AXELWOS TV" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CORFU TV" tvg-logo="https://i.imgur.com/w0UIKte.png",CORFU TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
