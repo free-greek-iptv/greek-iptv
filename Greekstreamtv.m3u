@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD 
+EXTINF:9 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD 
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD WORLDWIDE
+#EXTINF:9 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
+#EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD WORLDWIDE
+#EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
+#EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
 https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 WORLDWIDE
+#EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 WORLDWIDE
 https://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤSports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
+#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤSports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ SPORTS" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS  WORLDWIDE
+#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ SPORTS" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS  WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
@@ -53,11 +53,11 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 https://www.youtube.com/watch?v=XK8METRgK_U
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ERTWorld.gr" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ERTWorld.gr" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
 https://www.dailymotion.com/video/x2j7kha#tab_embed.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
+#EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
