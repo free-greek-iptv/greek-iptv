@@ -153,7 +153,7 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:5007 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PLP" tvg-logo="https://i.imgur.com/qa3Lurc.png",PLP
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
-#EXTINF:5100 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",E TV
+#EXTINF:5100 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.etv.gr" tvg-logo="",ETV
 http://127.0.0.1:88/https://www.twitch.tv/etvhellas
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",X TV
 http://127.0.0.1:88/https://www.twitch.tv/xtvision
