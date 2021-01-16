@@ -504,7 +504,7 @@ http://s2.onweb.gr:8608/;
 http://s3.onweb.gr:8472/;
 #EXTINF:0,YDPOGEIOS 106.9
 http://netradio.live24.gr/ydrogeios1069her
------THESSALIA
+-----THESSALIA------
 #EXTINF:0,ASTRA FM  97.3
 http://www.gointernet.gr:8030/;listen.pls
 #EXTINF:0,BLUE STAR FM 105.1
@@ -705,7 +705,7 @@ https://i5.streams.ovh:2200/ssl/web300?mp=/stream
 #EXTINF:0,SMART 104.5 
 http://smartradio1045.live24.gr/smartradio1045
 #EXTINF:0,ALPHA FM 104.7
- http://78.47.56.126:9219/stream
+http://78.47.56.126:9219/stream
 #EXTINF:0,DROMOS XANIA 105.4 
 https://sc2.streamwithq.com:2000/stream/DromosFm1054
 #EXTINF:0,MUSIC CLUB 105.8 
@@ -748,6 +748,78 @@ http://i.streams.ovh:9331/stream
 http://i.streams.ovh:9327/stream
 #EXTINF:0,PRESSING 90.1
 http://s4.onweb.gr:8840/;stream.nsv
+----MAKEDONIA----
+#EXTINF:0,CAPITAL FM 107
+https://neos.win:59350/stream
+#EXTINF:0,COSMOS KAVALA 93.2
+https://neos.win:59320/stream
+#EXTINF:0,ENERGY FM 96.6
+https://i8.streams.ovh/sc/radioene/stream;audio.mp3?
+#EXTINF:0,LOBBY FM 101.8
+https://neos.win:59480/stream
+#EXTINF:0,METROPOLIS KAVALA 97.8
+http://freeuk13.listen2myradio.com:80/live.mp3?typeportmount=s1_22208_stream_962171519
+#EXTINF:0,KANALI 5 91.7
+https://i5.streams.ovh:14036/live
+#EXTINF:0,LAMPSI 105.7
+http://stream2.proradio.gr:8004/lampsi
+#EXTINF:0,LELEBOSE 101.3
+http://el1.info:9652/;listen.pls
+#EXTINF:0,PALMOS FM KAVALA 103.2
+http://netradio.live24.gr:80/palmos1032
+#EXTINF:0,RADIO ALPHA 88.6
+http://proradio.gr:8004/alpharadio
+#EXTINF:0,RADIO MAKEDONISSA  106.4
+http://netradio.live24.gr:80/makedonissa1064
+#EXTINF:0,RADIO NEAPOLIS 90.8
+http://185.141.60.78:9300/stream
+#EXTINF:0,PROINI FM 93.7
+http://62.103.31.151:8000/stream
+#EXTINF:0,STOXOS FM 99
+http://s3.onweb.gr:8016/
+#EXTINF:0,ALPHA FM KASTORIA 94.7
+http://162.13.25.174:80/wxc5sezupy5tv?1516183875
+#EXTINF:0,ANTENNES RADIO 93.6
+http://cast.streams.ovh:9177/live?1494329758071
+#EXTINF:0,ASTRA FM KASTORIA 99.2
+http://astrafmkastoria.ddns.net:8000/
+#EXTINF:0,CFM 99.9
+https://cast4.magicstreams.gr:2200/ssl/zhzcmfjd?mp=/stream
+#EXTINF:0,EROTAS 92
+http://eco.onestreaming.com:8368/;
+#EXTINF:0,KASTORIA FM 91.5
+http://eco.onestreaming.com:8107/;
+#EXTINF:0,RADIO KASTORIA 93
+http://shoutcast.24radio.gr:8062/;
+#EXTINF:0,EPILOGES FM KILKIS 101
+http://ice.streamcloud.mediacdn.com:80/epiloges1028
+#EXTINF:0,SYNORA FM 98.7
+http://ice.streamcloud.mediacdn.com:80/synora922kilkis
+#EXTINF:0,COSMOS KATERINI 103.8
+https://neos.win:48038/stream
+#EXTINF:0,FOREVER 96.3
+http://46.4.48.7:9630/stream
+#EXTINF:0,RADIO CITY 102.8
+http://i2.streams.ovh:7050/live
+#EXTINF:0,VIVA FM 88.3
+http://s3.onweb.gr:8030/
+#EXTINF:0,DHMOTIKO RADIO KATERINIS 95.3
+https://neos.win:59530/stream
+#EXTINF:0,DIONYSOS 89.2
+http://s6.onweb.gr:8054/
+#EXTINF:0,OLYMPOS FM 101.5
+http://streamer.stordia.de:9041/live
+#EXTINF:0,PANORAMA FM 100.8
+http://stream.mousikopanorama.gr:8015/stream
+#EXTINF:0,RADIO ALEXANDROS 106.3
+http://178.32.62.163:9012/stream
+#EXTINF:0,RADIO ENIMEROSI 92.2
+http://eco.onestreaming.com:8075/
+#EXTINF:0,RADIO MANOS 103.4
+http://i5.streams.ovh:14123/live
+#EXTINF:0,RADIO PIERIA 104.2
+http://s6.onweb.gr:8018/
+-----WEB RADIOS----
 #EXTINF:0,ATHENS UP RADIO
 https://live.webhosting4u.gr/proxy/athensup?mp=/stream
 #EXTINF:0,X FM 
