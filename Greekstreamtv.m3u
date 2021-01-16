@@ -88,7 +88,7 @@ https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
 #EXTINF:3008 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ATTICA TV" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
 #EXTINF:3012 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BlueSky.gr" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
-https://www.youtube.com/watch?v=TLIeM3_xh7g
+https://www.youtube.com/watch?v=dWmPW1Kbsr4
 #EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="4E.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:5014 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΙΟΝΙΑΝ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
@@ -103,8 +103,6 @@ https://live.neatv.gr:8888/hls/neatv.m3u8
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:5108 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
 https://www.dailymotion.com/video/xqjey2#tab_embed.m3u8
-#EXTINF:5860 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",BERGINA TV
-http://127.0.0.1:88/https://www.twitch.tv/verginachannel
 #EXTINF:5006 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BestTV.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG",BEST TV
 https://best-tv.gr/HLS/hls/best/index.m3u8
 #EXTINF:7065 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="START TV" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV
@@ -113,20 +111,12 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
 #EXTINF:5735 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ENA Channel" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png",ENA CHANNEL
 http://176.9.123.140:1935/1c/stream/master.m3u8
-#EXTINF:5710 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",CENTER TV
-http://127.0.0.1:88/https://www.twitch.tv/centertv
 #EXTINF:5720 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Δέλτα TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028326/DELTA_TV.png",DELTA TV
 https://cdn.onestreaming.com/deltatv/deltatv/playlist.m3u8
 #EXTINF:5770 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΘΡΑΚΗΝΕΤ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png",THRAKINET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:5865 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",DION TV
-http://127.0.0.1:88/https://www.twitch.tv/mxrotera
-#EXTINF:5765 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",STAR B.E.
-http://127.0.0.1:88/https://www.twitch.tv/startvfm
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",PRO NEWS TV
-http://127.0.0.1:88/https://www.twitch.tv/pronewstv
 #EXTINF:5030 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",LEPANTO TV
-http://127.0.0.1:88/https://video1.getstreamhosting.com:1936/8406/8406/playlist.m3u8
+https://video1.getstreamhosting.com:1936/8406/8406/playlist.m3u8
 #EXTINF:5760 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="5760" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png",TV RODOPI
 https://video.connect4.gr/live/tvrodopi/playlist.m3u8
 #EXTINF:7005 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="AXELWOS TV" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png",AXELWOS TV
@@ -143,8 +133,6 @@ https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
 http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 #EXTINF:7000 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV
 http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
-#EXTINF:6005 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",FLASH TV
-http://127.0.0.1:88/https://www.twitch.tv/flashtvgr
 #EXTINF:7175 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="SAMIAKI TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:7205 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="SYROS TV1" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54780449/TV1_SYROS.png",SYROS TV1
@@ -153,21 +141,13 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:5007 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PLP" tvg-logo="https://i.imgur.com/qa3Lurc.png",PLP
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
-#EXTINF:5100 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.etv.gr" tvg-logo="",ETV
-http://127.0.0.1:88/https://www.twitch.tv/etvhellas
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",X TV
-http://127.0.0.1:88/https://www.twitch.tv/xtvision
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",KONITSA TV
-http://127.0.0.1:88/www.twitch.tv/konitsaplustv
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",RELAX TV
 https://vdo.alphaserver.gr:3226/stream/play.m3u8
-#EXTINF:5775 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΤΗΛΕ ΕΠΙΛΟΓΕΣ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TILE EPILOGES
+#EXTINF:5775 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="THLE EPILOGES" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TILE EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
-#EXTINF:6000 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="DIKTYO" tvg-logo="https://i.imgur.com/0klufvz.jpg",DIKTYO 1
-https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΠΕΛΛΑ" tvg-logo="https://i.imgur.com/9YFieqB.jpg",PELLA TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PELLA" tvg-logo="https://i.imgur.com/9YFieqB.jpg",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΕΓΝΑΤΙΑ" tvg-logo="https://i.imgur.com/XQyysct.jpg",EGNATIA TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="EGNATIA" tvg-logo="https://i.imgur.com/XQyysct.jpg",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:5012 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΗΛΕΚΤΡΑ" tvg-logo="https://i.imgur.com/SI8Ny3X.png",HLEKTRA TV
 http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
@@ -219,8 +199,6 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/H0VDfpb.jpg",MESSINIA TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="",GREECE RADIO
-http://127.0.0.1:88/https://www.twitch.tv/greeceradio
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zG9dFQp.jpg",ERT SPORTS 2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/wnNDiwy.jpg",ETHNOS TV
