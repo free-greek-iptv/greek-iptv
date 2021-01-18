@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://github.com/1nikolas/EPG-GRCY/releases/download/EPG/EPG-GRCY.xml.gz"
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert1.gr" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert1.gr" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT 1 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert1.gr" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD WORLDWIDE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert1.gr" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT 1 HD WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert2.gr" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert2.gr" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT 2 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert2.gr" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD WORLDWIDE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert2.gr" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT 2 HD WORLDWIDE
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert3.gr" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert3.gr" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT 3 HD
 https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert3.gr" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 WORLDWIDE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ert3.gr" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT 3 WORLDWIDE
 https://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
