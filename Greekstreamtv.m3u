@@ -155,8 +155,8 @@ http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:7210 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/f/VOLCANO.png",VOLCANO
 http://176.9.123.140:1935/santorini/santorini/playlist.m3u8
-#EXTINF:5030 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LEPANTO" tvg-logo="https://i.imgur.com/8qLqTaK.jpg",LEPANTO 
-https://video1.getstreamhosting.com:1936/8024/8024/playlist.m3u8
+#EXTINF:5030 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LEPANTO" tvg-logo="https://i.imgur.com/8qLqTaK.jpg",LEPANTO
+https://video1.getstreamhosting.com:1936/8406/8406/playlist.m3u8
 #EXTINF:7185 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="KOSMOS" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60551556/KOSMOS_TV.png",TV KOSMOS
 https://5e8dfce185af1.streamlock.net:443/TvKosmosLive/TvKosmosLive/playlist.m3u8
 #EXTINF:5048 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
