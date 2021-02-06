@@ -201,8 +201,12 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/H0VDfpb.jpg",MESSINIA TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/8coUyPX.png",MAROUSSIOTIKA TV
+http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zG9dFQp.jpg",ERT SPORTS 2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zG9dFQp.jpg",ERT SPORTS 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/wnNDiwy.jpg",ETHNOS TV
 https://opentv-livehybrid.siliconweb.com/openTvLive/opennews/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/nMMo1sT.jpg",GOLD TV
