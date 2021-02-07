@@ -159,10 +159,10 @@ http://176.9.123.140:1935/santorini/santorini/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8406/8406/playlist.m3u8
 #EXTINF:5044 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B
 https://til.pp.ua:3424/live/superblive.m3u8
+#EXTINF:6000 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΔΙΚΤΥΟ1" tvg-logo="https://i.imgur.com/0klufvz.jpg",DIKTYO 1
+https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
 #EXTINF:5048 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/LyRMqHO.jpg",GRD CHANNEL
-https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:3042 group-title="ΜΟΥΣΙΚΗ" tvg-name="MADTV.gr" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
