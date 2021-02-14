@@ -65,6 +65,8 @@ http://stream.seen.cy/hls/test.m3u8
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/T8mB6Kg.jpg",FAROS TV2 CY
 https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/rIt5pfv.png",VOULI TV CY
+https://dev.aftermind.xyz/upstream/unitrust-webplayer/ZKYZntAds9QTjud/20957.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Tvmall" tvg-logo="https://i.imgur.com/W2wNukK.png",CBC TV MALL CY
 https://s1.cystream.net/live/tvmall/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
