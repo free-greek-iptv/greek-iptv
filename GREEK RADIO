@@ -121,8 +121,12 @@ http://178.33.135.246:5262/stream
 http://netradio.live24.gr/north98thess
 #EXTINF:0,RADIO 1 99.0
 https://embedded.rcast.net/stream/63731.mp3
+#EXTINF:0,FLASH 99,4
+http://207.154.248.204:8009/stream
+#EXTINF:0,EKRIXI FM  99.8
+http://ice.greekstream.net/ekrixifm
 #EXTINF:0,YELLOW RADIO 101.7
-https://radio.streamings.gr:9009/live
+https://ice.greekstream.net/yellow
 #EXTINF:0,ROCK THESS 105.5
 http://radio.1055rock.gr:30000/;
 #EXTINF:0,REAL FM THESS 107.1 
@@ -950,6 +954,17 @@ http://173.165.1.213:8000/;stream.mp3
 http://50.7.71.219:7678/stream
 #EXTINF:0,RADIO NIKITA
 http://176.9.78.226:30122/stream
+#EXTINF:0,HELLAS FM 
+https://s3.radio.co/s07f995997/listen
+#EXTINF:0,ΕΛΛΗΝΙΚΟΣ FM 
+https://eu1.fastcast4u.com/proxy/ellinikosfm?mp=/live
+#EXTINF:0,GTC RADIO 
+http://usa7.fastcast4u.com:5997/;
+#EXTINF:0,HELLENIC RADIO 
+https://iceant.antfarm.co.za:8443/Hellenic
+
+#EXTINF:0,YELLOW FM
+https://ice.greekstream.net/yellow
 #EXTINF:0,HELLAS FM 
 https://s3.radio.co/s07f995997/listen
 #EXTINF:0,ΕΛΛΗΝΙΚΟΣ FM 
