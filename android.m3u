@@ -73,8 +73,12 @@ https://vod.streams.ovh:3829/stream/play.m3u8
 https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/8coUyPX.png",MAROUSSIOTIKA TV
 http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="digea.nickelodeon.gr" tvg-logo="https://i.imgur.com/eUV2Z7V.png",NICKELODEON
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="digea.nickelodeon.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020451/NICKELODEON.png",NICKELODEON
 http://46.149.191.217:20015
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="digea.nickelodeon.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020451/NICKELODEON.png",NICKELODEON
+https://bit.ly/3fdz12o
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="digea.smile.gr" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV
+https://bit.ly/31hDj0w
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="cyta.smiletv.cy" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/xHdfbl6.jpg",BOOBA
@@ -105,6 +109,8 @@ https://dev.aftermind.xyz/upstream/unitrust-webplayer/ZKYZntAds9QTjud/20957.m3u8
 https://s1.cystream.net/live/tvmall/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.risetv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/107431668/RISE.png",RISE TV
+https://bit.ly/3d58kKh
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.action24.gr" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION24
 https://bit.ly/2QrQ5Hl
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BlueSky.gr" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
