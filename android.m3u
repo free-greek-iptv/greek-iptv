@@ -125,6 +125,8 @@ https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="digea.lydiatv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.bergina.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193861/BERGINA.png",BERGINA 
+https://video-weaver.cdg02.hls.ttvnw.net/v1/playlist/CvUEj6Jj0uLNe0iNQejoNWujsSDreQqlqUbckXciW5BJJwuHhkIG93xXjw81HQ4nRcOc-tHtL0RNg9EKiSphOIG8d3EoaS7AROaSLU_928L4t9HfJou6INDs-2WBifLQXwhE6NQX18UCCx5DI6yhv-TIjyk2lAJ3OBgC069FGQbwFXEdRg9Xv1m_DHr0ZIeINNdE_0AebV7B2rfA2BEcRdX7KkIQ5s7hBCv-IwLoEbZ11n2GgTKc_4EOQ5aQKoZmGvpMe_WX5zySZDqEvQnHuSq45ln6WSZVb3Xy7KjGRsFHxJ_dAI6W4oP7kf3u0RcBACWaY6MkDhZkQuHV1C0Gb3LSXurd8f9Yp_ceJzglx92EpfVK1dIKW2NvvzY2XBf9OVVsh_LRwqPCpgGkFyZIoSlfV1DeKfSvSDfmV5bxuWvhO7HV1qbP3WwCYzRve8KF_Nh-VXhNCyMwzcAEddE73mkwskDDXMgbalHZRJ7yhT-HGeArih8YcBeGwhmT6UecOClXsy_TsI4axQ9TxigYhHd2v_Ro5j973Uo8tGYfJz_H1qAbvfGQM0b8R7AdoVdZccYMoD0w_day9b-GFXejd9Jt6IRqPYgS7YsCabIDeYBPiOLLzhmmUe1_4CsJ7UIyBc9OzTrHNxZcRvPMtpZsq0fmbZmQrk06x7e6IAZdl9kHUrTMtT1pdBktF0PY_l8jOQLEzIDwKBrM8zBT7aPKIqjfmoQ6QkByf6CSCcKHO9mbvMAt7wUNngPCl_owxv52a4mw96SesngPJtYqam6eeKB6EpLCAIQKmdwo8VPxgSBe8xQJsAv_K6h7QLiJZq-05NAFIHSvqi8SELYoUU-q623uvF1XC8_ThA0aDL3ktUt678mR3vyECw.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.ionianchannel.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.tv100.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100
@@ -281,8 +283,7 @@ https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",test
-https://video-weaver.cdg02.hls.ttvnw.net/v1/playlist/CvUEj6Jj0uLNe0iNQejoNWujsSDreQqlqUbckXciW5BJJwuHhkIG93xXjw81HQ4nRcOc-tHtL0RNg9EKiSphOIG8d3EoaS7AROaSLU_928L4t9HfJou6INDs-2WBifLQXwhE6NQX18UCCx5DI6yhv-TIjyk2lAJ3OBgC069FGQbwFXEdRg9Xv1m_DHr0ZIeINNdE_0AebV7B2rfA2BEcRdX7KkIQ5s7hBCv-IwLoEbZ11n2GgTKc_4EOQ5aQKoZmGvpMe_WX5zySZDqEvQnHuSq45ln6WSZVb3Xy7KjGRsFHxJ_dAI6W4oP7kf3u0RcBACWaY6MkDhZkQuHV1C0Gb3LSXurd8f9Yp_ceJzglx92EpfVK1dIKW2NvvzY2XBf9OVVsh_LRwqPCpgGkFyZIoSlfV1DeKfSvSDfmV5bxuWvhO7HV1qbP3WwCYzRve8KF_Nh-VXhNCyMwzcAEddE73mkwskDDXMgbalHZRJ7yhT-HGeArih8YcBeGwhmT6UecOClXsy_TsI4axQ9TxigYhHd2v_Ro5j973Uo8tGYfJz_H1qAbvfGQM0b8R7AdoVdZccYMoD0w_day9b-GFXejd9Jt6IRqPYgS7YsCabIDeYBPiOLLzhmmUe1_4CsJ7UIyBc9OzTrHNxZcRvPMtpZsq0fmbZmQrk06x7e6IAZdl9kHUrTMtT1pdBktF0PY_l8jOQLEzIDwKBrM8zBT7aPKIqjfmoQ6QkByf6CSCcKHO9mbvMAt7wUNngPCl_owxv52a4mw96SesngPJtYqam6eeKB6EpLCAIQKmdwo8VPxgSBe8xQJsAv_K6h7QLiJZq-05NAFIHSvqi8SELYoUU-q623uvF1XC8_ThA0aDL3ktUt678mR3vyECw.m3u8
+
 
 
 
