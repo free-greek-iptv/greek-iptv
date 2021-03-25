@@ -23,6 +23,8 @@ https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV BUP
+https://bit.ly/2PmMxFU
 #EXTINF:5042 group-title="CINEMA" tvg-logo="https://i.imgur.com/5HV5pLu.jpg",SUPER CHANNEL HD
 https://bit.ly/35EmGO5
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Wad6CD4.png",NETMAX TV
@@ -47,6 +49,10 @@ https://vod.streams.ovh:3829/stream/play.m3u8
 https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/B7YOyLN.jpg",MPAXALO TV
 https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
+#EXTINF:3064 group-title="ΠΑΙΔΙΚΑ" tvg-name="digea.nickelodeon.gr" tvg-logo="https://i.imgur.com/eUV2Z7V.png",NICKELODEON
+https://bit.ly/3fdz12o
+#EXTINF:3072 group-title="ΠΑΙΔΙΚΑ" tvg-name="digea.smile.gr" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV
+https://bit.ly/31hDj0w
 #EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/xHdfbl6.jpg",BOOBA
