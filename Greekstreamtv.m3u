@@ -42,7 +42,7 @@ http://78.83.87.222:9999/play/a015/index.m3u8
 #EXTINF:5042 group-title="CINEMA" tvg-logo="https://i.imgur.com/5HV5pLu.jpg",SUPER CHANNEL HD
 https://bit.ly/35EmGO5
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Wad6CD4.png",NETMAX TV
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+http://live.netmaxtv.com:3025/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/FKJ6N9p.png",GREEK CINEMA
