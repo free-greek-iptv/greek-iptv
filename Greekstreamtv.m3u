@@ -171,6 +171,8 @@ https://s1.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
 http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 #EXTINF:7000 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV
 http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
+#EXTINF:7015 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CORFU TV" tvg-logo="https://i.imgur.com/w0UIKte.png",CORFU TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:7175 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="SAMIAKI TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:7205 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="SYROS TV1" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54780449/TV1_SYROS.png",SYROS TV1
@@ -207,10 +209,12 @@ https://www.youtube.com/watch?v=8jnQ57uHN2o
 http://31.177.62.174:8001/play/s65
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD 
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Greek hits
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV  
+https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Greek Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Music Dance hits 
-https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8 
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Dance Μusic
+https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg",PANIK TV
@@ -283,8 +287,6 @@ https://s1.cystream.net/live/faros1/playlist.m3u8
 https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/W5oLUMk.jpg",CAMERA SMILE
 https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/xDaUhJH.jpg",XALAZI TV
-http://176.9.123.140:1935/XALAZI/XALAZI/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/CLJTGnv.jpg",KONITSA TV
 https://til.pp.ua:3018/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tFBpbb1.png",NAXOS TV
