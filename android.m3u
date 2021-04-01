@@ -263,3 +263,7 @@ https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
+https://tna5.bozztv.com/aigaiotv1/index.m3u8|Referer=https://ssh101.com/
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
+https://video1.getstreamhosting.com:1936/8316/8316/index.m3u8
