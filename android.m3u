@@ -159,6 +159,8 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.samiakitv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.lepanto.gr" tvg-logo="https://i.imgur.com/8qLqTaK.jpg",LEPANTO 
+https://video1.getstreamhosting.com:1936/8406/8406/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.iridatv.gr" tvg-logo="https://i.imgur.com/gn5sdCt.png",IRIDA TV
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.diktyo.gr" tvg-logo="https://i.imgur.com/0klufvz.jpg",DIKTYO 1
@@ -263,7 +265,4 @@ https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
-https://tna5.bozztv.com/aigaiotv1/index.m3u8|Referer=https://ssh101.com/
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
-https://video1.getstreamhosting.com:1936/8316/8316/index.m3u8
+
