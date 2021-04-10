@@ -291,5 +291,7 @@ http://127.0.0.1:88/https://www.twitch.tv/astratv2019
 http://127.0.0.1:88/https://www.twitch.tv/centertv
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",IONIA TV
 http://127.0.0.1:88/https://www.twitch.tv/tvioniathessalonikis
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ANALOG TV
+http://127.0.0.1:88/https://www.twitch.tv/tvanalog
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",FIGARO
 https://www.dailymotion.com/video/x7x0v7j#tab_embed.m3u8
