@@ -99,28 +99,56 @@ https://netradio.live24.gr/overfm-internet
 #EXTINF:0,PARTY FM 104
 https://radio.streamings.gr:9006/stream
 -----THESSALONIKI----
-#EXTINF:0,V FM 91.1 
-https://cast5.magicstreams.gr/sc/vfm/stream
+#EXTINF:0,LAIKOS FM 87,6
+http://netradio.live24.gr/laikos876
+#EXTINF:0,88MISO 88,5
+http://solid33.streamupsolutions.com:30000/stream
+#EXTINF:0,SOHOS FM 88,7
+https://solid55.streamupsolutions.com/proxy/zskzsrci?mp=/1
+#EXTINF:0,89 RAINBOW
+http://62.212.82.197:8000/stream
+#EXTINF:0,WE RADIO 89,4
+https://radioservers.xyz/we-894-live
+#EXTINF:0,IMAGINE 89,7
+https://vip3.fastcast4u.com/proxy/imagine897?mp=/stream
 #EXTINF:0,STATUS FM 107.7
 http://148.251.179.119:8000/;
 #EXTINF:0,CITY INTERNATIONAL 106.1
 http://radio.lancom.gr:8012/stream5
+#EXTINF:0,ZOO RADIO 90,8
+http://netradio.live24.gr/zoo908thess
+#EXTINF:0,V FM 91.1 
+https://cast5.magicstreams.gr/sc/vfm/stream
+#EXTINF:0,STO KOKKINO THESS 91.4
+http://stream.radiojar.com/275p8ssmb
+#EXTINF:0,RSO 91.7
+http://tachyon.shoutca.st:8594/;
 #EXTINF:0,BLE 93.1
 http://radio.lancom.gr:8012/stream1
 #EXTINF:0,MYTHOS FM 93.4
 http://s2.free-shoutcast.com:18560/;
 #EXTINF:0,GNOMI FM 93.7
 http://sc2.greekstream.net:4040/;
+#EXTINF:0,ΡΑΔΙΟ ΘΕΣΣΑΛΟΝΙΚΗ 94,5
+http://eu7.fastcast4u.com:6156/stream?type=http&nocache=136596
 #EXTINF:0,EROTIKOS 94.8
 http://eu9.fastcast4u.com:5282/;
+#EXTINF:0,ALPHA 96,5
+https://streamingv2.shoutcast.com/alpha-965
+#EXTINF:0,VELVET 96,8
+http://netradio.live24.gr/velvet968thess
+#EXTINF:0,COSMORADIO 95,1
+http://cosmoradio.gr/stream1
 #EXTINF:0,METROPOLIS 95.5
 https://metromedia.live24.gr/metropolis955thess
 #EXTINF:0,FRESH SALAD 96.1
 http://178.33.135.246:5262/stream
 #EXTINF:0,NORTH 98
 http://netradio.live24.gr/north98thess
-#EXTINF:0,RADIO 1 99.0
-https://embedded.rcast.net/stream/63731.mp3
+#EXTINF:0,PANORAMA FM 98,4
+http://netradio.live24.gr/panorama984
+#EXTINF:0,99FM RADIO1
+http://62.212.82.208:8000/stream
 #EXTINF:0,FLASH 99,4
 http://207.154.248.204:8009/stream
 #EXTINF:0,EKRIXI FM  99.8
@@ -135,12 +163,18 @@ http://realfmthess.live24.gr/realthess
 https://metromedia.live24.gr/tranzistor1003thess
 #EXTINF:0,FM 100
 https://live.fm100.gr/shoutcast/fm100
-#EXTINF:0,STO KOKKINO THESS 91.4
-http://stream.radiojar.com/275p8ssmb
+#EXTINF:0,FLY 104
+https://eu9.fastcast4u.com/proxy/nicper00?mp=/1
+#EXTINF:0,MORE 103
+http://eco.onestreaming.com:8041/
+#EXTINF:0,SHOOK 104,4
+http://s1.onweb.gr:8812/
+#EXTINF:0,XROMA FM 105,8
+http://hroma1058thess.live24.gr/hroma1058thess
+#EXTINF:0,LOVE FM 106,5
+http://server.insms.gr:45104/;stream
 #EXTINF:0,REPUBLIC RADIO
 http://s10.voscast.com:9878/;
-#EXTINF:0,RSO 91.7
-http://tachyon.shoutca.st:8594/;
 ------THRAKI-----
 #EXTINF:0, HEAT RADIO 88.3 
 https://solid67.streamupsolutions.com/proxy/qrynsxmv?mp=/stream?ver=885720
