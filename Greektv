@@ -1,12 +1,1 @@
-#EXTINF:-1  tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
-http://www.anacon.org/app/chans/cy/capitalcy.html|webdown$$start=src: \"http://$$end=.m3u8$$replace1=src: \"$$add=.m3u8
-#EXTINF:-1  tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,Extra
-http://www.anacon.org/app/chans/cy/extracy.html|webdown$$start=src: \"http://$$end=.m3u8$$replace1=src: \"$$add=.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" alfa
-http://www.anacon.org/app/chans/cy/alphacy.php|webview zoom=100 scroll=0,400
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png" ,Action 24
-https://www.dailymotion.com/embed/video/x61fbhs?logo=0&hideInfos=1&related=0&autoplay=1|webdig
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BERGINA" tvg-logo="" ,ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ
-https://www.verginanews.gr/web-tv-2/|webdig
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR K.E." tvg-logo="https://www.digea.gr/images/channel-icons/STAR%20KENTIKHS%20ELLADAS.jpg" ,Star ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ
-https://www.dailymotion.com/embed/video/xqjey2?logo=0&hideInfos=1&related=0&autoplay=1|agentdesktopnodown$$start=https:\/\/www.dailymotion.com\/cdn$$end="}$$replace=\$$replacewith=$$add=
+
