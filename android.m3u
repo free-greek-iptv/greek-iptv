@@ -213,6 +213,8 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/TabBmOc.png",MARON TV
 https://vdo.streamhost.gr:3499/live/marontvlive.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/eOGdFgW.jpg",ELLADA TV
+https://castvideo.eu:3384/live/elladalive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DcleTdR.png",GREEK VOICE 
