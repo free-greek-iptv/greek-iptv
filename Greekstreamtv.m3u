@@ -231,6 +231,8 @@ https://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
 http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/TabBmOc.png",MARON TV
 https://vdo.streamhost.gr:3499/live/marontvlive.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/eOGdFgW.jpg",ELLADA TV
+https://castvideo.eu:3384/live/elladalive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
 http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
@@ -251,8 +253,6 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/T8mB6Kg.jpg",FAROS TV2
 https://s1.cystream.net/live/faros2/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tFBpbb1.png",NAXOS TV
-https://til.pp.ua:3713/live/naxostv2live.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/T0zL9ov.jpg",RADIO EPISTROFI
