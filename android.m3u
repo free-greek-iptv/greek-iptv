@@ -49,6 +49,8 @@ http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/xHdfbl6.jpg",BOOBA
 https://www.youtube.com/watch?v=sr-CPX8S2ts
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/slKtjnl.jpg",LOONEY TUNES TV
+https://www.youtube.com/watch?v=braVWtZNnsc
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ert.ertworld.gr" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
