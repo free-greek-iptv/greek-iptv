@@ -37,8 +37,6 @@ https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 https://vdo.alphaserver.gr:3203/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/RwETfPc.jpg",BANANA TV
 https://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/B7YOyLN.jpg",MPAXALO TV
-https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Dj7YFhH.png",LIVE TV
 https://vod.streams.ovh:3829/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg",34100 TV
