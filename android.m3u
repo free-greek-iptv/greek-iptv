@@ -131,7 +131,7 @@ http://s1.netmax-host.eu:8085/topchannel/topchannel/playlist.m3u8
 http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.arttv.gr" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV
 http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.syrostv1.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54780449/TV1_SYROS.png",SYROS TV1
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.syrostv1.gr" tvg-logo="https://i.imgur.com/A9o9LcG.png",SYROS TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.diktyo.gr" tvg-logo="https://i.imgur.com/IH0xIoZ.png",DIKTYO TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
