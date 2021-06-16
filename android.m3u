@@ -259,3 +259,5 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/c8GhHIk.png",VOULI TV3
 https://antennaamd.akamaized.net/maktv_akamai/abr/playlist.m3u8?&hdnts=exp=1623882559~hmac=998f5c80150455fee8167f2f34a7eb60577271a2c968af205f35f6a3052a3d46
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/c8GhHIk.png",VOULI TV3
+https://antennaamd.akamaized.net/maktv_akamai/abr/maktvprodabr/maktvprodstream_720p/hdntl=exp=1623947359~acl=%2f*~data=hdntl~hmac=e1cf80e139683bcaa2b23346812d302390cf05eb27b2646a9c24bea9755c2081/video.m3u8
