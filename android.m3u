@@ -9,7 +9,7 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mega.gr" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.ant1.gr" tvg-logo="https://i.imgur.com/0FaReP5.png",ANT1 HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.ant1.gr" tvg-logo="https://i.imgur.com/0FaReP5.png",ANT1 HD (ONLY GREECE VLC PLAYER)
 https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.alpha.gr" tvg-logo="https://i.imgur.com/BorjM6s.png",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
@@ -257,7 +257,4 @@ https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/c8GhHIk.png",VOULI TV3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/c8GhHIk.png",VOULI TV3
-https://antennaamd.akamaized.net/maktv_akamai/abr/playlist.m3u8?&hdnts=exp=1623882559~hmac=998f5c80150455fee8167f2f34a7eb60577271a2c968af205f35f6a3052a3d46
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/c8GhHIk.png",VOULI TV3
-https://antennaamd.akamaized.net/maktv_akamai/abr/maktvprodabr/maktvprodstream_720p/hdntl=exp=1623947359~acl=%2f*~data=hdntl~hmac=e1cf80e139683bcaa2b23346812d302390cf05eb27b2646a9c24bea9755c2081/video.m3u8
+
