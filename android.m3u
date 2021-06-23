@@ -16,7 +16,7 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.star.gr" tvg-logo="https://i.imgur.com/TflwSlK.png",STAR HD 
 http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
-http://skai-live.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8
+http://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mtv.gr" tvg-logo="https://i.imgur.com/dh22Dj8.png",M.TV (ONLY GREECE VLC PLAYER)
