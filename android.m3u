@@ -23,7 +23,7 @@ https://vdo.alphaserver.gr:3587/hybrid/play.m3u8
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/FKJ6N9p.png",GREEK CINEMA
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/FKJ6N9p.png",GREEK CINEMA HD
 https://vdo.alphaserver.gr:3613/hybrid/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png",GALAXY GR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
