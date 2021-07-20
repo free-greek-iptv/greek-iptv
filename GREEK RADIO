@@ -893,6 +893,8 @@ http://188.165.248.218:8011/;
 http://cast.streams.ovh:9177/live?1494329758071
 #EXTINF:0,PROINI FM KAVALA 93.7
 http://62.103.31.151:8000/stream
+#EXTINF:0,LYDIA FM 94.2
+http://eu1.radiolydia.com:1086/stream
 #EXTINF:0,AKROAMA SERRES 94.6
 http://s1.onweb.gr:8066/
 #EXTINF:0,ALPHA FM KASTORIA 94.7
@@ -973,6 +975,8 @@ http://radio.streamings.gr:8043/stream?1546865665943
 http://radio.streamings.gr:8003/stream
 #EXTINF:0,VIVA GR KOZANI 102.8
 http://s17.myradiostream.com:8714/;listen.pls
+EXTINF:0,KAVALA NEWS 102.8
+https://sp3.streams.ovh/8052/stream
 #EXTINF:0,RADIO CITY PIERIA 102.8
 http://i2.streams.ovh:7050/live
 #EXTINF:0,PALMOS FM KAVALA 103.2
