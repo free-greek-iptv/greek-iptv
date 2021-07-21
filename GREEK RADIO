@@ -917,10 +917,16 @@ http://eco.onestreaming.com:8209/stream
 #EXTINF:0,YDPOGEIOS 106.9
 http://netradio.live24.gr/ydrogeios1069her
 -----KYKLADES-----
+#EXTINF:0,RADIO ACTIVE 91.3
+https://streamyourdream.org:8050/radioactive
 #EXTINF:0,PRISMA FM 91.8
 http://eco.onestreaming.com:8414/stream
+#EXTINF:0,ASTERAS RADIO 92
+https://cast4.magicstreams.gr:12108/;
 #EXTINF:0,PARONAXIA 92.3
 http://live.onweb.gr:8212/;
+#EXTINF:0,GALAXIAS 93 FM
+http://netradio.live24.gr/galaxias93-mykonos
 #EXTINF:0,APOSPERITIS 94.5
 http://eco.onestreaming.com:8600/stream
 #EXTINF:0,AEGEAN LIVE 95.8
@@ -1011,6 +1017,8 @@ http://i4.streams.ovh:8078/
 http://eco.onestreaming.com:8548/stream
 #EXTINF:0,POWER FM KATERINI 90.2
 http://eco.onestreaming.com:8031/stream
+#EXTINF:0,ENA RADIO 90.5
+http://49.12.0.48:8000/;
 #EXTINF:0,RADIO NEAPOLIS KAVALA 90.8
 http://185.141.60.78:9300/stream
 #EXTINF:0,DHMOTIKO RADIO POLYGYROY 90.8
@@ -1127,6 +1135,8 @@ http://s3.onweb.gr:8814/;
 http://el1.info:9652/;listen.pls
 #EXTINF:0,OLYMPOS FM 101.5
 http://streamer.stordia.de:9041/live
+#EXTINF:0,RADIO GREVENA 101.5
+http://s36.myradiostream.com:8614/;
 #EXTINF:0,LOBBY FM 101.8
 https://neos.win:59480/stream
 #EXTINF:0,RADIO MELODIA KOZANI 102.4
@@ -1143,6 +1153,8 @@ http://s17.myradiostream.com:8714/;listen.pls
 http://i2.streams.ovh:7050/live
 #EXTINF:0,PALMOS FM KAVALA 103.2
 http://netradio.live24.gr:80/palmos1032
+#EXTINF:0,PELLA FM 103.3
+https://i7.streams.ovh/sc/pellafm/stream
 #EXTINF:0,RADIO MANOS 103.4
 http://i5.streams.ovh:14123/live
 #EXTINF:0,COSMOS KATERINI 103.8
