@@ -846,8 +846,12 @@ https://stream.radiojar.com/2rsrhmepefq.mp3
 http://radiostreaming.ert.gr/ert-rodos
 #EXTINF:0,RODOS FM 90.7
 http://i.streams.ovh:9327/stream
+#EXTINF:0,RADIO LYXNARI 91.4
+http://eco.onestreaming.com:8037/;
 #EXTINF:0,NOTOS NEWS 97.8
 http://i.streams.ovh:9331/stream
+#EXTINF:0,PALMOS 99.5
+http://netradio.live24.gr/palmos995-rho
 #EXTINF:0,BEST FM 103.1
 http://159.69.75.8:9990/;
 #EXTINF:0,MELODIA RODOY 103.7
