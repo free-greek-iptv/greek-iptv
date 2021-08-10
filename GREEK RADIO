@@ -129,6 +129,8 @@ https://cast5.magicstreams.gr/sc/vfm/stream
 http://stream.radiojar.com/275p8ssmb
 #EXTINF:0,RSO 91.7
 http://tachyon.shoutca.st:8594/;
+#EXTINF:0,KARAMELA 92.4
+http://sc.greekstream.net:4014/
 #EXTINF:0,BLE 93.1
 http://radio.lancom.gr:8012/stream1
 #EXTINF:0,MYTHOS FM 93.4
@@ -165,6 +167,8 @@ https://live.fm100.gr/shoutcast/fm100
 https://metromedia.live24.gr/tranzistor1003thess
 #EXTINF:0,YELLOW RADIO 101.7
 https://ice.greekstream.net/yellow
+#EXTINF:0,RADIO AKRITES 102.3
+http://akritespontou.live24.gr/akritespontou
 #EXTINF:0,PLUS RADIO 102.6
 http://eco.onestreaming.com:8039/stream
 #EXTINF:0,MORE 103
@@ -177,6 +181,8 @@ https://eu9.fastcast4u.com/proxy/nicper00?mp=/1
 http://s1.onweb.gr:8812/
 #EXTINF:0,ROCK RADIO 104.7
 http://188.165.248.218:8004/;
+#EXTINF:0,PRAKTOREIO 104.9
+http://s3.onweb.gr:8436/
 #EXTINF:0,ROCK THESS 105.5
 http://radio.1055rock.gr:30000/;
 #EXTINF:0,XROMA FM 105,8
@@ -185,6 +191,8 @@ http://hroma1058thess.live24.gr/hroma1058thess
 http://radio.lancom.gr:8012/stream5
 #EXTINF:0,LOVE FM 106,5
 http://server.insms.gr:45104/;stream
+#EXTINF:0,ORTHODOXI PAROUSIA 106,8
+http://www.gwebstream.net:8000/stream
 #EXTINF:0,REAL FM THESS 107.1
 http://realfmthess.live24.gr/realthess
 #EXTINF:0,STATUS FM 107.7
@@ -1206,6 +1214,10 @@ https://rdst.win:48788/
 https://solid1.streamupsolutions.com/proxy/zizthduh?mp=/=stream
 #EXTINF:0,ZIMBO RADIO
 https://s2.e-resellers.gr:18134/stream
+#EXTINF:0,XSCAPE RADIO
+http://azura.streams.ovh/radio/8100/radio.mp3
+#EXTINF:0,RADIO1D
+http://www.radio1d.gr:8001/winamp
 -----ABROAD GREEK SPEAKING-----
 #EXTINF:0,ΕΛΛΗΝΙΚΟΣ FM
 https://eu1.fastcast4u.com/proxy/ellinikosfm?mp=/live
