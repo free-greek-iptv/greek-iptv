@@ -105,15 +105,15 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 https://til.pp.ua:3424/live/superblive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.besttv.gr" tvg-logo="https://i.imgur.com/sf4Twdk.png",BEST TV
 https://s.best-tv.gr/HLS/hls/best/1_2/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.starttv.gr" tvg-logo="https://i.imgur.com/sT9qcTU.png",START TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.starttv.gr" tvg-logo="https://i.imgur.com/wPw9Qzd.png",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.enachannel.gr" tvg-logo="https://i.imgur.com/jIgSGy0.png",ENA CHANNEL
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.enachannel.gr" tvg-logo="https://i.imgur.com/Pu8TugK.png",ENA CHANNEL
 http://176.9.123.140:1935/1c/stream/master.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.deltatv.gr" tvg-logo="https://i.imgur.com/LwhvzCI.png",DELTA TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.deltatv.gr" tvg-logo="https://i.imgur.com/InMKPny.png",DELTA TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.thrakinet.gr" tvg-logo="https://i.imgur.com/E0vmR63.png",THRAKINET
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.thrakinet.gr" tvg-logo="https://i.imgur.com/zkTohBm.png",THRAKINET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.tvrodopi.gr" tvg-logo="https://i.imgur.com/8KhR0zg.png",TV RODOPI
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.tvrodopi.gr" tvg-logo="https://i.imgur.com/tta5oFX.png",TV RODOPI
 https://video.connect4.gr/live/tvrodopi/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.axelwostv.gr" tvg-logo="https://i.imgur.com/cASilTD.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
@@ -249,8 +249,8 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5_3Mbps.
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/c8GhHIk.png",VOULI TV2
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI TV2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/c8GhHIk.png",VOULI TV3
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI TV3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
 
