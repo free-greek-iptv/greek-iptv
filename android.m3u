@@ -17,7 +17,7 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.skai.gr" tvg-logo="https://i.imgur.com/BXmta4G.png",SKAI HD 
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/XPhNRR2.png",OPEN TV HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/jssXlNO.png",SUPER CHANNEL
 https://vdo.alphaserver.gr:3587/hybrid/play.m3u8
@@ -25,7 +25,7 @@ https://vdo.alphaserver.gr:3587/hybrid/play.m3u8
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/K6Glpip.png",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/K6Glpip.png",GREEK CINEMA HD
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/v7BE0t2.png",GREEK CINE
 https://vdo.alphaserver.gr:3613/hybrid/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
@@ -45,17 +45,17 @@ http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/xHdfbl6.jpg",BOOBA
 https://www.youtube.com/watch?v=sr-CPX8S2ts
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/slKtjnl.jpg",LOONEY TUNES TV
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SJE7Gop.png",LOONEY TUNES TV
 https://www.youtube.com/watch?v=braVWtZNnsc
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PkCoTNY.png",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ert.ertworld.gr" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ert.ertworld.gr" tvg-logo="https://i.imgur.com/Jjds4h5.png",ERT WORLD 
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS 
 https://www.youtube.com/watch?v=-UJlcdni8cM
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/c8GhHIk.png",VOULI 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="https://i.imgur.com/5xnxYJX.png",RIK SAT CY
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="https://i.imgur.com/V4pAPIA.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/uAIsqsP.png",SIGMA CY
 https://sl2.sigmatv.com/hls/live.m3u8
