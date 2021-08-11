@@ -77,21 +77,17 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 https://s1.cystream.net/live/tvmall/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/ts4qd1U.png",ONE TV HD
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.art.gr" tvg-logo="https://i.imgur.com/BkmYpN2.png",ART
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.art.gr" tvg-logo="https://i.imgur.com/N0Y2urG.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.kontra.gr" tvg-logo="https://i.imgur.com/OyRQlpd.png",KONTRA
-http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.hightv.gr"tvg-logo="https://i.imgur.com/HfDfByW.png",HIGH TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.kontra.gr" tvg-logo="https://i.imgur.com/6woXJdd.png",KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.hightv.gr"tvg-logo="https://i.imgur.com/vDcy0RR.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.alert.gr" tvg-logo="https://i.imgur.com/oeIE2x9.png",ALERT
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.alert.gr" tvg-logo="https://i.imgur.com/2kVsZlv.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="AE TV" tvg-logo="https://i.imgur.com/M2sgTkS.png",EPSILON TV
-https://edge1.mystream.gr/video417338/live/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Extra Greece" tvg-logo="https://i.imgur.com/v9tPr4k.jpg",EXTRA CHANNEL
-https://edge1.mystream.gr/video434018/live/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.channel9.gr" tvg-logo="https://i.imgur.com/H6s5t1z.jpg",CHANNEL 9 
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.channel9.gr" tvg-logo="https://i.imgur.com/6geEIHz.png",CHANNEL 9 
 https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.atticatv.gr" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.atticatv.gr" tvg-logo="https://i.imgur.com/2UEsTok.png",ATTICA TV
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="digea.lydiatv.gr" tvg-logo="https://i.imgur.com/1refro7.png",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
