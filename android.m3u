@@ -185,7 +185,7 @@ https://vdo.alphaserver.gr:3305/hybrid/play.m3u8
 https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/l4Krcyk.png",PLAY TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/y3pUxXe.png",MESSATIDA TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/XPn3yZ7.png",MESSATIDA TV
 https://vod.streams.ovh:3037/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/cdT9deo.jpg",XALASTRA TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
