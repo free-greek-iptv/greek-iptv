@@ -33,8 +33,6 @@ http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/X6rnHne.png",ERTA LEX TV
 https://vdo.alphaserver.gr:3824/hybrid/play.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/RwETfPc.jpg",BANANA TV
-https://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/IjfSTmx.png",LIVE TV
 https://vod.streams.ovh:3829/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Ha7CGQX.png",34100 TV
@@ -243,20 +241,7 @@ https://livetv.streams.ovh:1936/argolidatv/argolidatv/playlist.m3u8
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2_3Mbps.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 3
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3_3Mbps.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 4
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 5
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5_3Mbps.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5fBKnSx.png",ERT NEWS
-http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI TV2
-https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI TV3
-https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
+
 
