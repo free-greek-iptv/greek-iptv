@@ -133,8 +133,6 @@ https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CORFU TV" tvg-logo="https://i.imgur.com/HME7kNk.png",CORFU CHANNEL
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ORT" tvg-logo="https://i.imgur.com/0wdqOZL.png",ORT TV
-https://vdo.streamhost.gr:3077/live/orttvlive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.tileepiloges.gr" tvg-logo="https://i.imgur.com/SWQ3eLB.png",TILE EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.pella.gr" tvg-logo="https://i.imgur.com/MtfTsvf.png",PELLA TV
