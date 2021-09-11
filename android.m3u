@@ -37,10 +37,6 @@ https://vod.streams.ovh:3829/stream/play.m3u8
 https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/8coUyPX.png",MAROUSSIOTIKA TV
 http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/8u7mJ3Y.png",TOM & JERRY
-http://195.230.19.213:8004/play/a02x
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/x339ozR.png",MR BEAN
-http://195.230.19.213:8004/play/a02w
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/xHdfbl6.jpg",BOOBA
 https://www.youtube.com/watch?v=sr-CPX8S2ts
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SJE7Gop.png",LOONEY TUNES TV
