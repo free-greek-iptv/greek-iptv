@@ -81,6 +81,8 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.channel9.gr" tvg-logo="https://i.imgur.com/6geEIHz.png",CHANNEL 9 
 https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Extra Greece" tvg-logo="https://i.imgur.com/v9tPr4k.jpg",EXTRA CHANNEL
+https://edge1.mystream.gr/video434018/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.atticatv.gr" tvg-logo="https://i.imgur.com/2UEsTok.png",ATTICA TV
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="digea.lydiatv.gr" tvg-logo="https://i.imgur.com/6IhEVAt.png",4E
@@ -111,6 +113,8 @@ https://odb.streamhost.gr:3337/live/tvrodopilive.m3u8
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.trt.gr" tvg-logo="https://i.imgur.com/7HkMP0U.png",TRT TV
 https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.lepanto.gr" tvg-logo="https://i.imgur.com/Ok3MCuT.png",LEPANTO 
+https://video1.getstreamhosting.com:1936/8234/8234/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.mesogeiostv.gr" tvg-logo="https://i.imgur.com/GRVuuem.png",MESOGEIOS TV
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.epirustv1.gr" tvg-logo="https://i.imgur.com/MaMJO96.png",EPIRUS TV1
@@ -143,6 +147,8 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.iridatv.gr" tvg-logo="https://i.imgur.com/XY58h94.png",IRIDA TV
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS.gr" tvg-logo="https://i.imgur.com/PazW9yz.png",LYCHNOS
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="digea.madtv.gr" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
 https://www.youtube.com/watch?v=Zs5qqK6nZ7U
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
