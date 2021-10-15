@@ -131,6 +131,8 @@ http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
 https://odb.streamhost.gr:3454/live/syrostv1live.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.diktyo.gr" tvg-logo="https://i.imgur.com/oApa2e1.png",DIKTYO TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.starttv.gr" tvg-logo="https://i.imgur.com/wPw9Qzd.png",START TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.plp.gr" tvg-logo="https://i.imgur.com/iN9EG4c.png",PLP
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CORFU TV" tvg-logo="https://i.imgur.com/HME7kNk.png",CORFU CHANNEL
