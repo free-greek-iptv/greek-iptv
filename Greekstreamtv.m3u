@@ -283,6 +283,8 @@ http://127.0.0.1:88/https://www.twitch.tv/etvhellas
 http://127.0.0.1:88/https://www.twitch.tv/astratv2019
 #EXTINF:5710 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",CENTER TV
 http://127.0.0.1:88/https://www.twitch.tv/centertv
+#EXTINF:5955 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",THESSALIA TV
+http://127.0.0.1:88/https://www.twitch.tv/thessaliatv
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",IONIA TV
 http://127.0.0.1:88/https://www.twitch.tv/tvioniathessalonikis
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",FIGARO
