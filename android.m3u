@@ -75,6 +75,8 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Extra Greece" tvg-logo="https://i.imgur.com/ZvAMASc.png",EXTRA CHANNEL
 https://edge1.mystream.gr/video434018/live/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="AE TV" tvg-logo="https://i.imgur.com/M2sgTkS.png",EPSILON TV
+https://edge1.mystream.gr/video427009/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.atticatv.gr" tvg-logo="https://i.imgur.com/2UEsTok.png",ATTICA TV
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="digea.lydiatv.gr" tvg-logo="https://i.imgur.com/6IhEVAt.png",4E
@@ -116,7 +118,7 @@ http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.arttv.gr" tvg-logo="https://i.imgur.com/2UHdKw6.png",ART TV
 http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.syrostv1.gr" tvg-logo="https://i.imgur.com/A9o9LcG.png",SYROS TV1
-https://odb.streamhost.gr:3454/live/syrostv1live.m3u8
+http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.diktyo.gr" tvg-logo="https://i.imgur.com/oApa2e1.png",DIKTYO TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.starttv.gr" tvg-logo="https://i.imgur.com/wPw9Qzd.png",START TV
