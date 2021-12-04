@@ -54,7 +54,7 @@ https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Extra Cyprus" tvg-logo="https://i.imgur.com/Vq4YBIA.png",ALFA SPORT CY
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/CkrBuwm.png",DIGITAL TV CY
-https://am3.cloudskep.com/digital/dtv/l8/ktv2/chunks.m3u8?nimblesessionid=26139857&organizationId=128130034&suiteItemId=128132818
+https://am4.cloudskep.com/digital/dtv/l8/ktv2/chunks.m3u8?nimblesessionid=49519778&organizationId=128130034&suiteItemId=128132818
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/Jo6jIP1.jpg",CITY CHANNEL
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/rIt5pfv.png",VOULI TV CY
