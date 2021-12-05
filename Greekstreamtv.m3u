@@ -190,7 +190,7 @@ http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ZBIyCAl.png",MY RADIO TV
 https://vdo.alphaserver.gr:3305/hybrid/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/PoVImve.png",RED MUSIC
-https://live.streams.ovh:443/redmusic/redmusic/playlist.m3u8
+https://s2.netmax-host.eu:2053/redlive/redlive/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/8YzoXFJ.png",PLAY TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/cdT9deo.jpg",XALASTRA TV
