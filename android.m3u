@@ -97,6 +97,8 @@ http://176.9.123.140:1935/1c/stream/master.m3u8
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.thrakinet.gr" tvg-logo="https://i.imgur.com/zkTohBm.png",THRAKINET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.tvrodopi.gr" tvg-logo="https://i.imgur.com/tta5oFX.png",TV RODOPI
+https://stream.castr.com/5ee9fe7c32483d2b26fa2c75/live_8e981e4052a811ec84c93746b0fa0734/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.axelwostv.gr" tvg-logo="https://i.imgur.com/FmUun0P.png",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/Tpg4F8T.png",SUPER B
