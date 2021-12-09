@@ -281,12 +281,6 @@ http://127.0.0.1:88/https://www.twitch.tv/thessaliatv
 http://127.0.0.1:88/https://www.twitch.tv/tvioniathessalonikis
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ALEXANDER TV
 http://127.0.0.1:88/https://www.twitch.tv/alexanderwebtv
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 
-http://31.177.62.174:8000/play/s129
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 
-http://31.177.62.174:8000/play/s132
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 
-http://31.177.62.174:8000/play/s126
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA 
 http://31.177.62.174:8003/play/s119
 #EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1 Greece" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 
