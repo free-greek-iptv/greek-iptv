@@ -124,7 +124,7 @@ http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:7050 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="IPIROSTV.gr" tvg-logo="http://greektv.pbworks.com/f/EPIRUS_TV1.png",EPIRUS TV1
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 #EXTINF:6050 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TOP CHANNEL" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png",TOP CHANNEL
-https://s2.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
+http://s2.netmax-host.eu:5062/topchannel/topchannel/playlist.m3u8
 #EXTINF:5700 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ALFA.gr" tvg-logo="https://i.imgur.com/39l3uRU.jpg",ALFA DRAMAS
 http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 #EXTINF:7000 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV
@@ -155,6 +155,8 @@ https://til.pp.ua:3424/live/superblive.m3u8
 https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
 #EXTINF:5030 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.lepanto.gr" tvg-logo="https://i.imgur.com/8qLqTaK.jpg",LEPANTO 
 http://127.0.0.1:88/https://www.twitch.tv/lepantotv
+#EXTINF:5038 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ORT" tvg-logo="https://i.imgur.com/0wdqOZL.png",ORT TV
+http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 #EXTINF:5100 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.etv.gr" tvg-logo="https://i.imgur.com/WQiBFmo.png",ETV
 https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 #EXTINF:5048 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
@@ -173,6 +175,8 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg",PANIK TV
 https://panik.cast-control.eu:1936/paniktvweb/paniktvweb/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/PoVImve.png",RED MUSIC
+http://s2.netmax-host.eu:5062/redlive/redlive/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hzaXhNV.png",NG TV
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/bGIdE9N.png",CANNALI TV HD
