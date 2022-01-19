@@ -159,6 +159,8 @@ http://127.0.0.1:88/https://www.twitch.tv/lepantotv
 http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 #EXTINF:5100 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.etv.gr" tvg-logo="https://i.imgur.com/WQiBFmo.png",ETV
 https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
+#EXTINF:5780 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.etv.gr" tvg-logo="",ED TV
+https://webtv.topwebhosting.gr:3856/live/stelioslive.m3u8
 #EXTINF:5048 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
@@ -241,6 +243,10 @@ https://livetv.streams.ovh:1936/argolidatv/argolidatv/playlist.m3u8
 https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",MILOS TV
+https://til.pp.ua:3498/live/fotoramalive.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",AKTINA TV
+https://5e8dfce185af1.streamlock.net:443/AktinaWebTv/AktinaWebTv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/T0zL9ov.jpg",RADIO EPISTROFI
@@ -277,6 +283,8 @@ http://127.0.0.1:88/https://www.twitch.tv/alexanderwebtv
 http://127.0.0.1:88/https://www.twitch.tv/konitsaplustv
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",XTV
 http://127.0.0.1:88/https://www.twitch.tv/xtvision
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",NEW BREAK
+http://127.0.0.1:88/https://www.twitch.tv/newsbreakgr
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA 
 http://31.177.62.174:8003/play/s119
 #EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1 Greece" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 
