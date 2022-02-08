@@ -30,9 +30,13 @@ https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="cyta.smiletv.cy" tvg-logo="https://i.imgur.com/gRbdn9n.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/xHdfbl6.jpg",BOOBA
-https://www.youtube.com/watch?v=yc6EpskO9rY
+https://www.youtube.com/watch?v=zaGohagkcqY
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SJE7Gop.png",LOONEY TUNES TV
+https://www.youtube.com/watch?v=xKDaDXRSzoM
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SJE7Gop.png",CARTOON TV
 https://www.youtube.com/watch?v=Wdqu51Bc0MM
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SJE7Gop.png",CARTOON TV2
+https://www.youtube.com/watch?v=IKGj8sEu8hE
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PkCoTNY.png",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ert.ertworld.gr" tvg-logo="https://i.imgur.com/Jjds4h5.png",ERT WORLD 
