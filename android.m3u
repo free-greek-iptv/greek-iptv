@@ -112,7 +112,7 @@ https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.mesogeiostv.gr" tvg-logo="https://i.imgur.com/GRVuuem.png",MESOGEIOS TV
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.epirustv1.gr" tvg-logo="https://i.imgur.com/MaMJO96.png",EPIRUS TV1
-http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+https://til.pp.ua:3928/multi_live/play_src.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TOP CHANNEL" tvg-logo="https://i.imgur.com/x1yvGGh.png",TOP CHANNEL
 http://s2.netmax-host.eu:5062/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.alfa.gr" tvg-logo="https://i.imgur.com/HeqjCJC.png",ALFA 
