@@ -40,7 +40,7 @@ https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/xHdfbl6.jpg",BOOBA
-https://www.youtube.com/watch?v=yc6EpskO9rY
+https://www.youtube.com/watch?v=zaGohagkcqY
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SJE7Gop.png",LOONEY TUNES TV
 https://www.youtube.com/watch?v=xKDaDXRSzoM
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
@@ -49,6 +49,10 @@ http://wpso.com:1936/hls/kidshd.m3u8
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:171 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
 https://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS BUP
+https://euronews-el-p28-cdn.hexaglobe.net/3406128a5f11d559ba49ed626c4e7ca8/62023220/euronews/euronews-euronews-website-web-responsive-2/ewnsabrel_gre.smil/ewnsabrel_gre_576p.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS BUP 2
+https://www.youtube.com/watch?v=-UJlcdni8cM
 #EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
@@ -211,8 +215,6 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3_3Mbps.
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ujTPC3J.jpg",ERT NEWS
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/aYgRkkB.jpg",AKRITAS TV HD
-http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/TabBmOc.png",MARON TV
 https://vdo.streamhost.gr:3499/live/marontvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
