@@ -49,9 +49,7 @@ http://wpso.com:1936/hls/kidshd.m3u8
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:171 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
 https://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS BUP
-https://euronews-el-p28-cdn.hexaglobe.net/3406128a5f11d559ba49ed626c4e7ca8/62023220/euronews/euronews-euronews-website-web-responsive-2/ewnsabrel_gre.smil/ewnsabrel_gre_576p.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS BUP 2
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS BUP 
 https://www.youtube.com/watch?v=-UJlcdni8cM
 #EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -161,8 +159,6 @@ http://127.0.0.1:88/https://www.twitch.tv/lepantotv
 http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 #EXTINF:5100 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.etv.gr" tvg-logo="https://i.imgur.com/WQiBFmo.png",ETV
 https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
-#EXTINF:5780 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.etv.gr" tvg-logo="",ED TV
-https://webtv.topwebhosting.gr:3856/live/stelioslive.m3u8
 #EXTINF:5048 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
@@ -215,8 +211,6 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3_3Mbps.
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ujTPC3J.jpg",ERT NEWS
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/TabBmOc.png",MARON TV
-https://vdo.streamhost.gr:3499/live/marontvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
 http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
@@ -277,8 +271,6 @@ http://127.0.0.1:88/https://www.twitch.tv/alexanderwebtv
 http://127.0.0.1:88/https://www.twitch.tv/konitsaplustv
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",XTV
 http://127.0.0.1:88/https://www.twitch.tv/xtvision
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",HB TV
-http://127.0.0.1:88/https://www.twitch.tv/hellenicbroadcast
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA 
 http://31.177.62.174:8003/play/s119
 #EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1 Greece" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 
