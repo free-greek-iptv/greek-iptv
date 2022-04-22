@@ -150,7 +150,7 @@ http://radio.lancom.gr:8012/stream1
 #EXTINF:0,MYTHOS FM 93.4
 http://s2.free-shoutcast.com:18560/;
 #EXTINF:0,GNOMI FM 93.7
-http://sc2.greekstream.net:4040/;
+https://ice.greekstream.net/gnomi
 #EXTINF:0,ΡΑΔΙΟ ΘΕΣΣΑΛΟΝΙΚΗ 94,5
 http://eu7.fastcast4u.com:6156/stream?type=http&nocache=136596
 #EXTINF:0,EROTIKOS 94.8
@@ -177,6 +177,8 @@ http://62.212.82.208:8000/stream
 http://207.154.248.204:8009/stream
 #EXTINF:0,EKRIXI FM 99.8
 http://ice.greekstream.net/ekrixifm
+#EXTINF:0,RADIO CHALKIDIKI 98.8
+http://ice.greekstream.net/988
 #EXTINF:0,FM 100
 https://live.fm100.gr/shoutcast/fm100
 #EXTINF:0,TRANZISTOR 100.3
