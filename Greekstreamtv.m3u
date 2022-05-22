@@ -251,6 +251,8 @@ http://127.0.0.1:88/https://www.twitch.tv/tvstarfm
 http://127.0.0.1:88/https://www.twitch.tv/flashtvgr
 #EXTINF:5950 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",ASTRA TV
 http://127.0.0.1:88/https://www.twitch.tv/astratv2019
+#EXTINF:5710 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",CINEMA TIME TV
+http://127.0.0.1:88/https://www.twitch.tv/cinematimetv
 #EXTINF:5710 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",CENTER TV
 http://127.0.0.1:88/https://www.twitch.tv/centertv
 #EXTINF:5955 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",THESSALIA TV
