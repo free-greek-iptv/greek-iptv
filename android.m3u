@@ -226,7 +226,7 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ujTPC3J.jpg",ERT NEWS
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
+https://ertsports-live.ert.insyscd.net/out/v1/db0b54e8d25a47dcb336cf114c4d1860/ertsports-live_1.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 2
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
