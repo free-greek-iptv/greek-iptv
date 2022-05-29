@@ -277,4 +277,28 @@ http://31.177.62.174:8003/play/s118
 http://31.177.62.174:8003/play/s122
 #EXTINF:400 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mtv.gr" tvg-logo="https://i.imgur.com/dh22Dj8.png",M.TV
 http://31.177.62.174:8003/play/s121
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=",RIK 1
+http://185.230.112.4:10050/play/a013
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=",RIK 2
+http://185.230.112.4:10050/play/a014
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=",RIK HD
+http://185.230.112.4:10050/play/a00x
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=",ALPHA CY
+http://185.230.112.4:10050/play/a00m
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=",ANT1 CY
+http://185.230.112.4:10050/play/a00o
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=",CAPITAL CY
+http://185.230.112.4:10050/play/a00t
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=",PLUS TV CY
+http://185.230.112.4:10050/play/a00r
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=",OMEGA CY
+http://185.230.112.4:10050/play/a00p
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo=",EXTRA CY
+http://185.230.112.4:10050/play/a00s
+
+
+
+
+
+
 
