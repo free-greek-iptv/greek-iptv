@@ -277,6 +277,8 @@ http://127.0.0.1:88/https://www.twitch.tv/tvioniathessalonikis
 http://127.0.0.1:88/https://www.twitch.tv/alexanderwebtv
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",KONITSA TV
 http://127.0.0.1:88/https://www.twitch.tv/konitsaplustv
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",E-BAND
+http://127.0.0.1:88/hhttps://www.twitch.tv/ebandgr
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",XTV
 http://127.0.0.1:88/https://www.twitch.tv/xtvision
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA 
