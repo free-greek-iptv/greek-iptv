@@ -131,6 +131,8 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:5012 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΗΛΕΚΤΡΑ" tvg-logo="https://i.imgur.com/SI8Ny3X.png",HLEKTRA TV
 http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.tvm.gr" tvg-logo="https://i.imgur.com/1XeMRlc.png",AEOLOS TV
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:7160 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="IRIDA TV" tvg-logo="https://i.imgur.com/gn5sdCt.png",IRIDA TV
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:5044 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B
