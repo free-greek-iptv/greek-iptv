@@ -115,6 +115,8 @@ https://til.pp.ua:3424/live/superblive.m3u8
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.tileepiloges.gr" tvg-logo="https://i.imgur.com/SWQ3eLB.png",TILE EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.europeone.gr" tvg-logo="https://i.imgur.com/scm4nuf.png",EUROPE ONE
+https://s2.netmax-host.eu:2053/europeone/europeone/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.pella.gr" tvg-logo="https://i.imgur.com/MtfTsvf.png",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.egnatia.gr" tvg-logo="https://i.imgur.com/8SFErsS.png",EGNATIA TV
