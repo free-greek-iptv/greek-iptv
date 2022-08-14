@@ -12,6 +12,12 @@ http://radiostreaming.ert.gr/ert-erasport
 http://radiostreaming.ert.gr/ert-voiceofgreece
 #EXTINF:0,ERA KOSMOS
 http://radiostreaming.ert.gr/ert-kosmos
+#EXTINF:0,ERA KOSMOS JAZZ
+http://radiostreaming.ert.gr/ert-webjazz
+#EXTINF:0,ERA ZEPPELIN
+https://radiostreaming.ert.gr/ert-zeppelin
+#EXTINF:0,ERA 2 (DEFTERO) LAIKA
+http://radiostreaming.ert.gr/ert-talaika
 #EXTINF:0,KPHTH FM 87.5
 http://s3.onweb.gr:8878
 #EXTINF:0,En Lefko 877 radio
