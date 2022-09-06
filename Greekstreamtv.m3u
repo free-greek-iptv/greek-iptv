@@ -4,7 +4,7 @@ http://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-li
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert4/ert_ev4_main/mainabr/playlist.m3u8
 #EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
-http://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8
+https://ert3-live.ert.insyscd.net/out/v1/c92a3de0ec514ca08c1cd0443c6aa970/ert3-live.mpd
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww_4Mbps.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
