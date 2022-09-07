@@ -667,6 +667,8 @@ http://www.gointernet.gr:8012/;listen.pls
 http://netradio.live24.gr:80/agia
 #EXTINF:0,OK FM 94.5
 http://www.gointernet.gr:8034/;stream.mp3
+#EXTINF:0,RADIO THESSALIA 96.1
+http://webradio.northbridge.gr/proxy/thessaliafm/stream
 #EXTINF:0,RADIO MARCONI 96.1
 http://np1.nfs.gr:8000/
 #EXTINF:0,PARTY FM 97.1
