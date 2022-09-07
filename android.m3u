@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/slE8U5m.png",ERT1 HD
-http://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/o4BUdoL.png",ERT2 HD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert4/ert_ev4_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/rv4JLBO.png",ERT3 HD
-https://ert3-live.ert.insyscd.net/out/v1/c92a3de0ec514ca08c1cd0443c6aa970/ert3-live.mpd
+http://ert3-live.ert.insyscd.net/out/v1/c92a3de0ec514ca08c1cd0443c6aa970/ert3-live.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mega.gr" tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD
 https://streamcdnh3-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.alpha.gr" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=oX8vayzXgYw
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PkCoTNY.png",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ert.ertworld.gr" tvg-logo="https://i.imgur.com/Jjds4h5.png",ERT WORLD 
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert5/ert_ev5_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS 
 https://www.youtube.com/watch?v=-UJlcdni8cM
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI 
@@ -121,6 +121,8 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.europeone.gr" tvg-logo="https://i.imgur.com/scm4nuf.png",EUROPE ONE
 http://s2.netmax-host.eu:5062/europeone/europeone/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.gnomitv.gr" tvg-logo="https://i.imgur.com/EFTH3hP.jpg",GNOMI TV
+https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.pella.gr" tvg-logo="https://i.imgur.com/MtfTsvf.png",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.egnatia.gr" tvg-logo="https://i.imgur.com/8SFErsS.png",EGNATIA TV
@@ -214,9 +216,9 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ujTPC3J.jpg",ERT NEWS
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww_4Mbps.m3u8
+http://ertsports-live.ert.insyscd.net/out/v1/fc446b8d69ba43b0881025956ac79f75/ertsports-live.mpd
 #EXTINF:-1 group-title="WEB TV" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 2
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww_4Mbps.m3u8
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/manifest.mpd
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
 
