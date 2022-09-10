@@ -71,6 +71,8 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.channel9.gr" tvg-logo="https://i.imgur.com/6geEIHz.png",CHANNEL 9 
 https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.aechannel.gr" tvg-logo="https://i.imgur.com/Mc8OEAh.png",AE CHANNEL
+https://edge1.mystream.gr/video427009/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.atticatv.gr" tvg-logo="https://i.imgur.com/2UEsTok.png",ATTICA TV
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="digea.lydiatv.gr" tvg-logo="https://i.imgur.com/6IhEVAt.png",4E
