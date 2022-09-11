@@ -141,6 +141,8 @@ https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:5780 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.etv.gr" tvg-logo="",ED TV
 http://s2.netmax-host.eu:5062/tvd/tvd/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ORT" tvg-logo="https://i.imgur.com/0wdqOZL.png",ORT TV
+http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 #EXTINF:5922 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.plp.gr" tvg-logo="https://i.imgur.com/iN9EG4c.png",GNOMI TV
 https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 #EXTINF:5880 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.europeone.gr" tvg-logo="https://i.imgur.com/scm4nuf.png",EUROPE ONE
