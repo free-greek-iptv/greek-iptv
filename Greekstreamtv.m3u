@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:9 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist.m3u8
+http://ert1-live.ert.insyscd.net/out/v1/6370627d34c04383a7b3dfb5c53e7db9/ert1-live_1.m3u8
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert4/ert_ev4_main/mainabr/playlist.m3u8
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert4/ert_ev4_main/mainabr/ert_ev4_main/main_1080/chunks.m3u8
 #EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
-http://ert3-live.ert.insyscd.net/out/v1/c92a3de0ec514ca08c1cd0443c6aa970/ert3-live.mpd
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
 http://ertsports-live.ert.insyscd.net/out/v1/fc446b8d69ba43b0881025956ac79f75/ertsports-live.mpd
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
