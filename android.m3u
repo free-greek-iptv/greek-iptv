@@ -60,7 +60,7 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/ts4qd1U.png",ONE TV 
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKΙ TV
-https://www.youtube.com/watch?v=a2um2iS1xFQ
+https://www.youtube.com/watch?v=gp5JScbwXzk
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.art.gr" tvg-logo="https://i.imgur.com/N0Y2urG.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.kontra.gr" tvg-logo="https://i.imgur.com/6woXJdd.png",KONTRA
@@ -224,7 +224,7 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ujTPC3J.jpg",ERT NEWS
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 
-http://ertsports-live.ert.insyscd.net/out/v1/fc446b8d69ba43b0881025956ac79f75/ertsports-live.mpd
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert/main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 2
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/manifest.mpd
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
