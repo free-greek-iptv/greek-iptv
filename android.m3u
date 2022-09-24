@@ -195,6 +195,10 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 https://castvideo.eu:3384/live/elladalive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/sUbc38a.png",GRD CHANNEL
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/e4umCKP.jpg",DESTINATION GREECE TV
+https://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y0AhJTU.png",MGR TV TRAVEL
+https://livetv.streams.ovh:1936/mgrwebtv/mgrwebtv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/YhwbcwE.png",GREEK TV LONDON
@@ -213,8 +217,6 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y0AhJTU.png",MGR TV TRAVEL
-https://livetv.streams.ovh:1936/mgrwebtv/mgrwebtv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/2ymUgru.jpg",AVANTI TV
 https://www.youtube.com/channel/UCEjw3vWxIsFqa64wnd845zg/live
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
