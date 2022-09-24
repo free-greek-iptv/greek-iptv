@@ -31,6 +31,8 @@ https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg",34100 TV
 https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/9epayAc.jpg",DTV 6
+https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 #EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
@@ -148,7 +150,7 @@ http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 #EXTINF:5922 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.plp.gr" tvg-logo="https://i.imgur.com/iN9EG4c.png",GNOMI TV
 https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 #EXTINF:5965 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/KzMe2CX.jpg",FORMEDIA TV
-https://svs.itworkscdn.net/artecniko2live/logic.smil/playlist.m3u8
+https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
 #EXTINF:5048 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
 https://thor.mental-media.gr:19360/imp_abr/imp_abr_720p.m3u8  
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
@@ -190,7 +192,7 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6Yr0Axp.png",CHOICE
 https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/zPyXLZs.jpg",MGR TV
-https://vod.streams.ovh:3876/stream/play.m3u8
+https://vod.streams.ovh:3876/live/mgrtvlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/y3pUxXe.png",MESSATIDA TV
 https://vod.streams.ovh:3037/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/YhwbcwE.png",GREEK TV LONDON
@@ -201,6 +203,8 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/maina
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news_3Mbps.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
 http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y0AhJTU.png",MGR TV TRAVEL
+https://livetv.streams.ovh:1936/mgrwebtv/mgrwebtv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DcleTdR.png",GREEK VOICE 
