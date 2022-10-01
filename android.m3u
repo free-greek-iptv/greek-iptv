@@ -139,7 +139,7 @@ https://stream.sy3dud.com:5443/LiveApp/streams/929478179740925265301306.m3u8?tok
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ORT" tvg-logo="https://i.imgur.com/0wdqOZL.png",ORT TV
 http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="irida" tvg-logo="https://i.imgur.com/XY58h94.png",IRIDA TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="iridatv" tvg-logo="https://i.imgur.com/XY58h94.png",IRIDA TV
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.etv.gr" tvg-logo="https://i.imgur.com/WQiBFmo.png",ETV
 https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
