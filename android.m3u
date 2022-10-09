@@ -9,8 +9,6 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news_3Mbps.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mega.gr" tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD
 https://streamcdnh3-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1
-http://cdn.smart-tv-data.com/ant1/20220930_003000.mpeg.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.alpha.gr" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.star.gr" tvg-logo="https://i.imgur.com/zGpwulO.png",STAR HD 
