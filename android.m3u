@@ -191,6 +191,10 @@ https://vod.streams.ovh:3037/stream/play.m3u8
 https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/H0VDfpb.jpg",MESSINIA TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/GvyEZt3.png",HEAVY METAL TV
+https://v2.catcast.tv/content/33816/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/vSZaDSZ.png",EURODANCE 90s
+https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/6ujDrEN.jpg",ELLADA TV
 https://castvideo.eu:3384/live/elladalive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/sUbc38a.png",GRD CHANNEL
