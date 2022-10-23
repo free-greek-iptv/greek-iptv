@@ -223,6 +223,8 @@ https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/e4umCKP.jpg",DESTINATION GREECE TV
 https://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/umm0f3K.png",STENT TV
+https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",AVANTI TV
 https://www.youtube.com/channel/UCEjw3vWxIsFqa64wnd845zg/live
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",MILOS TV
