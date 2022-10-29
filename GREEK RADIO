@@ -348,6 +348,8 @@ http://sp3.streams.ovh:8089/stream
 http://907ioannina.live24.gr/907ioannina
 #EXTINF:0,PRISMA 91.6
 http://i3.streams.ovh:12210/;
+#EXTINF:0,Amvrakia Fm 91.9
+https://ice.streams.ovh:1195/stream
 #EXTINF:0,RADIO PREVEZA 93
 http://sc2.streamwithq.com:8072/;
 #EXTINF:0,4U RADIO 93.1
