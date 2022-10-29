@@ -74,7 +74,7 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.alert.gr" tvg-logo="https://i.imgur.com/2kVsZlv.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="channel9" tvg-logo="https://i.imgur.com/6geEIHz.png",CHANNEL 9 
-https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
+https://til.pp.ua:3391/live/channeln9live.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="epsilon" tvg-logo="https://i.imgur.com/Mc8OEAh.png",EPSILON TV
 https://edge1.mystream.gr/video427009/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="atticatv" tvg-logo="https://i.imgur.com/2UEsTok.png",ATTICA TV
@@ -92,7 +92,7 @@ https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.creta.gr" tvg-logo="https://i.imgur.com/rJgfuA2.png",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="enachannel" tvg-logo="https://i.imgur.com/Pu8TugK.png",ENA CHANNEL
-http://176.9.123.140:1935/1c/stream/master.m3u8
+https://til.pp.ua:3365/live/enachannellive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/InMKPny.png",DELTA TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.thrakinet.gr" tvg-logo="https://i.imgur.com/zkTohBm.png",THRAKINET
@@ -104,7 +104,7 @@ https://stream.net7.gr/hls/best/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.trt.gr" tvg-logo="https://i.imgur.com/7HkMP0U.png",TRT TV
 https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="messogeiostv" tvg-logo="https://i.imgur.com/GRVuuem.png",MESOGEIOS TV
-http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="epirustv1" tvg-logo="https://i.imgur.com/MaMJO96.png",EPIRUS TV1
 https://til.pp.ua:3928/live/epiruslive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="topchannel" tvg-logo="https://i.imgur.com/x1yvGGh.png",TOP CHANNEL
@@ -112,7 +112,7 @@ https://eu1.netmax-host.eu:1936/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.alfa.gr" tvg-logo="https://i.imgur.com/HeqjCJC.png",ALFA 
 http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.arttv.gr" tvg-logo="https://i.imgur.com/2UHdKw6.png",ART TV
-http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
+https://til.pp.ua:3026/live/arttvgrlive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="sirostv1" tvg-logo="https://i.imgur.com/A9o9LcG.png",SYROS TV1
 http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="diktyotv" tvg-logo="https://i.imgur.com/oApa2e1.png",DIKTYO TV
