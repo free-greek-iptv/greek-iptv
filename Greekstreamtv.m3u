@@ -267,15 +267,3 @@ http://127.0.0.1:88/https://www.twitch.tv/konitsaplustv
 http://127.0.0.1:88/https://www.twitch.tv/xtvision
 #EXTINF:2221 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="",BERGINA TV CY
 http://127.0.0.1:88/https://www.twitch.tv/verginacy
-#EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1
-http://91.132.132.129:6060/play/a00j
-#EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA
-http://91.132.132.129:6060/play/a028
-#EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha Greece" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA
-http://91.132.132.129:6060/play/a00a
-#EXTINF:700 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR
-http://91.132.132.129:6060/play/a00o
-#EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI 
-http://91.132.132.129:6060/play/a029
-#EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV
-http://91.132.132.129:6060/play/a00f
