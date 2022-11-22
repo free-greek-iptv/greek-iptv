@@ -231,6 +231,8 @@ https://www.youtube.com/channel/UCEjw3vWxIsFqa64wnd845zg/live
 http://s2.netmax-host.eu:5062/milostv/milostv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",AKTINA TV
 https://5e8dfce185af1.streamlock.net:443/AktinaWebTv/AktinaWebTv/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/K5S2wDu.jpg",FASHION TV GREECE
+https://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/0/profileManifest.m3u8?_uid=76708f3d-29e5-4326-9331-b075d3c68267&rK=eu
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/T0zL9ov.jpg",RADIO EPISTROFI
