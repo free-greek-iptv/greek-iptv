@@ -19,8 +19,6 @@ http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1europe" tvg-logo="https://i.imgur.com/lc0mZ4i.jpg",ANT1 EUROPE
 http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Es9xoFf.jpg",ANT1 PLUS
-https://antenna-quatar.akamaized.net/hls/live/2094712/elemental/quatar22.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ObjxuGj.jpg",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ORnZ4f8.png",CINEMA TIME
