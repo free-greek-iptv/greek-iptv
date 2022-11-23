@@ -269,5 +269,4 @@ http://127.0.0.1:88/https://www.twitch.tv/konitsaplustv
 http://127.0.0.1:88/https://www.twitch.tv/xtvision
 #EXTINF:2221 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="",BERGINA TV CY
 http://127.0.0.1:88/https://www.twitch.tv/verginacy
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Es9xoFf.jpg",ANT1 PLUS
-https://antenna-quatar.akamaized.net/hls/live/2094712/elemental/quatar22.m3u8
+
