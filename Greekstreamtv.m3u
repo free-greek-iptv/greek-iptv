@@ -147,10 +147,10 @@ http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 #EXTINF:5965 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/KzMe2CX.jpg",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",PLP
-https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:5048 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8 
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",PLP
+https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/6ujDrEN.jpg",ELLADA TV
@@ -267,4 +267,3 @@ http://127.0.0.1:88/https://www.twitch.tv/xtvision
 http://127.0.0.1:88/https://www.twitch.tv/verginacy
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ARTS TIME
 http://127.0.0.1:88/https://www.twitch.tv/artstime
-
