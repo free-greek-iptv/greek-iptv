@@ -267,3 +267,5 @@ http://127.0.0.1:88/https://www.twitch.tv/xtvision
 http://127.0.0.1:88/https://www.twitch.tv/verginacy
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ARTS TIME
 http://127.0.0.1:88/https://www.twitch.tv/artstime
+#EXTINF:5044 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="superb" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS WEB 
+http://127.0.0.1:88/https://www.twitch.tv/pronewstv
