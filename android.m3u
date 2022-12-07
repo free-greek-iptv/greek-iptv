@@ -174,7 +174,7 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/PoVImve.png",RED MUSIC
 http://s2.netmax-host.eu:5062/redlive/redlive/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/AmW9d6H.jpg",ZOUGLA TV
-https://zouglacam-mdc-secure.akamaized.net/zouglalive/main2/playlist.m3u8
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/wb4pLkW.jpg",TILEMOUSIKI
 http://65.108.62.57:8080/live/greekmusic.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/HmLmuTn.jpg",MGR TV
