@@ -33,6 +33,8 @@ https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/caWensC.png",BCI CINEMA
 https://channel.streams.ovh:19360/cetn/cetn.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/wzk4Y0T.png",BCI GREEK
+https://channel.streams.ovh:1936/greekcinema/greekcinema/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/9epayAc.jpg",DTV 6
 https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="smilecy" tvg-logo="https://i.imgur.com/gRbdn9n.png",SMILE TV CY
