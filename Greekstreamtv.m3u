@@ -67,6 +67,8 @@ https://s1.cystream.net/live/faros1/playlist.m3u8
 https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:3016 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="onetv" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+#EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="action24" tvg-logo="https://i.imgur.com/hNvAHzt.jpg",ACTION 24
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKH TV
 https://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_1395f0f0301a11edbe930342f38886b5/tracks-v2a1/mono.m3u8
 #EXTINF:3074 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",APT
