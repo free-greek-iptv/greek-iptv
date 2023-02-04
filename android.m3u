@@ -129,6 +129,8 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/EFTH3hP.jpg",GNOMI TV
 https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/HROWDIv.png",THESSALIA TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/thessaliatv&checkedby:iptvcat.com
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="hlektratv" tvg-logo="https://i.imgur.com/3Js5DYe.png",HLEKTRA TV
 https://stream.sy3dud.com:5443/LiveApp/streams/929478179740925265301306.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="aeolos" tvg-logo="https://i.imgur.com/1XeMRlc.png",AEOLOS TV
@@ -147,7 +149,7 @@ https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 http://s2.netmax-host.eu:5062/tvd/tvd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="kosmos" tvg-logo="https://i.imgur.com/dMavjyG.png",TV KOSMOS
 https://ssh101.bozztv.com/ssh101/tvkosmoslive/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="eurotv tvg-logo="https://i.imgur.com/TRI5hVG.png",EURO TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="eurotv" tvg-logo="https://i.imgur.com/TRI5hVG.png",EURO TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/eurochannel&checkedby:iptvcat.com
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/jwGfXtf.png",ASTRA TV
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
