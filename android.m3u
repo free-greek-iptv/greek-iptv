@@ -53,6 +53,10 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/FljMxGE.png",SIGMA CY
 https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/IUsn0jJ.png",BERGINA TV CY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/verginacy&checkedby:iptvcat.com
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/IUsn0jJ.png",RIK 1
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.anacon.org/app/chans/cy/rik1cyprus.php&checkedby:iptvcat.com
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV2 CY
@@ -65,13 +69,13 @@ https://livestream-player.digitaltv.com.cy/v1/01804bc1b4c709df730731f9d43d/01804
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/rIt5pfv.png",VOULI TV CY
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKΙ TV
+https://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_1395f0f0301a11edbe930342f38886b5/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="onetv" tvg-logo="https://i.imgur.com/ts4qd1U.png",ONE TV 
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="action24" tvg-logo="https://i.imgur.com/hNvAHzt.jpg",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKΙ TV
-https://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_1395f0f0301a11edbe930342f38886b5/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="bluesky" tvg-logo="https://i.imgur.com/JMotNwZ.png",BLUE SKY
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="bluesky" tvg-logo="https://i.imgur.com/25VWGvK.png",BLUE SKY
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x7z731p&checkedby:iptvcat.com
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.kontra.gr" tvg-logo="https://i.imgur.com/6woXJdd.png",KONTRA
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
