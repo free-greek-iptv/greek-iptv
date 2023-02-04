@@ -85,6 +85,8 @@ http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/pgh4xoa.png",TV 100
 https://live.fm100.gr/hls/tv100/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/IUsn0jJ.png",BERGINA TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/verginachannel&checkedby:iptvcat.com
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="krhthtv" tvg-logo="https://i.imgur.com/ojwSJ6l.png",KRHTH TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/YgBEKIy.png",NEA TV
