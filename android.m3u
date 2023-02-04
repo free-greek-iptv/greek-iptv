@@ -225,6 +225,8 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 https://kali.vdopanel.com:3122/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/S4u600c.jpg",KONITSA PLUS TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/konitsaplustv&checkedby:iptvcat.com
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/yYE1DB8.jpg",XTVSION
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/xtvision&checkedby:iptvcat.com
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/vSZaDSZ.png",EURODANCE 90s
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/6ujDrEN.jpg",ELLADA TV
