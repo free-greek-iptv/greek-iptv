@@ -175,6 +175,8 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 https://eu1.netmax-host.eu:1936/baraza/baraza/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Greek Hits
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV Deep House Music
+https://ssh101.bozztv.com/ssh101/music/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg",PANIK TV
