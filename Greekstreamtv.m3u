@@ -21,7 +21,7 @@ https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/55NSQ50.png",MAKEDONIA TV HD
+#EXTINF:400 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/55NSQ50.png",MAKEDONIA TV HD
 https://dlm34ll53zqql.cloudfront.net/out/v1/ab680def497d44e4864475e33e7a3efd/hls/maktv.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1europe" tvg-logo="https://i.imgur.com/lc0mZ4i.jpg",ANT1 EUROPE
 http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
