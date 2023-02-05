@@ -287,8 +287,3 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/maina
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",TEST
-#EXTVLCOPT:http-referrer=https://ssh101.com/
-https://tna5.bozztv.com/aigaiotv1/index.m3u8
-
-
