@@ -41,6 +41,8 @@ https://s1.cystream.net/live/34100/playlist.m3u8
 https://channel.streams.ovh:1936/greekcinema/greekcinema/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/caWensC.png",BCI CINEMA
 https://channel.streams.ovh:19360/cetn/cetn.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/STyrob9.jpg",CINEMA CLASSICS
+https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/9epayAc.jpg",DTV 6
 https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 #EXTINF:561210 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV CY
