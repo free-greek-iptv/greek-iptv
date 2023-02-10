@@ -41,8 +41,6 @@ https://channel.streams.ovh:19360/cetn/cetn.m3u8
 https://channel.streams.ovh:1936/greekcinema/greekcinema/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/STyrob9.jpg",CINEMA CLASSICS
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/FykRSZV.jpg",IONIA TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvioniathessalonikis&checkedby:Greektv
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/9epayAc.jpg",DTV 6
 https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="smilecy" tvg-logo="https://i.imgur.com/gRbdn9n.png",SMILE TV CY
@@ -263,6 +261,8 @@ https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/qooJiZ6.png",CRECA TV
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/OfpmvL7.png",10 CHANNEL
+https://tv.mediacp.eu:8081/10channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/umm0f3K.png",STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DcleTdR.png",GREEK VOICE 
