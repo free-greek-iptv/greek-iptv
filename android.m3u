@@ -49,12 +49,6 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/6mldIpo.png",WB KIDS
 https://d807d636299c41678ab04e3ae475f818.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-Digitaltree/0dac99ff-0171-4204-809c-c5f65a660e05/0.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SrKV4ZT.png",ZOYZOYNIA TV 1
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Gmf871DlkBE
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SrKV4ZT.png",ZOYZOYNIA TV 2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=toOOdFofPoY
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SrKV4ZT.png",ZOYZOYNIA TV 3
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-IEei-d2ZK4
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/Jjds4h5.png",ERT WORLD 
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS 
