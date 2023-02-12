@@ -287,7 +287,7 @@ https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
 http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/8bjfYod.png",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/F8lYQyg.jpg", DTP
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pyliatv
