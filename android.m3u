@@ -155,6 +155,8 @@ https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 http://s2.netmax-host.eu:5062/tvd/tvd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="arttv" tvg-logo="https://i.imgur.com/dYI1TUb.png",ART TV
 https://til.pp.ua:3026/live/arttvgrlive.m3u8
+#EXTINF:-1  group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="kosmos" tvg-logo="https://i.imgur.com/dMavjyG.png",TV KOSMOS
+https://ssh101.bozztv.com/ssh101/tvkosmoslive/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/jwGfXtf.png",ASTRA TV
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="pronews" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS
