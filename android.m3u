@@ -66,7 +66,7 @@ https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/Cdsorf6.png",ANT1 CY
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://i.imgur.com/zfcpREG.png",ALPHA CY
-https://raw.githubusercontent.com/komhsgr/m3u/main/alphacy.m3u
+https://am4.cloudskep.com/alphacyp/acy/l4/fhd/chunks.m3u8?nimblesessionid=57673629&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIzIDQ6MzI6NDIgUE0maGFzaF92YWx1ZT1sdnRmNUhSNEpjR3NRb0Zha3NMdnJBPT0mdmFsaWRtaW51dGVzPTM2MA==
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV2 CY
