@@ -157,8 +157,6 @@ https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 http://127.0.0.1:88/https://www.twitch.tv/lepantotv
 #EXTINF:5100 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/WQiBFmo.png",ETV
 https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
-#EXTINF:-5007 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="patratv" tvg-logo="",PATRA TV
-http://127.0.0.1:88/https://www.twitch.tv/patratv_
 #EXTINF:5780 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.etv.gr" tvg-logo="",ED TV
 http://s2.netmax-host.eu:5062/tvd/tvd/playlist.m3u8
 #EXTINF:5038 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ORT" tvg-logo="https://i.imgur.com/0wdqOZL.png",ORT TV
