@@ -299,6 +299,8 @@ http://127.0.0.1:88/https://www.twitch.tv/artstime
 http://127.0.0.1:88/https://www.twitch.tv/pronewstv
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",DTP
 http://127.0.0.1:88/https://www.twitch.tv/dtpylias
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ORTHODOXIA
+http://127.0.0.1:88/https://www.twitch.tv/orthodoxiaradio
 #EXTINF:5760 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="kosmos" tvg-logo="https://i.imgur.com/dMavjyG.png",TV KOSMOS
 https://ssh101.bozztv.com/ssh101/tvkosmoslive/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/qooJiZ6.png",CRECA TV
