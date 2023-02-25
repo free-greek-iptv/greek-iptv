@@ -89,6 +89,8 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:3038 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="KONTRA" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:3074 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",APT
+http://rumble.com/live-hls-dvr/286cg0/playlist.m3u8?
 #EXTINF:3034 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="HIGHTV"tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:3068 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ALERT.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
