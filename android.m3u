@@ -89,6 +89,8 @@ http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.alert.gr" tvg-logo="https://i.imgur.com/2kVsZlv.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="art" tvg-logo="https://i.imgur.com/JMotNwZ.png",ART 
+https://live-k5e12sb4.rmbl.ws/slot-52/2ryl-38xs_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="epsilon" tvg-logo="https://i.imgur.com/Mc8OEAh.png",EPSILON TV
 https://edge1.mystream.gr/video427009/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/6IhEVAt.png",4E
