@@ -86,7 +86,7 @@ https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.kontra.gr" tvg-logo="https://i.imgur.com/6woXJdd.png",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="atticatv" tvg-logo="https://i.imgur.com/1tTLWqN.jpg",ATTICA TV
-http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+http://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive_480p/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="hightv"tvg-logo="https://i.imgur.com/vDcy0RR.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.alert.gr" tvg-logo="https://i.imgur.com/2kVsZlv.png",ALERT
