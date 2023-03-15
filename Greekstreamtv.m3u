@@ -303,3 +303,5 @@ http://127.0.0.1:88/https://www.twitch.tv/tvkosmosgr
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 #EXTINF:5950 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",ASTRA TV BUP
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",ALTER TV
+http://127.0.0.1:88/https://www.twitch.tv/altertvcy
