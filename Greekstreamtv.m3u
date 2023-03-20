@@ -6,7 +6,7 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_
 #EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept3-live"tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert-news"tvg-logo="https://i.imgur.com/ujTPC3J.jpg",ERT NEWS
-http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news_3Mbps.m3u8
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
@@ -303,3 +303,5 @@ http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",ALTER TV
 http://127.0.0.1:88/https://www.twitch.tv/altertvcy
+#EXTINF:3016 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="onetv" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
+http://127.0.0.1:88/https://www.twitch.tv/onechanneltv
