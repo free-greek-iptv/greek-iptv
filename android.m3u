@@ -55,12 +55,6 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainab
 https://www.youtube.com/c/euronewsGreek/live
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI 
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/z0E8NTX.png",RIK 1 CY
-http://l6.cloudskep.com/rikcy/rik1/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/V8rpBDp.png",RIK 2 CY
-http://l6.cloudskep.com/rikcy/rik2/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/YqnI30v.png",RIK HD CY
-http://l6.cloudskep.com/rikcy/rikhd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/FljMxGE.png",SIGMA CY
