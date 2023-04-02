@@ -57,12 +57,6 @@ https://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
 https://www.youtube.com/c/euronewsGreek/live
 #EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:2222 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/z0E8NTX.png",RIK 1 CY
-http://l6.cloudskep.com/rikcy/rik1/playlist.m3u8
-#EXTINF:2223 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/V8rpBDp.png",RIK 2 CY
-http://l6.cloudskep.com/rikcy/rik2/playlist.m3u8
-#EXTINF:2224 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/YqnI30v.png",RIK HD CY
-http://l6.cloudskep.com/rikcy/rikhd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/5Ey7DYk.png",ANT1 CY
@@ -299,7 +293,5 @@ http://127.0.0.1:88/https://www.twitch.tv/tvkosmosgr
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 #EXTINF:5950 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",ASTRA TV BUP
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",ALTER TV
-http://127.0.0.1:88/https://www.twitch.tv/altertvcy
 #EXTINF:3016 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="onetv" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 http://127.0.0.1:88/https://www.twitch.tv/onechanneltv
