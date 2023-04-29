@@ -279,6 +279,8 @@ http://127.0.0.1:88/https://www.twitch.tv/thessaliatv
 http://127.0.0.1:88/https://www.twitch.tv/eurochannel
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",IONIA TV
 http://127.0.0.1:88/https://www.twitch.tv/tvioniathessalonikis
+#EXTINF:4540 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",PATRA TV
+http://127.0.0.1:88/https://www.twitch.tv/patratv_
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",KONITSA TV
 http://127.0.0.1:88/https://www.twitch.tv/konitsaplustv
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",XTV
