@@ -1,263 +1,263 @@
 #EXTM3U url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/slE8U5m.png",ERT1 HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/o4BUdoL.png",ERT2 HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/rv4JLBO.png",ERT3 HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/zGpwulO.png",STAR HD 
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/BXmta4G.png",SKAI HD 
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/55NSQ50.png",MAK. HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 COMEDY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 DRAMA
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ObjxuGj.jpg",NETMAX TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/caWensC.png",BCI CINEMA
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/wzk4Y0T.png",BCI GREEK
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5DYZihN.png",BCI CLASSIC
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ORnZ4f8.png",CINEMA TIME
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png",GALAXY GR
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5d9auiL.png",DIAVATA TV HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ADk1goe.jpg",NETV EUROPE HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/K6Glpip.png",GROOVY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/STyrob9.jpg",CINEMA CLASSICS
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="smilecy" tvg-logo="https://i.imgur.com/gRbdn9n.png",SMILE TV CY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PkCoTNY.png",KIDS TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/EUMcQhb.jpg",BCI KIDS
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SrKV4ZT.png",ZOYZOYNIA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://i.imgur.com/Jjds4h5.png",ERT WORLD 
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS 
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI 
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/Cdsorf6.png",ANT1 CY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/FljMxGE.png",SIGMA CY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV CY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV2 CY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/Vq4YBIA.png",ALFA SPORT CY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/Jo6jIP1.jpg",CITY CHANNEL
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/rIt5pfv.png",VOULI TV CY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="action24" tvg-logo="https://i.imgur.com/hNvAHzt.jpg",ACTION 24
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.kontra.gr" tvg-logo="https://i.imgur.com/6woXJdd.png",KONTRA
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="atticatv" tvg-logo="https://i.imgur.com/1tTLWqN.jpg",ATTICA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="bluesky" tvg-logo="https://i.imgur.com/Lj3W875.png",BLUE SKY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="hightv"tvg-logo="https://i.imgur.com/vDcy0RR.png",HIGH TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.alert.gr" tvg-logo="https://i.imgur.com/2kVsZlv.png",ALERT
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="4e" tvg-logo="https://i.imgur.com/6IhEVAt.png",4E
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/pgh4xoa.png",TV 100
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="krhthtv" tvg-logo="https://i.imgur.com/ojwSJ6l.png",KRHTH TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/YgBEKIy.png",NEA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.creta.gr" tvg-logo="https://i.imgur.com/rJgfuA2.png",CRETA
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="enachannel" tvg-logo="https://i.imgur.com/Pu8TugK.png",ENA CHANNEL
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/InMKPny.png",DELTA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.thrakinet.gr" tvg-logo="https://i.imgur.com/zkTohBm.png",THRAKINET
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.ionianchannel.gr" tvg-logo="https://i.imgur.com/6zvoHaL.png",IONIAN CHANNEL
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="formediatv" tvg-logo="https://i.imgur.com/KzMe2CX.jpg",FORMEDIA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="aeolos" tvg-logo="https://i.imgur.com/1XeMRlc.png",AEOLOS TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="axelwostv" tvg-logo="https://i.imgur.com/FmUun0P.png",AXELWOS TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="besttv" tvg-logo="https://i.imgur.com/sf4Twdk.png",BEST TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.trt.gr" tvg-logo="https://i.imgur.com/7HkMP0U.png",TRT TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="epirustv1" tvg-logo="https://i.imgur.com/MaMJO96.png",EPIRUS TV1
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="topchannel" tvg-logo="https://i.imgur.com/x1yvGGh.png",TOP CHANNEL
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.alfa.gr" tvg-logo="https://i.imgur.com/HeqjCJC.png",ALFA 
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="syrostv1" tvg-logo="https://i.imgur.com/A9o9LcG.png",SYROS TV1
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="diktyotv" tvg-logo="https://i.imgur.com/oApa2e1.png",DIKTYO TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="starttv" tvg-logo="https://i.imgur.com/wPw9Qzd.png",START TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="corfutv" tvg-logo="https://i.imgur.com/HME7kNk.png",CORFU CHANNEL
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="samiakitv" tvg-logo="https://i.imgur.com/3UgAcIi.png",SAMIAKI TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="tileepiloges" tvg-logo="https://i.imgur.com/SWQ3eLB.png",TILE EPILOGES
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/EFTH3hP.jpg",GNOMI TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="iridatv" tvg-logo="https://i.imgur.com/XY58h94.png",IRIDA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/WQiBFmo.png",ETV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/5KGk2yr.png",MESOGEIOS TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="edamth" tvg-logo="https://i.imgur.com/DLY2rOM.png",ED TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="arttv" tvg-logo="https://i.imgur.com/dYI1TUb.png",ART TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="pronews" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="lychnos" tvg-logo="https://i.imgur.com/PazW9yz.png",LYCHNOS
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.pella.gr" tvg-logo="https://i.imgur.com/MtfTsvf.png",PELLA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.egnatia.gr" tvg-logo="https://i.imgur.com/8SFErsS.png",EGNATIA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKΙ TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV HD 
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV HD Greek Hits
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV RELAXING
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV Deep 
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="PanikTV" tvg-logo="https://i.imgur.com/KTtobgv.png",PANIK TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/PoVImve.png",RED MUSIC
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hzaXhNV.png",NG TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6rtrnWv.png",REAL MUSIC TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/HzYwfIA.png",BCI MUSIC
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6Yr0Axp.png",CHOICE
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/faIKBRZ.png",RELOAD RADIO
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/AmW9d6H.jpg",ZOUGLA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/wb4pLkW.jpg",TILEMOUSIKI
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/HmLmuTn.jpg",MGR TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/l4Krcyk.png",PLAY TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/MronD91.png",KLIK TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/XPn3yZ7.png",MESSATIDA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/cdT9deo.jpg",XALASTRA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/kjhj78D.png",MAGIC TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/7KvlZM4.png",PRIME NEWS TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/H0VDfpb.jpg",MESSINIA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/sUbc38a.png",GRD CHANNEL
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/e4umCKP.jpg",DESTINATION GREECE TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DEjwPX1.png",IME WEB TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y0AhJTU.png",MGR TV TRAVEL
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/N6q8DgI.png",BCI TRAVEL
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ISMDiZA.jpg",BCI DOCUMENTARY
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/oX77U8o.png",BCI FOOD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/YhwbcwE.png",GREEK TV LONDON
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-name="plp" tvg-logo="https://i.imgur.com/iN9EG4c.png",PLP
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/qooJiZ6.png",CRECA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/umm0f3K.png",STENT TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DcleTdR.png",GREEK VOICE 
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/87R16eq.png",EKKLHSIA TV HD
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/svYeIxR.png",PEMPTOUSIA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cFJXqKS.png",BCI NEWS
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/WO4ilrz.jpg",AKTINA TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/8bjfYod.png",HELLENIC TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS TV
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/6nNNRoS.png",ELLINIKOS FM
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/OfpmvL7.png",10 CHANNEL
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3UTMBVx.jpg",TV FILOPOLI
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 2
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="SPORT" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 F1
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/w4lIGYn.png",HORSE RACES
-https://resources.greektv.app/promo/greektvpromo.mp4
+https://assets.greektv.app/promo/greektvpromo.mp4
